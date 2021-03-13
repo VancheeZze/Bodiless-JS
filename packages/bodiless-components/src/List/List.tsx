@@ -81,17 +81,16 @@ const ListBase: FC<ListBaseProps> = ({
   );
 
   // Iterate over all items in the list creating list items.
-  const itemElements = items.map((currentItem, i) => {
-    return (
-      <ListContext.Provider key={currentItem} value={contextValues[i]}>
-        <ListItemNodeProvider nodeKey={currentItem}>
-          <Item>
-            <Title />
-          </Item>
-        </ListItemNodeProvider>
-      </ListContext.Provider>
-    );
-  });
+  const itemElements = items.map((currentItem, i) => (
+    <ListContext.Provider key={currentItem} value={contextValues[i]}>
+      <ListItemNodeProvider nodeKey={currentItem}>
+        <Item>
+          <Title />
+        </Item>
+      </ListItemNodeProvider>
+    </ListContext.Provider>
+  ));
+
   return (
     <Wrapper {...rest}>
       {itemElements}
