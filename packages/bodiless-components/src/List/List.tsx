@@ -16,6 +16,7 @@ import React, {
   Fragment,
   ComponentType,
   FC,
+  useMemo,
 } from 'react';
 import { flow } from 'lodash';
 import { observer } from 'mobx-react-lite';
@@ -62,19 +63,27 @@ const ListBase: FC<ListBaseProps> = ({
     ...appendItems,
   ];
 
-  // Iterate over all items in the list creating list items.
-  const itemElements = items.map(currentItem => {
-    const value: ListContextValue = { items, currentItem };
-    // Only add data handlers to items that come from data.
-    if (dataItems.includes(currentItem)) {
-      value.addItem = () => addItem(currentItem);
-      // Only add a delete handler if there are more than one item or list has unwrap handler.
-      if (dataItems.length > 1 || unwrap) {
-        value.deleteItem = () => deleteItem(currentItem);
+  // We memoize the whole array to avoid conditional hooks...
+  const contextValues: ListContextValue[] = useMemo(
+    () => items.map(currentItem => {
+      const value: ListContextValue = { items, currentItem };
+      // Only add data handlers to items that come from data.
+      if (dataItems.includes(currentItem)) {
+        value.addItem = () => addItem(currentItem);
+        // Only add a delete handler if there are more than one item or list has unwrap handler.
+        if (dataItems.length > 1 || unwrap) {
+          value.deleteItem = () => deleteItem(currentItem);
+        }
       }
-    }
+      return value;
+    }),
+    [dataItems, prependItems, appendItems],
+  );
+
+  // Iterate over all items in the list creating list items.
+  const itemElements = items.map((currentItem, i) => {
     return (
-      <ListContext.Provider key={currentItem} value={value}>
+      <ListContext.Provider key={currentItem} value={contextValues[i]}>
         <ListItemNodeProvider nodeKey={currentItem}>
           <Item>
             <Title />

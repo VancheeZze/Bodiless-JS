@@ -19,7 +19,7 @@ import {
 } from '@bodiless/core';
 import { v1 } from 'uuid';
 
-import { withFinalDesign, withoutProps } from '@bodiless/fclasses';
+import { withFinalDesign } from '@bodiless/fclasses';
 import { flow } from 'lodash';
 import { UseListOverrides } from './types';
 import { useListContext } from './List';
@@ -54,7 +54,7 @@ const useMenuOptions = (useOverrides: UseListOverrides = () => ({})) => (props: 
       name: `add-${id}`,
       icon: 'add',
       label: 'Add',
-      isDisbled: !addItem,
+      isDisabled: !addItem,
       handler: addItem as TMenuOption['handler'] || (() => undefined),
       global,
       local,
@@ -77,7 +77,7 @@ const useMenuOptions = (useOverrides: UseListOverrides = () => ({})) => (props: 
       local,
       Component: 'group',
     },
-  ]), []);
+  ]), [addItem, deleteItem]);
 
   return menuOptions;
 };
@@ -88,7 +88,6 @@ const useMenuOptions = (useOverrides: UseListOverrides = () => ({})) => (props: 
 const withListButtons = (useOverrides?: UseListOverrides) => ifEditable(
   withFinalDesign({
     Item: flow(
-      withoutProps(['addItem', 'deleteItem', 'canDelete', 'unwrap']),
       withContextActivator('onClick'),
       withLocalContextMenu,
       withMenuOptions({
