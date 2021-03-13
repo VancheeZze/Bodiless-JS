@@ -67,14 +67,19 @@ const ListBase: FC<ListBaseProps> = ({
   const contextValues: ListContextValue[] = useMemo(
     () => items.map(currentItem => {
       const value: ListContextValue = { items, currentItem };
-      // Only add data handlers to items that come from data.
-      if (dataItems.includes(currentItem)) {
+      // Can only insert items after items that come from data or after the final prepend item.
+      if (dataItems.includes(currentItem)
+        || currentItem === prependItems[prependItems.length - 1]
+      ) {
         value.addItem = () => addItem(currentItem);
-        // Only add a delete handler if there are more than one item or list has unwrap handler.
-        if (dataItems.length > 1 || unwrap) {
-          value.deleteItem = () => deleteItem(currentItem);
-        }
       }
+      // Can only delete items which are not static and only if it would not empty the list.
+      if (dataItems.includes(currentItem)
+        && (dataItems.length > 1 || unwrap || items.length > dataItems.length)
+      ) {
+        value.deleteItem = () => deleteItem(currentItem);
+      }
+
       return value;
     }),
     [dataItems, prependItems, appendItems],

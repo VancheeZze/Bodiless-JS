@@ -36,6 +36,13 @@ describe('List', () => {
     }),
   )(List);
 
+  const TestListWithOneElement = flow(
+    withMockNode({ items: ['data-a'] }),
+    withDesign({
+      Title: replaceWith(ListContextPrinter),
+    }),
+  )(List);
+
   describe('Prepend/append items', () => {
     it('adds the specified static items', () => {
       const wrapper = render(<TestList prependItems={['prepend']} appendItems={['append']} />);
@@ -45,22 +52,39 @@ describe('List', () => {
       expect(wrapper.find('ul>li:last-child>span').attr('data-node-path')).toBe('append');
       expect(wrapper.find('ul>li:first-child>span').attr('data-items')).toBe('prepend,data-a,data-b,append');
     });
-    it('Does not provide data handlers for the static items', () => {
-      const wrapper = render(<TestList prependItems={['prepend']} appendItems={['append']} />);
+
+    it('Does not provide data handlers for the static items (except last prepend)', () => {
+      const wrapper = render(<TestList prependItems={['prepend', 'prepend-2']} appendItems={['append']} />);
       expect(wrapper.find('span[data-item="prepend"] button')).toHaveLength(0);
+      expect(wrapper.find('span[data-item="prepend-2"] button[data-add-item="true"]')).toHaveLength(1);
+      expect(wrapper.find('span[data-item="prepend-2"] button[data-delete-item="true"]')).toHaveLength(0);
       expect(wrapper.find('span[data-item="data-a"] button')).toHaveLength(2);
       expect(wrapper.find('span[data-item="append"] button')).toHaveLength(0);
+    });
+
+    it('Allows deleting last item when there are prepended items', () => {
+      const wrapper = render(<TestListWithOneElement prependItems={['prepend']} />);
+      expect(wrapper.find('span[data-item="data-a"] button[data-delete-item="true"]')).toHaveLength(1);
+    });
+
+    it('Allows deleting last item when there are appended items', () => {
+      const wrapper = render(<TestListWithOneElement appendItems={['append']} />);
+      expect(wrapper.find('span[data-item="data-a"] button[data-delete-item="true"]')).toHaveLength(1);
+    });
+
+    it('Invokes unwrap handler when deleting item even with prepend', () => {
+      const unwrap = jest.fn();
+      const wrapper = mount(<TestListWithOneElement unwrap={unwrap} prependItems={['prepend']} />);
+      const deleteButton = wrapper.find('span[data-item="data-a"] button[data-delete-item=true]');
+      expect(deleteButton.length).toBe(1);
+      deleteButton.simulate('click');
+      const newItems = TestListWithOneElement.node.setData.mock.calls[0][0].items;
+      expect(newItems).toEqual([]);
+      expect(unwrap).toBeCalled();
     });
   });
 
   describe('List context', () => {
-    const TestListWithOneElement = flow(
-      withMockNode({ items: ['data-a'] }),
-      withDesign({
-        Title: replaceWith(ListContextPrinter),
-      }),
-    )(List);
-
     beforeEach(() => {
       jest.clearAllMocks();
     });

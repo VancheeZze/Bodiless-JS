@@ -40,7 +40,7 @@ const SuperSimpleList = flow(
 )('ul');
 
 const ListWithPrependAndContextualStyles = flow(
-  addProps({ prependItems: ['prepend'] }) as HOC,
+  addProps({ prependItems: ['prepend', 'prepend-2'] }) as HOC,
   withDesign({
     Title: flowIf(() => useListContext().currentItem === 'prepend')(
       replaceWith(() => <span>This item cannot be edited</span>),
