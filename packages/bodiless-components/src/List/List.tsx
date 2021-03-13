@@ -16,47 +16,35 @@ import React, {
   Fragment,
   ComponentType,
   FC,
-  PropsWithChildren,
 } from 'react';
 import { flow } from 'lodash';
 import { observer } from 'mobx-react-lite';
-import { withNode, withOnlyProps } from '@bodiless/core';
+import { withNode } from '@bodiless/core';
 import {
   designable, asComponent, addProps, withDesign,
 } from '@bodiless/fclasses';
 import { useItemsMutators, useItemsAccessors } from './model';
 import {
-  Props, FinalProps, ListDesignableComponents, ItemProps,
+  ListBaseProps, ListProps, ListComponents, ListContextValue,
 } from './types';
 
-const NodeProvider = withNode<PropsWithChildren<{}>, any>(Fragment);
-type ItemWithNodeProps = {
-  nodeKey: string,
-  component: ComponentType<any> | string,
-};
+const ListContext = React.createContext<ListContextValue>({});
+const useListContext = () => React.useContext(ListContext);
 
-const ItemWithNode: FC<ItemWithNodeProps&ItemProps> = props => {
-  const { nodeKey, component: Component, ...rest } = props;
-  return (
-    <NodeProvider nodeKey={nodeKey}>
-      <Component {...rest} />
-    </NodeProvider>
-  );
-};
+const ListItemNodeProvider = withNode<any, any>(Fragment);
 
-const startComponents: ListDesignableComponents = {
+const listComponents: ListComponents = {
   Wrapper: asComponent('ul'),
   Item: asComponent('li'),
-  // For title we have to strip the props if not wrapped.
-  Title: withOnlyProps('key', 'children')(Fragment),
-  ItemMenuOptionsProvider: Fragment,
+  Title: Fragment,
 };
 
-const BasicList: FC<Props> = ({
+const ListBase: FC<ListBaseProps> = ({
   components,
   unwrap,
   onDelete,
-  children,
+  prependItems = [],
+  appendItems = [],
   ...rest
 }) => {
   const {
@@ -67,38 +55,37 @@ const BasicList: FC<Props> = ({
 
   const { addItem, deleteItem } = useItemsMutators({ unwrap, onDelete });
   const { getItems } = useItemsAccessors();
-  const itemData = getItems();
-  const canDelete = () => Boolean(getItems().length > 1 || unwrap);
-
-  const childItems = React.Children.toArray(children).filter(Boolean).map(child => (
-    <Item
-      // @TODO should we disable the add button, or should it add an item after all children?
-      addItem={() => undefined}
-      deleteItem={() => undefined}
-      canDelete={() => false}
-      key={`child-item-${child}`}
-    >
-      {child}
-    </Item>
-  ));
+  const dataItems = getItems();
+  const items = [
+    ...prependItems,
+    ...dataItems,
+    ...appendItems,
+  ];
 
   // Iterate over all items in the list creating list items.
-  const items = itemData.map(item => (
-    <ItemWithNode
-      component={Item}
-      key={item}
-      nodeKey={item}
-      addItem={() => addItem(item)}
-      deleteItem={() => deleteItem(item)}
-      canDelete={canDelete}
-    >
-      <Title />
-    </ItemWithNode>
-  ));
+  const itemElements = items.map(currentItem => {
+    const value: ListContextValue = { items, currentItem };
+    // Only add data handlers to items that come from data.
+    if (dataItems.includes(currentItem)) {
+      value.addItem = () => addItem(currentItem);
+      // Only add a delete handler if there are more than one item or list has unwrap handler.
+      if (dataItems.length > 1 || unwrap) {
+        value.deleteItem = () => deleteItem(currentItem);
+      }
+    }
+    return (
+      <ListContext.Provider key={currentItem} value={value}>
+        <ListItemNodeProvider nodeKey={currentItem}>
+          <Item>
+            <Title />
+          </Item>
+        </ListItemNodeProvider>
+      </ListContext.Provider>
+    );
+  });
   return (
     <Wrapper {...rest}>
-      {childItems}
-      {items}
+      {itemElements}
     </Wrapper>
   );
 };
@@ -114,10 +101,10 @@ const asTestableList = (listName: string) => withDesign({
  */
 const List = flow(
   observer,
-  designable(startComponents, 'List'),
+  designable(listComponents, 'List'),
   withNode,
-)(BasicList) as ComponentType<FinalProps>;
+)(ListBase) as ComponentType<ListProps>;
 List.displayName = 'List';
 
 export default List;
-export { asTestableList };
+export { asTestableList, useListContext };
