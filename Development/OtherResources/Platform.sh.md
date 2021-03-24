@@ -1,1 +1,0 @@
-../../../../../packages/bodiless-psh/README.md

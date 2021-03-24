@@ -1,1 +1,3 @@
-../../../../../packages/bodiless-documentation/doc/Development/Architecture/README.md
+# Architecture
+
+This section describes the basic architecture of the BodilessJS system.

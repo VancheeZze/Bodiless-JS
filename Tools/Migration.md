@@ -1,1 +1,0 @@
-../../../../packages/bodiless-migration-tool/doc/Technical/MigrationTool.md
