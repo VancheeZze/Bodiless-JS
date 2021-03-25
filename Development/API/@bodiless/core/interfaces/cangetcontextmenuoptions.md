@@ -20,4 +20,4 @@
 
 • **contextMenuOptions**: *[TMenuOption](../globals.md#tmenuoption)[]*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:46](https://github.com/VancheeZze/Bodiless-JS/blob/f40d23dd/packages/bodiless-core/src/PageEditContext/types.ts#L46)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:46](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/types.ts#L46)*

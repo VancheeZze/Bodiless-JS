@@ -23,7 +23,7 @@
 
 • **getMenuOptions**? : *undefined | function*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:52](https://github.com/VancheeZze/Bodiless-JS/blob/f40d23dd/packages/bodiless-core/src/PageEditContext/types.ts#L52)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:52](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/types.ts#L52)*
 
 ___
 
@@ -31,7 +31,7 @@ ___
 
 • **id**: *string*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:49](https://github.com/VancheeZze/Bodiless-JS/blob/f40d23dd/packages/bodiless-core/src/PageEditContext/types.ts#L49)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:49](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/types.ts#L49)*
 
 ___
 
@@ -39,7 +39,7 @@ ___
 
 • **name**? : *undefined | string*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:50](https://github.com/VancheeZze/Bodiless-JS/blob/f40d23dd/packages/bodiless-core/src/PageEditContext/types.ts#L50)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:50](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/types.ts#L50)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **type**? : *undefined | string*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:51](https://github.com/VancheeZze/Bodiless-JS/blob/f40d23dd/packages/bodiless-core/src/PageEditContext/types.ts#L51)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:51](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/types.ts#L51)*

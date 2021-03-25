@@ -23,7 +23,7 @@
 
 \+ **new Tag**(`name`: string): *[Tag](tag.md)*
 
-*Defined in [packages/bodiless-core/src/components/ReactTagsField.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/f40d23dd/packages/bodiless-core/src/components/ReactTagsField.tsx#L23)*
+*Defined in [packages/bodiless-core/src/components/ReactTagsField.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/components/ReactTagsField.tsx#L23)*
 
 **Parameters:**
 
@@ -39,7 +39,7 @@ Name | Type | Default |
 
 • **id**: *string* = v4()
 
-*Defined in [packages/bodiless-core/src/components/ReactTagsField.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/f40d23dd/packages/bodiless-core/src/components/ReactTagsField.tsx#L21)*
+*Defined in [packages/bodiless-core/src/components/ReactTagsField.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/components/ReactTagsField.tsx#L21)*
 
 ___
 
@@ -47,4 +47,4 @@ ___
 
 • **name**: *string* = ""
 
-*Defined in [packages/bodiless-core/src/components/ReactTagsField.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/f40d23dd/packages/bodiless-core/src/components/ReactTagsField.tsx#L23)*
+*Defined in [packages/bodiless-core/src/components/ReactTagsField.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/components/ReactTagsField.tsx#L23)*
