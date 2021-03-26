@@ -24,7 +24,7 @@ const withBreadcrumbsSD = (Component: ComponentType<BreadcrumbsProps>) => (
   const breadcrumbItems = store
     ? store.breadcrumbTrail.map((item, index) => ({
       '@type': 'ListItem',
-      // We increment in 2 because to accomodate +1 for index offset ( starts from 0 )
+      // We increment in 2 to accomodate +1 for the index offset ( starts from 0 )
       // and +1 for the first trial (not included in breadcrumbTrail).
       position: index + 2,
       name: item.title.data,

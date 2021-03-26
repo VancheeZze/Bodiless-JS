@@ -89,7 +89,7 @@ const BreadcrumbsClean$ = (props: CleanBreadcrumbsProps) => {
         <React.Fragment key={item.uuid}>
           <Item position={position$} isCurrentPage={isCurrentPage}>
             <ItemNodeProvider nodeKey={item.nodeKey} nodeCollection={item.nodeCollection}>
-              <TitleWithNoLink position={position$} />
+              <TitleWithNoLink />
             </ItemNodeProvider>
           </Item>
         </React.Fragment>
@@ -99,7 +99,7 @@ const BreadcrumbsClean$ = (props: CleanBreadcrumbsProps) => {
       <React.Fragment key={item.uuid}>
         <Item position={position$} isCurrentPage={isCurrentPage}>
           <ItemNodeProvider nodeKey={item.nodeKey} nodeCollection={item.nodeCollection}>
-            <Title position={position$} />
+            <Title />
           </ItemNodeProvider>
         </Item>
         {!isLastItem && <Separator key={`separator${item.uuid}`} />}
@@ -113,7 +113,7 @@ const BreadcrumbsClean$ = (props: CleanBreadcrumbsProps) => {
         && (
         <>
           <Item position={1} isCurrentPage={false} key="startingTrail">
-            <StartingTrail position={1} />
+            <StartingTrail />
           </Item>
           { (items$.length > 0 || hasFinalTrail$)
             && <Separator key="startingTrailSeparator" />}
@@ -126,7 +126,7 @@ const BreadcrumbsClean$ = (props: CleanBreadcrumbsProps) => {
           { items$.length > 0
             && <Separator key="finalTrailSeparator" />}
           <Item key="finalTrail" position={finalTrailItemPosition} isCurrentPage={false}>
-            <FinalTrail position={finalTrailItemPosition} />
+            <FinalTrail />
           </Item>
         </>
         )}
