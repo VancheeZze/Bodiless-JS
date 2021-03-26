@@ -13,82 +13,28 @@
  */
 
 /* eslint-disable jsx-a11y/anchor-is-valid */
-import React, { ComponentType, HTMLProps } from 'react';
+import React, { ComponentType } from 'react';
 import { useNode, withoutProps, withNode } from '@bodiless/core';
 import type { WithNodeProps } from '@bodiless/core';
 import {
   asComponent, designable, addProps, Fragment, withDesign, replaceWith,
 } from '@bodiless/fclasses';
-import type { DesignableComponentsProps } from '@bodiless/fclasses';
 import { observer } from 'mobx-react-lite';
 import { flowRight } from 'lodash';
-import type { BreadcrumbItemType as BreadcrumbStoreItemType } from './BreadcrumbStore';
 import { useBreadcrumbStore } from './BreadcrumbStoreProvider';
 import { asStylableBreadcrumbs } from './Breadcrumb.token';
 
+import withBreadcrumbsSD from './withBreadcrumbsStructuredData';
 import MenuTitle from '../Menu/MenuTitles';
 
-type BreadcrumbsComponents = {
-  StartingTrail: ComponentType<any>,
-  Separator: ComponentType<HTMLProps<HTMLSpanElement>>,
-  Wrapper: ComponentType<HTMLProps<HTMLUListElement>>,
-  Item: ComponentType<HTMLProps<HTMLLIElement> & {
-    position: number;
-    isCurrentPage: boolean;
-  }>,
-  Title: ComponentType<any>,
-  FinalTrail: ComponentType<any>,
-};
-
-type CleanBreadcrumbItemType = {
-  uuid: string | number;
-  position: number;
-  isCurrentPage: boolean;
-} & WithNodeProps;
-
-/**
- * contains breadcrumb item public properties
-*/
-type BreadcrumbItemType = Pick<BreadcrumbStoreItemType, 'uuid' | 'title' | 'link' | 'isFirst' | 'hasPath'>;
-
-/**
- * reduces items retrieved from breadcrumb store
- *
- * @param items - a list of items retrieved from store
- * @param props - props passed to breadcrumb component
- *
- * @returns uuids - a collection of breadcrumb item uuids
- */
-type BreadcrumbStoreItemsReducer = (
-  items: BreadcrumbItemType[],
-  props?: Pick<BreadcrumbsProps, 'hasStartingTrail' | 'hasFinalTrail'>,
-) => string[];
-
-type BreadcrumbsProps = DesignableComponentsProps<BreadcrumbsComponents> & {
-  /**
-   * whether starting custom item is enabled and should be rendered
-   * default: disabled
-   */
-  hasStartingTrail?: boolean | (() => boolean),
-  /**
-   * list of breadcrumb items to render
-   */
-  items?: CleanBreadcrumbItemType[],
-  /**
-   * whether final custom item is enabled and should be rendered
-   */
-  hasFinalTrail?: boolean | (() => boolean),
-  /**
-   * allows to reduce items retrieved from breadcrumb store
-   * default: firstItemHomeLinkReducer
-   */
-  itemsReducer?: BreadcrumbStoreItemsReducer,
-  /**
-   * whether the last breadcrumb item should not be rendered as a link
-   * default: false
-   */
-  renderLastItemWithoutLink?: boolean | (() => boolean),
-} & { };
+import type {
+  BreadcrumbsComponents,
+  BreadcrumbsProps,
+  CleanBreadcrumbsProps,
+  BreadcrumbItemType,
+  CleanBreadcrumbItemType,
+  BreadcrumbStoreItemsReducer,
+} from './types';
 
 /**
  * removes first item from the trail
@@ -102,14 +48,13 @@ type BreadcrumbsProps = DesignableComponentsProps<BreadcrumbsComponents> & {
  */
 const firstItemHomeLinkReducer = (
   items: BreadcrumbItemType[],
-  { hasStartingTrail }: Pick<BreadcrumbsProps, 'hasStartingTrail' | 'hasFinalTrail'>,
+  { hasStartingTrail }: Pick<BreadcrumbsProps, 'hasStartingTrail'>,
 ) => items
   .filter(item => !(hasStartingTrail && item.isFirst() && item.hasPath('/')))
   .map(item => item.uuid);
 
 const ItemNodeProvider = withNode(Fragment) as ComponentType<WithNodeProps>;
 
-type CleanBreadcrumbsProps = Omit<BreadcrumbsProps, 'itemsReducer'>;
 const BreadcrumbsClean$ = (props: CleanBreadcrumbsProps) => {
   const {
     hasStartingTrail = false,
@@ -144,7 +89,7 @@ const BreadcrumbsClean$ = (props: CleanBreadcrumbsProps) => {
         <React.Fragment key={item.uuid}>
           <Item position={position$} isCurrentPage={isCurrentPage}>
             <ItemNodeProvider nodeKey={item.nodeKey} nodeCollection={item.nodeCollection}>
-              <TitleWithNoLink />
+              <TitleWithNoLink position={position$} />
             </ItemNodeProvider>
           </Item>
         </React.Fragment>
@@ -154,7 +99,7 @@ const BreadcrumbsClean$ = (props: CleanBreadcrumbsProps) => {
       <React.Fragment key={item.uuid}>
         <Item position={position$} isCurrentPage={isCurrentPage}>
           <ItemNodeProvider nodeKey={item.nodeKey} nodeCollection={item.nodeCollection}>
-            <Title />
+            <Title position={position$} />
           </ItemNodeProvider>
         </Item>
         {!isLastItem && <Separator key={`separator${item.uuid}`} />}
@@ -168,7 +113,7 @@ const BreadcrumbsClean$ = (props: CleanBreadcrumbsProps) => {
         && (
         <>
           <Item position={1} isCurrentPage={false} key="startingTrail">
-            <StartingTrail />
+            <StartingTrail position={1} />
           </Item>
           { (items$.length > 0 || hasFinalTrail$)
             && <Separator key="startingTrailSeparator" />}
@@ -181,7 +126,7 @@ const BreadcrumbsClean$ = (props: CleanBreadcrumbsProps) => {
           { items$.length > 0
             && <Separator key="finalTrailSeparator" />}
           <Item key="finalTrail" position={finalTrailItemPosition} isCurrentPage={false}>
-            <FinalTrail />
+            <FinalTrail position={finalTrailItemPosition} />
           </Item>
         </>
         )}
@@ -212,8 +157,8 @@ const BreadcrumbsClean = designable(BreadcrumbStartComponents, 'Breadcrumbs')(Br
  * @param Component a breadcrumb based component
  */
 // eslint-disable-next-line max-len
-const withBreadcrumbItemsFromStore = (Component: ComponentType<BreadcrumbsProps & WithNodeProps>) => {
-  const WithBreadcrumbItemsFromStore = (props: BreadcrumbsProps & WithNodeProps) => {
+const withBreadcrumbItemsFromStore = (Component: ComponentType<BreadcrumbsProps>) => {
+  const WithBreadcrumbItemsFromStore = (props: BreadcrumbsProps) => {
     const {
       nodeCollection,
       hasStartingTrail = false,
@@ -226,7 +171,7 @@ const withBreadcrumbItemsFromStore = (Component: ComponentType<BreadcrumbsProps 
     if (store === undefined) return <Component {...props} />;
     const { node } = useNode(nodeCollection);
     const basePath = node.path;
-    const items = itemsReducer(store.breadcrumbTrail, { hasStartingTrail, hasFinalTrail })
+    const items = itemsReducer(store.breadcrumbTrail, { hasStartingTrail })
       .map(uuid => store.getItem(uuid))
       // map items retrieved from store
       // into items expected by base breadcrumb component
@@ -311,6 +256,7 @@ const asBreadcrumbs = flowRight(
   observer,
   withBreadcrumbItemsFromStore,
   asStylableBreadcrumbs,
+  withBreadcrumbsSD,
 );
 
 /**
