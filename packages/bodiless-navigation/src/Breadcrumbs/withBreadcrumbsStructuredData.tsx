@@ -21,7 +21,7 @@ import type { BreadcrumbsProps } from './types';
 // We need a full url in the breadcrumbs LD item.
 const generateUrl = (url: string) => (
   typeof window !== 'undefined'
-    ? path.join(window.location.hostname, url)
+    ? path.join(window.location.origin, url)
     : url
 );
 
