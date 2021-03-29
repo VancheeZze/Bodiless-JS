@@ -13,14 +13,15 @@
  */
 
 import { flow } from 'lodash';
-import { WithNodeKeyProps } from '@bodiless/core';
+import { WithNodeKeyProps, withNode } from '@bodiless/core';
 import { asBodilessList, asStylableList, asChameleonSubList } from '@bodiless/components';
 import { withDesign } from '@bodiless/fclasses';
 
 import type { UseListOverrides, ListData } from '@bodiless/components';
 
 import withMenuContext from './withMenuContext';
-import { asMenuTitle, asBreadcrumbSource } from './MenuTitles';
+import { asMenuTitle, DEFAULT_NODE_KEYS } from './MenuTitles';
+import { asBreadcrumbSource, asBreadcrumb } from '../Breadcrumbs';
 
 const withChameleonSublist = withDesign({
   Item: asChameleonSubList(() => ({ formTitle: 'Sub-Menu Type' })),
@@ -52,7 +53,11 @@ const asBodilessMenu = <P extends object>(
     asStylableList,
     withMenuContext,
     withDesign({ Title: asMenuTitle }),
+    withDesign({
+      Item: asBreadcrumb(DEFAULT_NODE_KEYS),
+    }),
     asBreadcrumbSource,
+    withNode,
   );
 
 export default asBodilessMenu;
