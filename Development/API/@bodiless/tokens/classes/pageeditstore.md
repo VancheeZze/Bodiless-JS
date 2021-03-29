@@ -48,7 +48,7 @@
 
 \+ **new PageEditStore**(`activeContext?`: [PageEditContextInterface](../interfaces/pageeditcontextinterface.md)): *[PageEditStore](pageeditstore.md)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:73](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L73)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:73](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L73)*
 
 **Parameters:**
 
@@ -66,7 +66,7 @@ Name | Type |
 
 *Implementation of [PageEditStoreInterface](../interfaces/pageeditstoreinterface.md).[activeContext](../interfaces/pageeditstoreinterface.md#activecontext)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L46)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L46)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 *Implementation of [PageEditStoreInterface](../interfaces/pageeditstoreinterface.md).[areLocalTooltipsDisabled](../interfaces/pageeditstoreinterface.md#arelocaltooltipsdisabled)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:175](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L175)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:175](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L175)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 *Implementation of [PageEditStoreInterface](../interfaces/pageeditstoreinterface.md).[isEdit](../interfaces/pageeditstoreinterface.md#isedit)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L48)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L48)*
 
 ___
 
@@ -96,7 +96,7 @@ ___
 
 *Implementation of [PageEditStoreInterface](../interfaces/pageeditstoreinterface.md).[isPositionToggled](../interfaces/pageeditstoreinterface.md#ispositiontoggled)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L50)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L50)*
 
 ___
 
@@ -106,7 +106,7 @@ ___
 
 *Implementation of [PageEditStoreInterface](../interfaces/pageeditstoreinterface.md).[optionMap](../interfaces/pageeditstoreinterface.md#optionmap)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:60](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L60)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:60](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L60)*
 
 ## Accessors
 
@@ -114,7 +114,7 @@ ___
 
 • **get contextMenuOptions**(): *[TMenuOption](../globals.md#tmenuoption)[]*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:136](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L136)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:136](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L136)*
 
 **Returns:** *[TMenuOption](../globals.md#tmenuoption)[]*
 
@@ -124,7 +124,7 @@ ___
 
 • **get contextTrail**(): *string[]*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:167](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L167)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:167](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L167)*
 
 **Returns:** *string[]*
 
@@ -134,7 +134,7 @@ ___
 
 ▸ **reset**(): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:62](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L62)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:62](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L62)*
 
 **Returns:** *void*
 
@@ -146,7 +146,7 @@ ___
 
 *Implementation of [PageEditStoreInterface](../interfaces/pageeditstoreinterface.md)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:82](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L82)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:82](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L82)*
 
 **Parameters:**
 
@@ -162,7 +162,7 @@ ___
 
 ▸ **toggleEdit**(`on?`: undefined | false | true): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:147](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L147)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:147](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L147)*
 
 **Parameters:**
 
@@ -178,7 +178,7 @@ ___
 
 ▸ **toggleLocalTooltipsDisabled**(`isDisabled?`: undefined | false | true): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:177](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L177)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:177](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L177)*
 
 **Parameters:**
 
@@ -194,7 +194,7 @@ ___
 
 ▸ **togglePosition**(`on?`: undefined | false | true): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:157](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L157)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:157](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L157)*
 
 **Parameters:**
 
@@ -210,7 +210,7 @@ ___
 
 ▸ **updateMenuOptions**(`context`: [PageEditContextInterface](../interfaces/pageeditcontextinterface.md)): *string[]*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:103](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L103)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:103](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L103)*
 
 **Parameters:**
 
@@ -228,14 +228,14 @@ Name | Type |
 
 *Implementation of [PageEditStoreInterface](../interfaces/pageeditstoreinterface.md).[pageOverlay](../interfaces/pageeditstoreinterface.md#pageoverlay)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L52)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L52)*
 
 ###  timeoutId
 
 • **timeoutId**: *number* = 0
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:56](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L56)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:56](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L56)*
 
 ▪ **data**: *object*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-core/src/PageEditContext/Store.tsx#L53)*
+*Defined in [packages/bodiless-core/src/PageEditContext/Store.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/Store.tsx#L53)*

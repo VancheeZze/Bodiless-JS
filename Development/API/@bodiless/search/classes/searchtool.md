@@ -35,7 +35,7 @@ Search function helper class
 
 \+ **new SearchTool**(`config?`: [TSearchConf](../globals.md#tsearchconf)): *[SearchTool](searchtool.md)*
 
-*Defined in [packages/bodiless-search/src/SearchTool.ts:36](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-search/src/SearchTool.ts#L36)*
+*Defined in [packages/bodiless-search/src/SearchTool.ts:36](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/SearchTool.ts#L36)*
 
 **Parameters:**
 
@@ -51,7 +51,7 @@ Name | Type |
 
 • **searchEngine**: *[SearchEngineInterface](../interfaces/searchengineinterface.md)*
 
-*Defined in [packages/bodiless-search/src/SearchTool.ts:36](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-search/src/SearchTool.ts#L36)*
+*Defined in [packages/bodiless-search/src/SearchTool.ts:36](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/SearchTool.ts#L36)*
 
 ## Methods
 
@@ -59,7 +59,7 @@ Name | Type |
 
 ▸ **filesToDocument**(`filePaths`: string[], `sourcePath`: string): *[TDocument](../globals.md#tdocument)[]*
 
-*Defined in [packages/bodiless-search/src/SearchTool.ts:85](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-search/src/SearchTool.ts#L85)*
+*Defined in [packages/bodiless-search/src/SearchTool.ts:85](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/SearchTool.ts#L85)*
 
 Returns index document created with given files.
 
@@ -78,7 +78,7 @@ ___
 
 ▸ **findSourceFiles**(`settings`: object): *string[]*
 
-*Defined in [packages/bodiless-search/src/SearchTool.ts:65](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-search/src/SearchTool.ts#L65)*
+*Defined in [packages/bodiless-search/src/SearchTool.ts:65](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/SearchTool.ts#L65)*
 
 **Parameters:**
 
@@ -97,7 +97,7 @@ ___
 
 ▸ **generateIndex**(`settings`: [TSearchIndexSettings](../globals.md#tsearchindexsettings)): *void*
 
-*Defined in [packages/bodiless-search/src/SearchTool.ts:42](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-search/src/SearchTool.ts#L42)*
+*Defined in [packages/bodiless-search/src/SearchTool.ts:42](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/SearchTool.ts#L42)*
 
 **Parameters:**
 
@@ -113,7 +113,7 @@ ___
 
 ▸ **htmlToDocument**(`html`: string, `selector`: string, `exclude`: string): *[TDocument](../globals.md#tdocument)*
 
-*Defined in [packages/bodiless-search/src/SearchTool.ts:117](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-search/src/SearchTool.ts#L117)*
+*Defined in [packages/bodiless-search/src/SearchTool.ts:117](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/SearchTool.ts#L117)*
 
 Create index document from HTML content.
 
@@ -133,7 +133,7 @@ ___
 
 ▸ **setSearchEngine**(`searchEngine`: [SearchEngineInterface](../interfaces/searchengineinterface.md)): *void*
 
-*Defined in [packages/bodiless-search/src/SearchTool.ts:61](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/bodiless-search/src/SearchTool.ts#L61)*
+*Defined in [packages/bodiless-search/src/SearchTool.ts:61](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/SearchTool.ts#L61)*
 
 **Parameters:**
 

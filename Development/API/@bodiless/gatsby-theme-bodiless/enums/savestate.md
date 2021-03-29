@@ -17,7 +17,7 @@
 
 • **Complete**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx:13](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx#L13)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx:13](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx#L13)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Errored**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx:14](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx#L14)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx:14](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx#L14)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Init**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx:11](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx#L11)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx:11](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx#L11)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Pending**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx:12](https://github.com/VancheeZze/Bodiless-JS/blob/c09d22d9/packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx#L12)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx:12](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/gatsby-theme-bodiless/src/dist/SaveChanges.tsx#L12)*
