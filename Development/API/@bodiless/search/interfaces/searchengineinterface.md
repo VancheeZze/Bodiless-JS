@@ -31,7 +31,7 @@
 
 • **addDocuments**: *function*
 
-*Defined in [packages/bodiless-search/src/types.ts:29](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/types.ts#L29)*
+*Defined in [packages/bodiless-search/src/types.ts:29](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-search/src/types.ts#L29)*
 
 #### Type declaration:
 
@@ -49,7 +49,7 @@ ___
 
 • **createIndex**: *function*
 
-*Defined in [packages/bodiless-search/src/types.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/types.ts#L27)*
+*Defined in [packages/bodiless-search/src/types.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-search/src/types.ts#L27)*
 
 #### Type declaration:
 
@@ -61,7 +61,7 @@ ___
 
 • **exportIndex**: *function*
 
-*Defined in [packages/bodiless-search/src/types.ts:28](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/types.ts#L28)*
+*Defined in [packages/bodiless-search/src/types.ts:28](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-search/src/types.ts#L28)*
 
 #### Type declaration:
 
@@ -73,7 +73,7 @@ ___
 
 • **getEngineName**: *function*
 
-*Defined in [packages/bodiless-search/src/types.ts:23](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/types.ts#L23)*
+*Defined in [packages/bodiless-search/src/types.ts:23](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-search/src/types.ts#L23)*
 
 #### Type declaration:
 
@@ -85,7 +85,7 @@ ___
 
 • **getIndex**: *function*
 
-*Defined in [packages/bodiless-search/src/types.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/types.ts#L25)*
+*Defined in [packages/bodiless-search/src/types.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-search/src/types.ts#L25)*
 
 #### Type declaration:
 
@@ -97,7 +97,7 @@ ___
 
 • **getIndexConfig**: *function*
 
-*Defined in [packages/bodiless-search/src/types.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/types.ts#L24)*
+*Defined in [packages/bodiless-search/src/types.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-search/src/types.ts#L24)*
 
 #### Type declaration:
 
@@ -109,7 +109,7 @@ ___
 
 • **loadIndex**: *function*
 
-*Defined in [packages/bodiless-search/src/types.ts:30](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/types.ts#L30)*
+*Defined in [packages/bodiless-search/src/types.ts:30](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-search/src/types.ts#L30)*
 
 #### Type declaration:
 
@@ -127,7 +127,7 @@ ___
 
 • **loadPreviews**: *function*
 
-*Defined in [packages/bodiless-search/src/types.ts:31](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/types.ts#L31)*
+*Defined in [packages/bodiless-search/src/types.ts:31](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-search/src/types.ts#L31)*
 
 #### Type declaration:
 
@@ -145,7 +145,7 @@ ___
 
 • **search**: *function*
 
-*Defined in [packages/bodiless-search/src/types.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/types.ts#L32)*
+*Defined in [packages/bodiless-search/src/types.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-search/src/types.ts#L32)*
 
 #### Type declaration:
 
@@ -163,7 +163,7 @@ ___
 
 • **setIndexConfig**: *function*
 
-*Defined in [packages/bodiless-search/src/types.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-search/src/types.ts#L26)*
+*Defined in [packages/bodiless-search/src/types.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-search/src/types.ts#L26)*
 
 #### Type declaration:
 

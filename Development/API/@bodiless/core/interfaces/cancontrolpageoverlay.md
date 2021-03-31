@@ -23,7 +23,7 @@
 
 • **hidePageOverlay**: *function*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:42](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/types.ts#L42)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:42](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-core/src/PageEditContext/types.ts#L42)*
 
 #### Type declaration:
 
@@ -41,7 +41,7 @@ ___
 
 • **pageOverlay**: *[TPageOverlayStore](../globals.md#tpageoverlaystore)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:40](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/types.ts#L40)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:40](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-core/src/PageEditContext/types.ts#L40)*
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 • **showError**: *function*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:43](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/types.ts#L43)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:43](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-core/src/PageEditContext/types.ts#L43)*
 
 #### Type declaration:
 
@@ -67,7 +67,7 @@ ___
 
 • **showPageOverlay**: *function*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:41](https://github.com/VancheeZze/Bodiless-JS/blob/7319a147/packages/bodiless-core/src/PageEditContext/types.ts#L41)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:41](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-core/src/PageEditContext/types.ts#L41)*
 
 #### Type declaration:
 
