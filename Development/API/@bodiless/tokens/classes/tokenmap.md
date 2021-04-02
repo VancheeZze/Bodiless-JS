@@ -40,7 +40,7 @@
 
 \+ **new TokenMap**(`groupsFor?`: undefined | function): *[TokenMap](tokenmap.md)*
 
-*Defined in [packages/bodiless-tokens/src/TokenMap.ts:12](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-tokens/src/TokenMap.ts#L12)*
+*Defined in [packages/bodiless-tokens/src/TokenMap.ts:12](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-tokens/src/TokenMap.ts#L12)*
 
 **Parameters:**
 
@@ -56,7 +56,7 @@ Name | Type |
 
 • **groupsFor**: *function*
 
-*Defined in [packages/bodiless-tokens/src/TokenMap.ts:12](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-tokens/src/TokenMap.ts#L12)*
+*Defined in [packages/bodiless-tokens/src/TokenMap.ts:12](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-tokens/src/TokenMap.ts#L12)*
 
 #### Type declaration:
 
@@ -74,7 +74,7 @@ ___
 
 • **map**: *Map‹string, function & object›* = new Map<string, Token>()
 
-*Defined in [packages/bodiless-tokens/src/TokenMap.ts:10](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-tokens/src/TokenMap.ts#L10)*
+*Defined in [packages/bodiless-tokens/src/TokenMap.ts:10](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-tokens/src/TokenMap.ts#L10)*
 
 ## Accessors
 
@@ -82,7 +82,7 @@ ___
 
 • **get groups**(): *string[]*
 
-*Defined in [packages/bodiless-tokens/src/TokenMap.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-tokens/src/TokenMap.ts#L22)*
+*Defined in [packages/bodiless-tokens/src/TokenMap.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-tokens/src/TokenMap.ts#L22)*
 
 **Returns:** *string[]*
 
@@ -92,7 +92,7 @@ ___
 
 • **get names**(): *string[]*
 
-*Defined in [packages/bodiless-tokens/src/TokenMap.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-tokens/src/TokenMap.ts#L18)*
+*Defined in [packages/bodiless-tokens/src/TokenMap.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-tokens/src/TokenMap.ts#L18)*
 
 **Returns:** *string[]*
 
@@ -102,7 +102,7 @@ ___
 
 ▸ **add**(`tokens`: [Tokens](../globals.md#tokens)): *void*
 
-*Defined in [packages/bodiless-tokens/src/TokenMap.ts:46](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-tokens/src/TokenMap.ts#L46)*
+*Defined in [packages/bodiless-tokens/src/TokenMap.ts:46](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-tokens/src/TokenMap.ts#L46)*
 
 **Parameters:**
 
@@ -118,7 +118,7 @@ ___
 
 ▸ **delete**(`name`: string): *void*
 
-*Defined in [packages/bodiless-tokens/src/TokenMap.ts:52](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-tokens/src/TokenMap.ts#L52)*
+*Defined in [packages/bodiless-tokens/src/TokenMap.ts:52](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-tokens/src/TokenMap.ts#L52)*
 
 **Parameters:**
 
@@ -134,7 +134,7 @@ ___
 
 ▸ **flow**‹**P**›(`tokens`: string[]): *function & object*
 
-*Defined in [packages/bodiless-tokens/src/TokenMap.ts:56](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-tokens/src/TokenMap.ts#L56)*
+*Defined in [packages/bodiless-tokens/src/TokenMap.ts:56](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-tokens/src/TokenMap.ts#L56)*
 
 **Type parameters:**
 
@@ -154,7 +154,7 @@ ___
 
 ▸ **namesFor**(`group`: string): *string[]*
 
-*Defined in [packages/bodiless-tokens/src/TokenMap.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-tokens/src/TokenMap.ts#L32)*
+*Defined in [packages/bodiless-tokens/src/TokenMap.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-tokens/src/TokenMap.ts#L32)*
 
 **Parameters:**
 
@@ -170,7 +170,7 @@ ___
 
 ▸ **set**(`name`: string, `token`: Token): *void*
 
-*Defined in [packages/bodiless-tokens/src/TokenMap.ts:42](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-tokens/src/TokenMap.ts#L42)*
+*Defined in [packages/bodiless-tokens/src/TokenMap.ts:42](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-tokens/src/TokenMap.ts#L42)*
 
 **Parameters:**
 

@@ -29,7 +29,7 @@
 
 \+ **new BackendClient**(`baseUrl?`: undefined | string, `prefix?`: undefined | string): *[BackendClient](backendclient.md)*
 
-*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L22)*
+*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L22)*
 
 **Parameters:**
 
@@ -46,7 +46,7 @@ Name | Type |
 
 • **prefix**: *string*
 
-*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L22)*
+*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L22)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **root**: *string*
 
-*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L20)*
+*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L20)*
 
 ## Methods
 
@@ -62,7 +62,7 @@ ___
 
 ▸ **get**(`resourcePath`: string): *Promise‹AxiosResponse‹any››*
 
-*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:35](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L35)*
+*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:35](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L35)*
 
 **Parameters:**
 
@@ -78,7 +78,7 @@ ___
 
 ▸ **post**(`resourcePath`: string, `data`: any): *Promise‹AxiosResponse‹any››*
 
-*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L39)*
+*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L39)*
 
 **Parameters:**
 
@@ -95,7 +95,7 @@ ___
 
 ▸ **saveFile**(`file`: File): *Promise‹AxiosResponse‹any››*
 
-*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:43](https://github.com/VancheeZze/Bodiless-JS/blob/7b915a68/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L43)*
+*Defined in [packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts:43](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-layouts/src/ComponentSelector/BackendClient.ts#L43)*
 
 **Parameters:**
 
