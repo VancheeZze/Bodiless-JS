@@ -16,19 +16,22 @@ import {
   addClasses, addClassesIf, asToken, withDesign,
 } from '@bodiless/fclasses';
 
-import { useIsBurgerMenuVisible, useIsBurgerMenuHidden } from './BurgerMenuContext';
+import { useIsBurgerMenuVisible, useIsBurgerTransitionCompleted } from './BurgerMenuContext';
 import {
   withLightGrayBg, withNoInsetStyles, withFullWidthStyles, withFullHeightStyles,
-  asFixed, withFullZIndex, withMaterialIconsFont, withPointerCursorStyles,
-  asElementToken, asDisabled,
+  asFixed, withFullZIndex, withMaterialIconsFont, withPointerCursorStyles, asDisabled,
 } from '../token';
 
 const withSlideInOutAnimation = withDesign({
   Wrapper: asToken(
     addClasses('transform -translate-x-full'),
-    addClassesIf(useIsBurgerMenuHidden)('animate-slide-out'),
+    // Since Burger Menu is Hidden by default,
+    // we can not use useIsBurgerMenuHidden to add 'animate-slide-out'
+    // since it will play the animation on initial render.
+    // We use `useIsBurgerTransitionCompleted` to detect when Burger Menu
+    // has completed all animations.
+    addClassesIf(useIsBurgerTransitionCompleted)('animate-slide-out'),
     addClassesIf(useIsBurgerMenuVisible)('animate-slide-in'),
-    asElementToken('Transitions')('Animation'),
   ),
 });
 

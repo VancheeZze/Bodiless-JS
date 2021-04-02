@@ -21,11 +21,11 @@ import {
   withNodeKey,
   withChild,
   ifToggledOn,
+  asReadOnly,
 } from '@bodiless/core';
 import {
   withBreadcrumbStartingTrail,
   withoutBreadcrumbFinalTrail,
-  withBreadcrumbItemToken,
 } from '@bodiless/navigation';
 import {
   asToken,
@@ -68,15 +68,23 @@ const withStartingTrailIcon = (
   }),
 );
 
-const withNonLinkableItems = withBreadcrumbItemToken(
-  withDesign({
-    Link: replaceWith(Fragment),
-  }),
-);
+const withoutLink = withDesign({
+  Link: replaceWith(Fragment),
+});
+
+const withNonLinkableItems = withDesign({
+  Title: withoutLink,
+});
+
+const withReadOnlyStartingTrail = withDesign({
+  StartingTrail: asReadOnly,
+});
 
 const withBoldedFinalTrail = withDesign({
   Item: ifToggledOn(({ isCurrentPage }: any) => isCurrentPage)(asBold),
-  FinalTrail: asBold,
+  FinalTrail: withDesign({
+    Title: asBold,
+  }),
 });
 
 const withHiddenCurrentPageItem = flow(
@@ -112,7 +120,7 @@ const withLinkToggleStyles = withDesign({
 });
 
 const withStartingTrailLinkStyles = withDesign({
-  StartingTrail: asLink,
+  StartingTrail: withLinkToggleStyles,
 });
 
 const $withBreadcrumbStyles = asToken(
@@ -134,4 +142,5 @@ export {
   withSlashSeparator,
   withHiddenCurrentPageItem,
   withStartingTrailLinkStyles,
+  withReadOnlyStartingTrail,
 };
