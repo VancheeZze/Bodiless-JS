@@ -34,8 +34,10 @@ const withBreadcrumbsSD = (Component: ComponentType<BreadcrumbsProps>) => (
       '@type': 'ListItem',
       // We increment in 1 to accomodate for the index offset ( starts from 0 )
       position: index + 1,
-      name: item.title.data,
-      ...item.link.data ? { item: generateUrl(item.link.data) } : {},
+      item: {
+        ...item.link.data ? { '@id': generateUrl(item.link.data) } : {},
+        name: item.title.data,
+      },
     }))
     : [];
 
