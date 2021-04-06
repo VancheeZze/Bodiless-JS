@@ -12,7 +12,6 @@
  * limitations under the License.
  */
 import React, { ComponentType } from 'react';
-import path from 'path';
 import { Helmet } from 'react-helmet';
 
 import { useBreadcrumbStore } from './BreadcrumbStoreProvider';
@@ -21,7 +20,7 @@ import type { BreadcrumbsProps } from './types';
 // We need a full url in the breadcrumbs LD item.
 const generateUrl = (url: string) => (
   typeof window !== 'undefined'
-    ? path.join(window.location.origin, url)
+    ? new URL(url, window.location.origin).href
     : url
 );
 
@@ -29,17 +28,20 @@ const withBreadcrumbsSD = (Component: ComponentType<BreadcrumbsProps>) => (
   props: BreadcrumbsProps,
 ) => {
   const store = useBreadcrumbStore();
-  const breadcrumbItems = store
-    ? store.breadcrumbTrail.map((item, index) => ({
-      '@type': 'ListItem',
-      // We increment in 1 to accomodate for the index offset ( starts from 0 )
-      position: index + 1,
-      item: {
-        '@id': item.link.data ? generateUrl(item.link.data) : '',
-        name: item.title.data,
-      },
-    }))
-    : [];
+
+  if (!store || store.breadcrumbTrail.length <= 0) {
+    return <Component {...props} />;
+  }
+
+  const breadcrumbItems = store.breadcrumbTrail.map((item, index) => ({
+    '@type': 'ListItem',
+    // We increment in 1 to accomodate for the index offset ( starts from 0 )
+    position: index + 1,
+    item: {
+      '@id': item.link.data ? generateUrl(item.link.data) : '',
+      name: item.title.data,
+    },
+  }));
 
   const breadcrumbsSDHeader = {
     '@context': 'https://schema.org',
