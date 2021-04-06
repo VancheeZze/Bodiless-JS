@@ -44,7 +44,9 @@ import {
   withReadOnlyStartingTrail,
   $withBreadcrumbStyles,
 } from '../../../components/Breadcrumbs/MenuBreadcrumbs.token';
-import { asHeader2, asHeader1, asItalic } from '../../../components/Elements.token';
+import {
+  asHeader2, asHeader1, asItalic,
+} from '../../../components/Elements.token';
 
 const DemoBreadcrumbs = asToken(
   asBreadcrumbs,

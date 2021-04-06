@@ -23,6 +23,7 @@ import {
   ifToggledOn,
   asReadOnly,
 } from '@bodiless/core';
+import { withoutLinkWhenLinkDataEmpty } from '@bodiless/components';
 import {
   withBreadcrumbStartingTrail,
   withoutBreadcrumbFinalTrail,
@@ -34,7 +35,7 @@ import {
   withDesign,
   replaceWith,
   Span,
-  Fragment,
+  remove,
 } from '@bodiless/fclasses';
 import { GatsbyLink } from '@bodiless/gatsby-theme-bodiless';
 
@@ -69,7 +70,7 @@ const withStartingTrailIcon = (
 );
 
 const withoutLink = withDesign({
-  Link: replaceWith(Fragment),
+  Link: remove,
 });
 
 const withNonLinkableItems = withDesign({
@@ -82,9 +83,7 @@ const withReadOnlyStartingTrail = withDesign({
 
 const withBoldedFinalTrail = withDesign({
   Item: ifToggledOn(({ isCurrentPage }: any) => isCurrentPage)(asBold),
-  FinalTrail: withDesign({
-    Title: asBold,
-  }),
+  FinalTrail: asBold,
 });
 
 const withHiddenCurrentPageItem = flow(
@@ -123,6 +122,12 @@ const withStartingTrailLinkStyles = withDesign({
   StartingTrail: withLinkToggleStyles,
 });
 
+const withFinalTrailLinkStyles = withDesign({
+  FinalTrail: withDesign({
+    Link: withoutLinkWhenLinkDataEmpty,
+  }),
+});
+
 const $withBreadcrumbStyles = asToken(
   withDesign({
     Separator: addClasses('mx-1'),
@@ -130,6 +135,7 @@ const $withBreadcrumbStyles = asToken(
     Title: withLinkToggleStyles,
   }),
   withStartingTrailLinkStyles,
+  withFinalTrailLinkStyles,
   withArrowSeparator,
 );
 
