@@ -40,14 +40,19 @@ const withBreadcrumbsSD = (Component: ComponentType<BreadcrumbsProps>) => (
 ) => {
   const {
     itemsReducer = firstItemHomeLinkReducer,
-    hasStartingTrail,
+    renderLastItemWithoutLink = false,
+    hasStartingTrail = false,
   } = props;
   const store = useBreadcrumbStore();
+  const hasStartingTrail$ = typeof hasStartingTrail === 'function' ? hasStartingTrail() : hasStartingTrail;
+  const renderLastItemWithoutLink$ = typeof renderLastItemWithoutLink === 'function'
+    ? renderLastItemWithoutLink()
+    : renderLastItemWithoutLink;
 
   // Do nothing if there is no store
   if (!store) return <Component {...props} />;
 
-  const items = itemsReducer(store.breadcrumbTrail, { hasStartingTrail });
+  const items = itemsReducer(store.breadcrumbTrail, { hasStartingTrail: hasStartingTrail$ });
 
   // Do nothing if there are no items in the store
   if (items.length <= 0) return <Component {...props} />;
@@ -56,6 +61,8 @@ const withBreadcrumbsSD = (Component: ComponentType<BreadcrumbsProps>) => (
   const breadcrumbItems = items.map(uuid => store.getItem(uuid))
     .reduce<LDItemType[]>((prev, current, index) => {
       if (current === undefined) return prev;
+      const isLastItem = index === (items.length - 1);
+      if (isLastItem && renderLastItemWithoutLink$) return prev;
       prev.push({
         '@type': 'ListItem',
         // We increment in 1 to accomodate for the index offset ( starts from 0 )
