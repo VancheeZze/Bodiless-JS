@@ -14,44 +14,24 @@
 
 /* eslint-disable jsx-a11y/anchor-is-valid */
 import React, { ComponentType } from 'react';
-import { useNode, withoutProps, withNode } from '@bodiless/core';
+import { withoutProps, withNode } from '@bodiless/core';
 import type { WithNodeProps } from '@bodiless/core';
 import {
   asComponent, designable, addProps, Fragment, withDesign, replaceWith,
 } from '@bodiless/fclasses';
 import { observer } from 'mobx-react-lite';
 import { flowRight } from 'lodash';
-import { useBreadcrumbStore } from './BreadcrumbStoreProvider';
 import { asStylableBreadcrumbs } from './Breadcrumb.token';
 
+import withBreadcrumbItemsFromStore from './withBreadcrumbItemsFromStore';
 import withBreadcrumbsSD from './withBreadcrumbsStructuredData';
 import MenuTitle from '../Menu/MenuTitles';
 
 import type {
   BreadcrumbsComponents,
-  BreadcrumbsProps,
   CleanBreadcrumbsProps,
-  BreadcrumbItemType,
   CleanBreadcrumbItemType,
-  BreadcrumbStoreItemsReducer,
 } from './types';
-
-/**
- * removes first item from the trail
- * when there is a custom starting trail and
- * when the first store item has frontpage path
- *
- * @param items - breadcrumb store items
- * @param props - breadcrumb component props
- *
- * @returns uuids - a list of item uuids
- */
-const firstItemHomeLinkReducer = (
-  items: BreadcrumbItemType[],
-  { hasStartingTrail }: Pick<BreadcrumbsProps, 'hasStartingTrail'>,
-) => items
-  .filter(item => !(hasStartingTrail && item.isFirst() && item.hasPath('/')))
-  .map(item => item.uuid);
 
 const ItemNodeProvider = withNode(Fragment) as ComponentType<WithNodeProps>;
 
@@ -153,71 +133,6 @@ const BreadcrumbStartComponents: BreadcrumbsComponents = {
 const BreadcrumbsClean = designable(BreadcrumbStartComponents, 'Breadcrumbs')(BreadcrumbsClean$);
 
 /**
- * HOC that populates a breadcrumb based component with data from breadcrumb store.
- * @param Component a breadcrumb based component
- */
-// eslint-disable-next-line max-len
-const withBreadcrumbItemsFromStore = (Component: ComponentType<BreadcrumbsProps>) => {
-  const WithBreadcrumbItemsFromStore = (props: BreadcrumbsProps) => {
-    const {
-      nodeCollection,
-      hasStartingTrail = false,
-      hasFinalTrail = false,
-      itemsReducer = firstItemHomeLinkReducer,
-      renderLastItemWithoutLink = true,
-      ...rest
-    } = props;
-    const store = useBreadcrumbStore();
-    if (store === undefined) return <Component {...props} />;
-    const { node } = useNode(nodeCollection);
-    const basePath = node.path;
-    const items = itemsReducer(store.breadcrumbTrail, { hasStartingTrail })
-      .map(uuid => store.getItem(uuid))
-      // map items retrieved from store
-      // into items expected by base breadcrumb component
-      /* eslint-disable @typescript-eslint/indent */
-      // eslint throws an indentation error for lines inside reduce body
-      // automatic eslint fix brings code to unreadable state
-      // probably that is an eslint plugin issue
-      // the disabled rule is enabled back after reduce
-      .reduce<CleanBreadcrumbItemType[]>(
-        (prev, current, index) => {
-          if (current === undefined) return prev;
-          const titleNodePath = current.title.nodePath.replace(`${basePath}$`, '');
-          // @todo probably a better way to get the nodeKey...
-          const temp = titleNodePath.split('$');
-          const nodeKey = temp.slice(0, temp.length - 1).join('$');
-          prev.push({
-            uuid: current.uuid,
-            nodeKey,
-            nodeCollection,
-            position: index + 1,
-            isCurrentPage: current.isLast() && store.hasCurrentPageItem(),
-          });
-          return prev;
-        }, [],
-      );
-    /* eslint-enable @typescript-eslint/indent */
-    const hasFinalTrail$0 = typeof hasFinalTrail === 'function' ? hasFinalTrail() : hasFinalTrail;
-    const hasFinalTrail$1 = hasFinalTrail$0 && !store.hasCurrentPageItem();
-    const lastItemWithoutLink = typeof renderLastItemWithoutLink === 'function'
-      ? renderLastItemWithoutLink()
-      : renderLastItemWithoutLink;
-    const props$1 = {
-      ...rest,
-      items,
-      hasFinalTrail: hasFinalTrail$1,
-      hasStartingTrail,
-      renderLastItemWithoutLink: lastItemWithoutLink
-        && !hasFinalTrail$1
-        && store.hasCurrentPageItem(),
-    };
-    return <Component {...props$1} />;
-  };
-  return WithBreadcrumbItemsFromStore;
-};
-
-/**
  * HOC that enables rendering of starting trail for a breadcrumb based component.
  * @param Component a breadcrumb based component
  */
@@ -272,8 +187,4 @@ export {
   withoutStartingTrail as withoutBreadcrumbStartingTrail,
   withFinalTrail as withBreadcrumbFinalTrail,
   withoutFinalTrail as withoutBreadcrumbFinalTrail,
-};
-
-export type {
-  BreadcrumbStoreItemsReducer,
 };

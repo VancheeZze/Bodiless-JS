@@ -14,7 +14,9 @@
 import React, { ComponentType } from 'react';
 import { Helmet } from 'react-helmet';
 
+import { firstItemHomeLinkReducer } from './withBreadcrumbItemsFromStore';
 import { useBreadcrumbStore } from './BreadcrumbStoreProvider';
+
 import type { BreadcrumbsProps } from './types';
 
 // We need a full url in the breadcrumbs LD item.
@@ -24,24 +26,48 @@ const generateUrl = (url: string) => (
     : url
 );
 
+type LDItemType = {
+  '@type': string,
+  position: number,
+  item: {
+    '@id': string,
+    name: string | object,
+  },
+};
+
 const withBreadcrumbsSD = (Component: ComponentType<BreadcrumbsProps>) => (
   props: BreadcrumbsProps,
 ) => {
+  const {
+    itemsReducer = firstItemHomeLinkReducer,
+    hasStartingTrail,
+  } = props;
   const store = useBreadcrumbStore();
 
-  if (!store || store.breadcrumbTrail.length <= 0) {
-    return <Component {...props} />;
-  }
+  // Do nothing if there is no store
+  if (!store) return <Component {...props} />;
 
-  const breadcrumbItems = store.breadcrumbTrail.map((item, index) => ({
-    '@type': 'ListItem',
-    // We increment in 1 to accomodate for the index offset ( starts from 0 )
-    position: index + 1,
-    item: {
-      '@id': item.link.data ? generateUrl(item.link.data) : '',
-      name: item.title.data,
+  const items = itemsReducer(store.breadcrumbTrail, { hasStartingTrail });
+
+  // Do nothing if there are no items in the store
+  if (items.length <= 0) return <Component {...props} />;
+
+  /* eslint-disable @typescript-eslint/indent */
+  const breadcrumbItems = items.map(uuid => store.getItem(uuid))
+    .reduce<LDItemType[]>((prev, current, index) => {
+      if (current === undefined) return prev;
+      prev.push({
+        '@type': 'ListItem',
+        // We increment in 1 to accomodate for the index offset ( starts from 0 )
+        position: index + 1,
+        item: {
+          '@id': current.link.data ? generateUrl(current.link.data) : '',
+          name: current.title.data,
+        },
+      });
+      return prev;
     },
-  }));
+  []);
 
   const breadcrumbsSDHeader = {
     '@context': 'https://schema.org',
