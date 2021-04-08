@@ -76,6 +76,10 @@ const withBreadcrumbsSD = (Component: ComponentType<BreadcrumbsProps>) => (
     },
   []);
 
+  // We exclude first home trail and the last trail if `renderLastItemWithoutLink` enabled.
+  // If no breadcrumbs left, do nothing.
+  if (breadcrumbItems.length <= 0) return <Component {...props} />;
+
   const breadcrumbsSDHeader = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
