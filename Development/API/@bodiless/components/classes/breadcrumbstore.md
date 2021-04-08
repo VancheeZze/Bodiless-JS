@@ -52,7 +52,7 @@ API:
 
 \+ **new BreadcrumbStore**(`pagePath`: string): *[BreadcrumbStore](breadcrumbstore.md)*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:204](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L204)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:204](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L204)*
 
 **Parameters:**
 
@@ -68,7 +68,7 @@ Name | Type |
 
 • **activeItem**? : *[BreadcrumbItemType](../globals.md#breadcrumbitemtype)* = undefined
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:202](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L202)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:202](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L202)*
 
 ___
 
@@ -76,7 +76,7 @@ ___
 
 • **items**: *Map‹string, [BreadcrumbItemType](../globals.md#breadcrumbitemtype)›* = new Map<string, BreadcrumbItemType>()
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:200](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L200)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:200](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L200)*
 
 ___
 
@@ -84,7 +84,7 @@ ___
 
 • **pagePath**: *string*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:204](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L204)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:204](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L204)*
 
 ## Accessors
 
@@ -92,7 +92,7 @@ ___
 
 • **get breadcrumbTrail**(): *object[]*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:257](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L257)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:257](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L257)*
 
 **Returns:** *object[]*
 
@@ -102,7 +102,7 @@ ___
 
 ▸ **deleteItem**(`item`: [BreadcrumbItemType](../globals.md#breadcrumbitemtype) | string): *boolean*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:243](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L243)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:243](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L243)*
 
 **Parameters:**
 
@@ -118,7 +118,7 @@ ___
 
 ▸ **export**(): *object[]*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:265](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L265)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:265](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L265)*
 
 **Returns:** *object[]*
 
@@ -128,7 +128,7 @@ ___
 
 ▸ **getItem**(`key`: string): *undefined | object*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:232](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L232)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:232](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L232)*
 
 **Parameters:**
 
@@ -144,7 +144,7 @@ ___
 
 ▸ **getPagePath**(): *string*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:253](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L253)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:253](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L253)*
 
 **Returns:** *string*
 
@@ -154,7 +154,7 @@ ___
 
 ▸ **hasCurrentPageItem**(): *boolean*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:269](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L269)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:269](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L269)*
 
 **Returns:** *boolean*
 
@@ -164,7 +164,7 @@ ___
 
 ▸ **isActiveItemPathChanged**(`item`: [BreadcrumbItemType](../globals.md#breadcrumbitemtype)): *boolean*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:226](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L226)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:226](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L226)*
 
 **Parameters:**
 
@@ -180,7 +180,7 @@ ___
 
 ▸ **isNewActive**(`item`: [BreadcrumbItemType](../globals.md#breadcrumbitemtype)): *boolean*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:214](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L214)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:214](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L214)*
 
 **Parameters:**
 
@@ -196,7 +196,7 @@ ___
 
 ▸ **setActiveItem**(`item`: [BreadcrumbItemType](../globals.md#breadcrumbitemtype) | undefined): *void*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:210](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L210)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:210](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L210)*
 
 **Parameters:**
 
@@ -212,7 +212,7 @@ ___
 
 ▸ **setItem**(`item`: [BreadcrumbItemType](../globals.md#breadcrumbitemtype)): *object*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:236](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L236)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:236](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L236)*
 
 **Parameters:**
 
@@ -280,7 +280,7 @@ ___
 
 ▸ **toString**(): *string*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:273](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L273)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:273](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L273)*
 
 **Returns:** *string*
 
@@ -290,6 +290,6 @@ ___
 
 ▸ **updateActive**(): *void*
 
-*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:219](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L219)*
+*Defined in [packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts:219](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Breadcrumbs/BreadcrumbStore.ts#L219)*
 
 **Returns:** *void*

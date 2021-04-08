@@ -69,7 +69,7 @@ ScreenShotClass will return null and the image will disappear from the DOM.
 
 *Overrides void*
 
-*Defined in [packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx:104](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx#L104)*
+*Defined in [packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx:104](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx#L104)*
 
 **Parameters:**
 
@@ -296,7 +296,7 @@ ___
 
 *Overrides void*
 
-*Defined in [packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx:111](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx#L111)*
+*Defined in [packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx:111](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx#L111)*
 
 **Returns:** *void*
 
@@ -482,7 +482,7 @@ ___
 
 *Overrides void*
 
-*Defined in [packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx:120](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx#L120)*
+*Defined in [packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx:120](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-layouts/src/ComponentSelector/ScreenShot.tsx#L120)*
 
 **Returns:** *null | Element‹›*
 

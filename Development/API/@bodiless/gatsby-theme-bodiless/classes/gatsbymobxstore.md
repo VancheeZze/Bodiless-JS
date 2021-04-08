@@ -45,7 +45,7 @@ Query names can be dynamic therefore is best to not hardcode the query names.
 
 \+ **new GatsbyMobxStore**(`nodeProvider`: [DataSource](../globals.md#datasource)): *[GatsbyMobxStore](gatsbymobxstore.md)*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:68](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L68)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:68](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L68)*
 
 **Parameters:**
 
@@ -61,7 +61,7 @@ Name | Type |
 
 • **client**: *[Client](../globals.md#client)*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:64](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L64)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:64](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L64)*
 
 ___
 
@@ -69,7 +69,7 @@ ___
 
 • **data**: *any*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:68](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L68)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:68](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L68)*
 
 ___
 
@@ -77,7 +77,7 @@ ___
 
 • **slug**: *string | null* = null
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:66](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L66)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:66](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L66)*
 
 ___
 
@@ -85,7 +85,7 @@ ___
 
 • **store**: *Map‹string, [GatsbyMobxStoreItem](gatsbymobxstoreitem.md)‹››* = new Map<string, Item>()
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:62](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L62)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:62](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L62)*
 
 ## Methods
 
@@ -93,7 +93,7 @@ ___
 
 ▸ **deleteItem**(`key`: string, `soft`: boolean): *false | true | void*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:162](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L162)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:162](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L162)*
 
 **Parameters:**
 
@@ -110,7 +110,7 @@ ___
 
 ▸ **deleteNode**(`keyPath`: string[]): *void*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:190](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L190)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:190](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L190)*
 
 **Parameters:**
 
@@ -126,7 +126,7 @@ ___
 
 ▸ **getChildrenNodes**(`keyPath`: string[]): *[string, [GatsbyMobxStoreItem](gatsbymobxstoreitem.md)‹›][]*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:183](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L183)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:183](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L183)*
 
 **Parameters:**
 
@@ -142,7 +142,7 @@ ___
 
 ▸ **getKeys**(): *string[]*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:148](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L148)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:148](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L148)*
 
 **Returns:** *string[]*
 
@@ -152,7 +152,7 @@ ___
 
 ▸ **getNode**(`keyPath`: string[]): *any*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:150](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L150)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:150](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L150)*
 
 **Parameters:**
 
@@ -168,7 +168,7 @@ ___
 
 ▸ **getPendingItems**(): *[GatsbyMobxStoreItem](gatsbymobxstoreitem.md)‹›[]*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:76](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L76)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:76](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L76)*
 
 **Returns:** *[GatsbyMobxStoreItem](gatsbymobxstoreitem.md)‹›[]*
 
@@ -178,7 +178,7 @@ ___
 
 ▸ **hasError**(): *boolean*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:199](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L199)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:199](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L199)*
 
 **Returns:** *boolean*
 
@@ -188,7 +188,7 @@ ___
 
 ▸ **parseData**(`gatsbyData`: [GatsbyData](../globals.md#gatsbydata)): *Map‹string, string›*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:86](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L86)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:86](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L86)*
 
 **Parameters:**
 
@@ -204,7 +204,7 @@ ___
 
 ▸ **setItem**(`key`: string, `item`: Item): *void*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:158](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L158)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:158](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L158)*
 
 **Parameters:**
 
@@ -221,7 +221,7 @@ ___
 
 ▸ **setNode**(`keyPath`: string[], `value`: object, `event`: [ItemStateEvent](../enums/itemstateevent.md)): *void*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:173](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L173)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:173](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L173)*
 
 Mobx action saves or updates items to GatsbyMobxStore.store.
 
@@ -241,7 +241,7 @@ ___
 
 ▸ **setNodeProvider**(`nodeProvider`: [DataSource](../globals.md#datasource)): *void*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:81](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L81)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:81](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L81)*
 
 **Parameters:**
 
@@ -257,7 +257,7 @@ ___
 
 ▸ **updateData**(`gatsbyData`: [GatsbyData](../globals.md#gatsbydata)): *void*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:112](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L112)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts:112](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyMobxStore.ts#L112)*
 
 Called at initial page render to initialize our data from the Gatsby Page Query.
 Note - we just copy the results to our unobserved data structure unless modifications

@@ -36,7 +36,7 @@ BodilessJS edit interface.
 
 
 ``` js
-  import { YouTube } from '@bodiless/components';
+  import { YouTube } from '@bodiless/youtube';
 
   <YouTube nodeKey="youtube" />
   ```
@@ -48,7 +48,7 @@ and then use the returned HOC
 
   ``` js
   import { CustomYouTube } from 'my-library';
-  import { asBodilessYouTube } from '@bodiless/components';
+  import { asBodilessYouTube } from '@bodiless/youtube';
 
   const YouTube = asBodilessYouTube('customYouTube')(CustomYouTube);
 
@@ -59,7 +59,7 @@ You can configure YouTube player settings leveraging withYouTubePlayerSettings
 HOC. For example, to configure AutoPlay for the YouTube component:
 
   ``` js
-  import { YouTube } from '@bodiless/components';
+  import { YouTube } from '@bodiless/youtube';
 
   const AutoPlayYouTube = withYouTubePlayerSettings({
     autoplay: true,
@@ -89,13 +89,13 @@ are commonly used together. For more details on each individual parameter see [Y
 | -------- | -------- |
 | autoplay     | 0     |
 | cc_lang_pref    | no default    |
-| cc_load_policy	| 0 |
-| controls |	1 |
-| loop |	0 |
-| enablejsapi  | 	1 |
-| modestbranding |	1 |
-| origin |	canonical URL |
-| rel |	0 |
+| cc_load_policy  | 0 |
+| controls |  1 |
+| loop |  0 |
+| enablejsapi  |  1 |
+| modestbranding |  1 |
+| origin |  canonical URL |
+| rel | 0 |
 | mute | |
 | version | |
 | playlist | |

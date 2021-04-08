@@ -26,7 +26,7 @@
 
 • **activate**: *function*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:60](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-core/src/PageEditContext/types.ts#L60)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:60](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-core/src/PageEditContext/types.ts#L60)*
 
 #### Type declaration:
 
@@ -38,7 +38,7 @@ ___
 
 • **activeContext**? : *[PageEditContextInterface](pageeditcontextinterface.md)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:64](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-core/src/PageEditContext/types.ts#L64)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:64](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-core/src/PageEditContext/types.ts#L64)*
 
 The currently active context, or undefined if no context is active.
 
@@ -48,7 +48,7 @@ ___
 
 • **activeDescendants**? : *[PageEditContextInterface](pageeditcontextinterface.md)[]*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:69](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-core/src/PageEditContext/types.ts#L69)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:69](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-core/src/PageEditContext/types.ts#L69)*
 
 If the context is active, an array of its descendants, starting with its first child
 and ending with the innermost active context.  If the context is not active, undefined.
@@ -59,7 +59,7 @@ ___
 
 • **hasLocalMenu**: *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:58](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-core/src/PageEditContext/types.ts#L58)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:58](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-core/src/PageEditContext/types.ts#L58)*
 
 ___
 
@@ -67,7 +67,7 @@ ___
 
 • **isActive**: *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:56](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-core/src/PageEditContext/types.ts#L56)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:56](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-core/src/PageEditContext/types.ts#L56)*
 
 ___
 
@@ -75,7 +75,7 @@ ___
 
 • **isInnermost**: *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:57](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-core/src/PageEditContext/types.ts#L57)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:57](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-core/src/PageEditContext/types.ts#L57)*
 
 ___
 
@@ -83,4 +83,4 @@ ___
 
 • **isInnermostLocalMenu**: *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:59](https://github.com/VancheeZze/Bodiless-JS/blob/c2da714c/packages/bodiless-core/src/PageEditContext/types.ts#L59)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:59](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-core/src/PageEditContext/types.ts#L59)*
