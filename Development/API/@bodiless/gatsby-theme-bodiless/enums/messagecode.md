@@ -25,7 +25,7 @@
 
 • **Default**: = 0
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L52)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L52)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **PullChangeAvailable**: = 1008
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:61](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L61)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:61](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L61)*
 
 ___
 
@@ -41,7 +41,7 @@ ___
 
 • **PullConflictAbort**: = 1005
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:58](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L58)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:58](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L58)*
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 • **PullConflictConfirm**: = 1004
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:57](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L57)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:57](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L57)*
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 • **PullErrored**: = 1000
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L53)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L53)*
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 • **PullMasterAbort**: = 1006
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:59](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L59)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:59](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L59)*
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 • **PullMasterAvailable**: = 1009
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:62](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L62)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:62](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L62)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 • **PullNoChange**: = 1001
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L54)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L54)*
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 • **PullNonContentOnly**: = 1010
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:63](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L63)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:63](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L63)*
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 • **PullRestartRequired**: = 1002
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L55)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L55)*
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 • **PullSuccess**: = 1003
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:56](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L56)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:56](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L56)*
 
 ___
 
@@ -113,4 +113,4 @@ ___
 
 • **PullUpstreamAbort**: = 1007
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:60](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L60)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx:60](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/RemoteChanges.tsx#L60)*

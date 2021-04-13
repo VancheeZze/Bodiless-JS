@@ -28,7 +28,7 @@
 
 • **isChildPageOf**: *function*
 
-*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:49](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Link/NormalHref.ts#L49)*
+*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:49](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-components/src/Link/NormalHref.ts#L49)*
 
 Determines whether one internal href is a child of another.
 
@@ -50,7 +50,7 @@ ___
 
 • **isExternal**: *boolean*
 
-*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:35](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Link/NormalHref.ts#L35)*
+*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:35](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-components/src/Link/NormalHref.ts#L35)*
 
 Whether this relative is "external" (ie has an explicit hostname).
 Note that any href with an explicit hostname is considered external,
@@ -62,7 +62,7 @@ ___
 
 • **isRelative**: *boolean*
 
-*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:29](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Link/NormalHref.ts#L29)*
+*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:29](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-components/src/Link/NormalHref.ts#L29)*
 
 Whether this href is relative to the current page.
 
@@ -72,7 +72,7 @@ ___
 
 • **isSamePage**: *function*
 
-*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:44](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Link/NormalHref.ts#L44)*
+*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:44](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-components/src/Link/NormalHref.ts#L44)*
 
 Determines whethertwo internal hrefs refer to the same page.
 
@@ -94,7 +94,7 @@ ___
 
 • **parentPage**: *[NormalHref](normalhref.md) | undefined*
 
-*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Link/NormalHref.ts#L39)*
+*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-components/src/Link/NormalHref.ts#L39)*
 
 The parent of this href, or undefined for the root page.
 
@@ -104,7 +104,7 @@ ___
 
 • **pathname**: *string*
 
-*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Link/NormalHref.ts#L25)*
+*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-components/src/Link/NormalHref.ts#L25)*
 
 The pathname of this href, suitable for comparison with other normal hrefs
 
@@ -114,7 +114,7 @@ ___
 
 • **toString**: *function*
 
-*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-components/src/Link/NormalHref.ts#L21)*
+*Defined in [packages/bodiless-components/src/Link/NormalHref.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-components/src/Link/NormalHref.ts#L21)*
 
 A string representation of the href, suitable for supplying as a prop to an <a> tag.
 

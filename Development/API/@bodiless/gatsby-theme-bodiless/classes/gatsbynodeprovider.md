@@ -62,7 +62,7 @@
 
 *Overrides void*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L32)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L32)*
 
 **Parameters:**
 
@@ -131,7 +131,7 @@ ___
 
 *Overrides void*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L41)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L41)*
 
 ___
 
@@ -168,7 +168,7 @@ class Foo extends React.Component {
 
 • **get slug**(): *string*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:57](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L57)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:57](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L57)*
 
 **Returns:** *string*
 
@@ -459,7 +459,7 @@ ___
 
 ▸ **getRootNode**(`collection`: string): *DefaultContentNode‹object›*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:63](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L63)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:63](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L63)*
 
 **Parameters:**
 
@@ -503,7 +503,7 @@ ___
 
 *Overrides void*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:79](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L79)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:79](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L79)*
 
 **Returns:** *Element‹›*
 
@@ -538,7 +538,7 @@ ___
 
 *Overrides void*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L53)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L53)*
 
 **Returns:** *boolean*
 
@@ -548,7 +548,7 @@ ___
 
 ▸ **getDerivedStateFromProps**(`props`: [Props](../globals.md#props), `state`: [State](../globals.md#state)): *null*
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L44)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyNodeProvider.tsx#L44)*
 
 **Parameters:**
 

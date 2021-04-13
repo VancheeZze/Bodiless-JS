@@ -26,7 +26,7 @@
 
 \+ **new ContentNodeProxy**(`node`: [ContentNode](../globals.md#contentnode)‹D›, `processors`: [Processors](../globals.md#processors)‹D›): *[ContentNodeProxy](contentnodeproxy.md)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:67](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-core/src/ContentNode.ts#L67)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:67](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/ContentNode.ts#L67)*
 
 **Parameters:**
 

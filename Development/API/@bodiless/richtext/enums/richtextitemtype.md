@@ -16,7 +16,7 @@
 
 • **block**: = "BLOCK"
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-richtext/src/Type.ts#L27)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-richtext/src/Type.ts#L27)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **inline**: = "INLINE"
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:28](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-richtext/src/Type.ts#L28)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:28](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-richtext/src/Type.ts#L28)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **mark**: = "MARK"
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:29](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-richtext/src/Type.ts#L29)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:29](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-richtext/src/Type.ts#L29)*

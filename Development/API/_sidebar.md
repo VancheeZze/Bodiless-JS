@@ -1,3 +1,4 @@
+* [@bodiless/navigation](/Development/API/@bodiless/navigation/globals)
 * [@bodiless/bv](/Development/API/@bodiless/bv/globals)
 * [@bodiless/card](/Development/API/@bodiless/card/globals)
 * [@bodiless/components](/Development/API/@bodiless/components/globals)

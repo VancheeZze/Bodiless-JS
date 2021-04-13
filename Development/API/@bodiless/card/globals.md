@@ -36,7 +36,7 @@
 
 Ƭ **CardComponents**: *object*
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L31)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L31)*
 
 #### Type declaration:
 
@@ -62,7 +62,7 @@ ___
 
 Ƭ **Props**: *DesignableComponentsProps‹[CardComponents](globals.md#cardcomponents)› & HTMLProps‹HTMLElement›*
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L52)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L52)*
 
 ## Variables
 
@@ -74,13 +74,13 @@ ___
   withNode,
 )(CardBase)
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:82](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L82)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:82](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L82)*
 
 ___
 
 ### `Const` asCardHorizontal
 
-• **asCardHorizontal**: *function* = withDesign({
+• **asCardHorizontal**: *function & object* = withDesign({
   Wrapper: addClasses('md:flex-row w-full flex flex-col'),
   ImageWrapper: addClasses('md:w-1/2'),
   Image: addClasses('w-full'),
@@ -88,66 +88,22 @@ ___
   Body: addClasses('flex-grow'),
 })
 
-*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tokens.tsx#L37)*
+*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tokens.tsx#L37)*
 
 asCardHorizontal splits the card in half with the image on the left
-
-#### Type declaration:
-
-▸ ‹**P**›(`Component`: React.ComponentType‹P›): *function*
-
-**Type parameters:**
-
-▪ **P**: *DesignableProps‹C›*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`Component` | React.ComponentType‹P› |
-
-▸ (`props`: P): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | P |
 
 ___
 
 ### `Const` asCardNoBody
 
-• **asCardNoBody**: *function* = withDesign({
+• **asCardNoBody**: *function & object* = withDesign({
   Title: addClasses('flex-grow'), // Adds grow here because body will not exist
   Body: remove,
 })
 
-*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tokens.tsx#L55)*
+*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tokens.tsx#L55)*
 
 asCardNoBody removes the body from the card and adjust title
-
-#### Type declaration:
-
-▸ ‹**P**›(`Component`: React.ComponentType‹P›): *function*
-
-**Type parameters:**
-
-▪ **P**: *DesignableProps‹C›*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`Component` | React.ComponentType‹P› |
-
-▸ (`props`: P): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | P |
 
 ___
 
@@ -159,93 +115,49 @@ ___
   withDesign({ ImageLink: addClasses('flex-grow') }),
 )
 
-*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:63](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tokens.tsx#L63)*
+*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:63](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tokens.tsx#L63)*
 
 asCardNoBodyNoTitle removes both body and title from the card and adjusts image link
 
 #### Type declaration:
 
-▸ (...`args`: any[]): *any*
+▸ (...`args`: A): *R3*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`...args` | any[] |
+`...args` | A |
 
 ___
 
 ### `Const` asCardNoCta
 
-• **asCardNoCta**: *function* = withDesign({
+• **asCardNoCta**: *function & object* = withDesign({
   Link: remove,
 })
 
-*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:72](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tokens.tsx#L72)*
+*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:72](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tokens.tsx#L72)*
 
 asCardNoCta removes link from the card
-
-#### Type declaration:
-
-▸ ‹**P**›(`Component`: React.ComponentType‹P›): *function*
-
-**Type parameters:**
-
-▪ **P**: *DesignableProps‹C›*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`Component` | React.ComponentType‹P› |
-
-▸ (`props`: P): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | P |
 
 ___
 
 ### `Const` asCardNoTitle
 
-• **asCardNoTitle**: *function* = withDesign({
+• **asCardNoTitle**: *function & object* = withDesign({
   Title: remove,
 })
 
-*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tokens.tsx#L48)*
+*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tokens.tsx#L48)*
 
 asCardNoTitle removes title from the card
-
-#### Type declaration:
-
-▸ ‹**P**›(`Component`: React.ComponentType‹P›): *function*
-
-**Type parameters:**
-
-▪ **P**: *DesignableProps‹C›*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`Component` | React.ComponentType‹P› |
-
-▸ (`props`: P): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | P |
 
 ___
 
 ### `Const` asCardOverlayCta
 
-• **asCardOverlayCta**: *function* = withDesign({
+• **asCardOverlayCta**: *function & object* = withDesign({
   Link: flow(
     addClasses('absolute bottom-0 right-0 m-8 px-8'),
     removeClasses('w-full'),
@@ -253,72 +165,28 @@ ___
   Wrapper: addClasses('relative'),
 })
 
-*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:87](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tokens.tsx#L87)*
+*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:87](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tokens.tsx#L87)*
 
 asCardOverlayCta puts the link over the card image bottom
-
-#### Type declaration:
-
-▸ ‹**P**›(`Component`: React.ComponentType‹P›): *function*
-
-**Type parameters:**
-
-▪ **P**: *DesignableProps‹C›*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`Component` | React.ComponentType‹P› |
-
-▸ (`props`: P): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | P |
 
 ___
 
 ### `Const` asCardOverlayTitle
 
-• **asCardOverlayTitle**: *function* = withDesign({
+• **asCardOverlayTitle**: *function & object* = withDesign({
   Title: addClasses('absolute left-0 right-0 top-0 m-8 w-auto'),
   Wrapper: addClasses('relative'),
 })
 
-*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:79](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tokens.tsx#L79)*
+*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:79](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tokens.tsx#L79)*
 
 asCardOverlayTitle puts the title over the card image top
-
-#### Type declaration:
-
-▸ ‹**P**›(`Component`: React.ComponentType‹P›): *function*
-
-**Type parameters:**
-
-▪ **P**: *DesignableProps‹C›*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`Component` | React.ComponentType‹P› |
-
-▸ (`props`: P): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | P |
 
 ___
 
 ### `Const` asCardVertical
 
-• **asCardVertical**: *function* = withDesign({
+• **asCardVertical**: *function & object* = withDesign({
   Wrapper: addClasses('w-full flex h-full flex-col'),
   ContentWrapper: remove,
   Image: addClasses('w-full'),
@@ -326,37 +194,15 @@ ___
   Body: addClasses('flex-grow'),
 })
 
-*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tokens.tsx#L26)*
+*Defined in [packages/bodiless-card/src/components/Cards.tokens.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tokens.tsx#L26)*
 
 asCardVertical removes unnecessary wrappers from the card
-
-#### Type declaration:
-
-▸ ‹**P**›(`Component`: React.ComponentType‹P›): *function*
-
-**Type parameters:**
-
-▪ **P**: *DesignableProps‹C›*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`Component` | React.ComponentType‹P› |
-
-▸ (`props`: P): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | P |
 
 ___
 
 ### `Const` asTestableCard
 
-• **asTestableCard**: *function* = withDesign({
+• **asTestableCard**: *function & object* = withDesign({
   Wrapper: addProps({ 'data-card-element': 'wrapper' }),
   ImageWrapper: addProps({ 'data-card-element': 'image-wrapper' }),
   Image: addProps({ 'data-card-element': 'image' }),
@@ -367,33 +213,11 @@ ___
   Link: addProps({ 'data-card-element': 'link' }),
 })
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:93](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L93)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:93](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L93)*
 
 Adds data- identifiers to help select card elements in automated tests.
 
 **`param`** The id attribute to apply to the outer wrapper.
-
-#### Type declaration:
-
-▸ ‹**P**›(`Component`: React.ComponentType‹P›): *function*
-
-**Type parameters:**
-
-▪ **P**: *DesignableProps‹C›*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`Component` | React.ComponentType‹P› |
-
-▸ (`props`: P): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | P |
 
 ## Functions
 
@@ -401,7 +225,7 @@ Name | Type |
 
 ▸ **CardBase**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L54)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L54)*
 
 **Parameters:**
 
@@ -420,13 +244,13 @@ Name | Type |
 
 ### ▪ **cardComponentStart**: *object*
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L41)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L41)*
 
 ###  Body
 
 • **Body**: *object* = Div
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L48)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L48)*
 
 #### Type declaration:
 
@@ -444,7 +268,7 @@ Name | Type |
 
 • **ContentWrapper**: *object* = Div
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L46)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L46)*
 
 #### Type declaration:
 
@@ -462,7 +286,7 @@ Name | Type |
 
 • **Image**: *object* = Img
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:45](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L45)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:45](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L45)*
 
 #### Type declaration:
 
@@ -480,7 +304,7 @@ Name | Type |
 
 • **ImageLink**: *object* = A
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L44)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L44)*
 
 #### Type declaration:
 
@@ -498,7 +322,7 @@ Name | Type |
 
 • **ImageWrapper**: *object* = Div
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L43)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L43)*
 
 #### Type declaration:
 
@@ -516,7 +340,7 @@ Name | Type |
 
 • **Link**: *object* = A
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L49)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L49)*
 
 #### Type declaration:
 
@@ -534,7 +358,7 @@ Name | Type |
 
 • **Title**: *object* = H2
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L47)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L47)*
 
 #### Type declaration:
 
@@ -552,7 +376,7 @@ Name | Type |
 
 • **Wrapper**: *object* = Div
 
-*Defined in [packages/bodiless-card/src/components/Cards.tsx:42](https://github.com/VancheeZze/Bodiless-JS/blob/bea046a1/packages/bodiless-card/src/components/Cards.tsx#L42)*
+*Defined in [packages/bodiless-card/src/components/Cards.tsx:42](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-card/src/components/Cards.tsx#L42)*
 
 #### Type declaration:
 
