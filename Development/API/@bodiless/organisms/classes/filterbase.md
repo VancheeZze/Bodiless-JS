@@ -1,10 +1,8 @@
 [@bodiless/organisms](../README.md) › [Globals](../globals.md) › [FilterBase](filterbase.md)
 
-# Class: FilterBase ‹**P, S, SS**›
+# Class: FilterBase ‹**S, SS**›
 
 ## Type parameters
-
-▪ **P**
 
 ▪ **S**
 
@@ -12,7 +10,7 @@
 
 ## Hierarchy
 
-* PureComponent
+* PureComponent‹[FilterBaseProps](../globals.md#filterbaseprops)›
 
   ↳ **FilterBase**
 
@@ -47,15 +45,15 @@
 
 ###  constructor
 
-\+ **new FilterBase**(`props`: [FilterProps](../globals.md#filterprops)): *[FilterBase](filterbase.md)*
+\+ **new FilterBase**(`props`: [FilterBaseProps](../globals.md#filterbaseprops)): *[FilterBase](filterbase.md)*
 
-*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:193](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L193)*
+*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:200](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L200)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`props` | [FilterProps](../globals.md#filterprops) |
+`props` | [FilterBaseProps](../globals.md#filterbaseprops) |
 
 **Returns:** *[FilterBase](filterbase.md)*
 
@@ -65,7 +63,7 @@ Name | Type |
 
 • **Filter**: *ComponentType‹HTMLProps‹HTMLHeadingElement››* = Div
 
-*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:191](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L191)*
+*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:198](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L198)*
 
 ___
 
@@ -73,7 +71,7 @@ ___
 
 • **RestProps**: *object*
 
-*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:193](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L193)*
+*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:200](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L200)*
 
 #### Type declaration:
 
@@ -107,7 +105,7 @@ ___
 
 ### `Optional` UNSAFE_componentWillReceiveProps
 
-▸ **UNSAFE_componentWillReceiveProps**(`nextProps`: Readonly‹P›, `nextContext`: any): *void*
+▸ **UNSAFE_componentWillReceiveProps**(`nextProps`: Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)›, `nextContext`: any): *void*
 
 *Inherited from [FilterBase](filterbase.md).[UNSAFE_componentWillReceiveProps](filterbase.md#optional-unsafe_componentwillreceiveprops)*
 
@@ -134,7 +132,7 @@ prevents this from being invoked.
 
 Name | Type |
 ------ | ------ |
-`nextProps` | Readonly‹P› |
+`nextProps` | Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)› |
 `nextContext` | any |
 
 **Returns:** *void*
@@ -143,7 +141,7 @@ ___
 
 ### `Optional` UNSAFE_componentWillUpdate
 
-▸ **UNSAFE_componentWillUpdate**(`nextProps`: Readonly‹P›, `nextState`: Readonly‹S›, `nextContext`: any): *void*
+▸ **UNSAFE_componentWillUpdate**(`nextProps`: Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)›, `nextState`: Readonly‹S›, `nextContext`: any): *void*
 
 *Inherited from [FilterBase](filterbase.md).[UNSAFE_componentWillUpdate](filterbase.md#optional-unsafe_componentwillupdate)*
 
@@ -168,7 +166,7 @@ prevents this from being invoked.
 
 Name | Type |
 ------ | ------ |
-`nextProps` | Readonly‹P› |
+`nextProps` | Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)› |
 `nextState` | Readonly‹S› |
 `nextContext` | any |
 
@@ -214,7 +212,7 @@ ___
 
 ### `Optional` componentDidUpdate
 
-▸ **componentDidUpdate**(`prevProps`: Readonly‹P›, `prevState`: Readonly‹S›, `snapshot?`: SS): *void*
+▸ **componentDidUpdate**(`prevProps`: Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)›, `prevState`: Readonly‹S›, `snapshot?`: SS): *void*
 
 *Inherited from [FilterBase](filterbase.md).[componentDidUpdate](filterbase.md#optional-componentdidupdate)*
 
@@ -228,7 +226,7 @@ The snapshot is only present if getSnapshotBeforeUpdate is present and returns n
 
 Name | Type |
 ------ | ------ |
-`prevProps` | Readonly‹P› |
+`prevProps` | Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)› |
 `prevState` | Readonly‹S› |
 `snapshot?` | SS |
 
@@ -262,7 +260,7 @@ ___
 
 ### `Optional` componentWillReceiveProps
 
-▸ **componentWillReceiveProps**(`nextProps`: Readonly‹P›, `nextContext`: any): *void*
+▸ **componentWillReceiveProps**(`nextProps`: Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)›, `nextContext`: any): *void*
 
 *Inherited from [FilterBase](filterbase.md).[componentWillReceiveProps](filterbase.md#optional-componentwillreceiveprops)*
 
@@ -287,7 +285,7 @@ prevents this from being invoked.
 
 Name | Type |
 ------ | ------ |
-`nextProps` | Readonly‹P› |
+`nextProps` | Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)› |
 `nextContext` | any |
 
 **Returns:** *void*
@@ -311,7 +309,7 @@ ___
 
 ### `Optional` componentWillUpdate
 
-▸ **componentWillUpdate**(`nextProps`: Readonly‹P›, `nextState`: Readonly‹S›, `nextContext`: any): *void*
+▸ **componentWillUpdate**(`nextProps`: Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)›, `nextState`: Readonly‹S›, `nextContext`: any): *void*
 
 *Inherited from [FilterBase](filterbase.md).[componentWillUpdate](filterbase.md#optional-componentwillupdate)*
 
@@ -334,7 +332,7 @@ prevents this from being invoked.
 
 Name | Type |
 ------ | ------ |
-`nextProps` | Readonly‹P› |
+`nextProps` | Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)› |
 `nextState` | Readonly‹S› |
 `nextContext` | any |
 
@@ -344,7 +342,7 @@ ___
 
 ### `Optional` getSnapshotBeforeUpdate
 
-▸ **getSnapshotBeforeUpdate**(`prevProps`: Readonly‹P›, `prevState`: Readonly‹S›): *SS | null*
+▸ **getSnapshotBeforeUpdate**(`prevProps`: Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)›, `prevState`: Readonly‹S›): *SS | null*
 
 *Inherited from [FilterBase](filterbase.md).[getSnapshotBeforeUpdate](filterbase.md#optional-getsnapshotbeforeupdate)*
 
@@ -361,7 +359,7 @@ lifecycle events from running.
 
 Name | Type |
 ------ | ------ |
-`prevProps` | Readonly‹P› |
+`prevProps` | Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)› |
 `prevState` | Readonly‹S› |
 
 **Returns:** *SS | null*
@@ -372,7 +370,7 @@ ___
 
 ▸ **render**(): *Element‹›*
 
-*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:209](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L209)*
+*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:216](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L216)*
 
 **Returns:** *Element‹›*
 
@@ -380,7 +378,7 @@ ___
 
 ### `Optional` shouldComponentUpdate
 
-▸ **shouldComponentUpdate**(`nextProps`: Readonly‹P›, `nextState`: Readonly‹S›, `nextContext`: any): *boolean*
+▸ **shouldComponentUpdate**(`nextProps`: Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)›, `nextState`: Readonly‹S›, `nextContext`: any): *boolean*
 
 *Inherited from [FilterBase](filterbase.md).[shouldComponentUpdate](filterbase.md#optional-shouldcomponentupdate)*
 
@@ -399,7 +397,7 @@ and `componentDidUpdate` will not be called.
 
 Name | Type |
 ------ | ------ |
-`nextProps` | Readonly‹P› |
+`nextProps` | Readonly‹[FilterBaseProps](../globals.md#filterbaseprops)› |
 `nextState` | Readonly‹S› |
 `nextContext` | any |
 

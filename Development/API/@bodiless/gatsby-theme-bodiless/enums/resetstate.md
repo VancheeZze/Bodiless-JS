@@ -17,7 +17,7 @@
 
 • **Complete**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/Reset.tsx:11](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/Reset.tsx#L11)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/Reset.tsx:11](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/Reset.tsx#L11)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Errored**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/Reset.tsx:12](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/Reset.tsx#L12)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/Reset.tsx:12](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/Reset.tsx#L12)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Init**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/Reset.tsx:9](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/Reset.tsx#L9)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/Reset.tsx:9](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/Reset.tsx#L9)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Pending**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/Reset.tsx:10](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/Reset.tsx#L10)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/Reset.tsx:10](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/Reset.tsx#L10)*

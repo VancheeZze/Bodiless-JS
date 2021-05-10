@@ -17,7 +17,7 @@
 
 • **Complete**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx#L49)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx#L49)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **Errored**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx#L50)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx#L50)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **Init**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx#L47)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx#L47)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **Pending**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx#L48)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/withNewPageButton.tsx#L48)*

@@ -38,7 +38,7 @@ limitations under the License.
 
 • **Fixed**: = "fixed"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:16](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L16)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:16](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L16)*
 
 ___
 
@@ -46,7 +46,7 @@ ___
 
 • **FixedNoBase64**: = "fixed_noBase64"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L17)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L17)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 • **FixedTracedSVG**: = "fixed_tracedSVG"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L18)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L18)*
 
 ___
 
@@ -62,7 +62,7 @@ ___
 
 • **FixedWithWebp**: = "fixed_withWebp"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:19](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L19)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:19](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L19)*
 
 ___
 
@@ -70,7 +70,7 @@ ___
 
 • **FixedWithWebpNoBase64**: = "fixed_withWebp_noBase64"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L20)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L20)*
 
 ___
 
@@ -78,7 +78,7 @@ ___
 
 • **FixedWithWebpTracedSVG**: = "fixed_withWebp_tracedSVG"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L21)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L21)*
 
 ___
 
@@ -86,7 +86,7 @@ ___
 
 • **Fluid**: = "fluid"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L22)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L22)*
 
 ___
 
@@ -94,7 +94,7 @@ ___
 
 • **FluidLimitPresentationSize**: = "fluidLimitPresentationSize"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:28](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L28)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:28](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L28)*
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 • **FluidNoBase64**: = "fluid_noBase64"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:23](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L23)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:23](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L23)*
 
 ___
 
@@ -110,7 +110,7 @@ ___
 
 • **FluidTracedSVG**: = "fluid_tracedSVG"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L24)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L24)*
 
 ___
 
@@ -118,7 +118,7 @@ ___
 
 • **FluidWithWebp**: = "fluid_withWebp"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L25)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L25)*
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 • **FluidWithWebpNoBase64**: = "fluid_withWebp_noBase64"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L26)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L26)*
 
 ___
 
@@ -134,4 +134,4 @@ ___
 
 • **FluidWithWebpTracedSVG**: = "fluid_withWebp_tracedSVG"
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L27)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/gatsby-theme-bodiless/src/dist/GatsbyImage/GatsbyImagePresets.ts#L27)*

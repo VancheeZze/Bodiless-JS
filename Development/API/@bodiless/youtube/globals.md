@@ -46,7 +46,7 @@
 
 Ƭ **Props**: *IframeProps & object*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L46)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L46)*
 
 ___
 
@@ -54,7 +54,7 @@ ___
 
 Ƭ **YouTubePlayerContextData**: *object*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:104](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L104)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:104](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L104)*
 
 #### Type declaration:
 
@@ -66,7 +66,7 @@ ___
 
 Ƭ **YouTubePlayerSettings**: *object*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L30)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L30)*
 
 YouTube embed player parameters
 
@@ -104,17 +104,17 @@ YouTube embed player parameters
 
 ### `Const` ActivatorWrapper
 
-• **ActivatorWrapper**: *ComponentClass‹any, any› & object | FunctionComponent‹any› & object* = addClasses('absolute w-full h-full inset-0')(Div)
+• **ActivatorWrapper**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = addClasses('absolute w-full h-full inset-0')(Div)
 
-*Defined in [packages/bodiless-youtube/src/ResponsiveYouTube.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/ResponsiveYouTube.tsx#L37)*
+*Defined in [packages/bodiless-youtube/src/ResponsiveYouTube.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/ResponsiveYouTube.tsx#L37)*
 
 ___
 
 ### `Const` YouTube
 
-• **YouTube**: *ComponentClass‹any, any› & object | FunctionComponent‹any› & object* = asBodilessYouTube()('iframe')
+• **YouTube**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = asBodilessYouTube()('iframe')
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:205](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L205)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:205](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L205)*
 
 ___
 
@@ -124,7 +124,7 @@ ___
   isLoaded: false,
 })
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:108](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L108)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:108](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L108)*
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 • **asBaseBodilessYouTube**: *AsBodiless‹[Props](globals.md#props), IframeData›* = asBaseBodilessIframe
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:192](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L192)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:192](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L192)*
 
 ___
 
@@ -149,7 +149,7 @@ ___
   ),
 })
 
-*Defined in [packages/bodiless-youtube/src/ResponsiveYouTube.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/ResponsiveYouTube.tsx#L44)*
+*Defined in [packages/bodiless-youtube/src/ResponsiveYouTube.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/ResponsiveYouTube.tsx#L44)*
 
 ___
 
@@ -169,7 +169,7 @@ ___
   ),
 })
 
-*Defined in [packages/bodiless-youtube/src/ResponsiveYouTube.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/ResponsiveYouTube.tsx#L55)*
+*Defined in [packages/bodiless-youtube/src/ResponsiveYouTube.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/ResponsiveYouTube.tsx#L55)*
 
 ___
 
@@ -177,25 +177,15 @@ ___
 
 • **isValidYouTubeUrl**: *[extractVideoIdFromUrl](globals.md#const-extractvideoidfromurl)* = extractVideoIdFromUrl
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:67](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L67)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:67](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L67)*
 
 ___
 
 ### `Const` withFullScreenEnabled
 
-• **withFullScreenEnabled**: *function* = addProps({ allowFullScreen: 'allowFullScreen' })
+• **withFullScreenEnabled**: *function & object* = addProps({ allowFullScreen: 'allowFullScreen' })
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:75](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L75)*
-
-#### Type declaration:
-
-▸ (`Component`: ComponentType‹any›): *ComponentType‹any›*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`Component` | ComponentType‹any› |
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:75](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L75)*
 
 ___
 
@@ -205,7 +195,7 @@ ___
   title: 'YouTube Configuration',
 })
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:188](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L188)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:188](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L188)*
 
 #### Type declaration:
 
@@ -229,7 +219,7 @@ ___
 
 ### `Const` withYouTubeFormSrcSnippet
 
-• **withYouTubeFormSrcSnippet**: *function* = withFormSnippet({
+• **withYouTubeFormSrcSnippet**: *function & object* = withFormSnippet({
   nodeKeys: 'src',
   defaultData: { src: '' },
   snippetOptions: {
@@ -265,17 +255,7 @@ ___
   },
 })
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:152](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L152)*
-
-#### Type declaration:
-
-▸ (...`args`: any[]): *any*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`...args` | any[] |
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:152](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L152)*
 
 ## Functions
 
@@ -283,7 +263,7 @@ Name | Type |
 
 ▸ **YouTubePlayerAPIProvider**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:112](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L112)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:112](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L112)*
 
 **Parameters:**
 
@@ -301,7 +281,7 @@ ___
 
 ▸ **adjustLoopPlayerSettings**(`settings`: Partial‹[YouTubePlayerSettings](globals.md#youtubeplayersettings)›, `videoId`: string): *object | object | object*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:80](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L80)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:80](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L80)*
 
 **Parameters:**
 
@@ -318,7 +298,7 @@ ___
 
 ▸ **asBodilessYouTube**(`nodeKeys?`: undefined | string | object, `defaultData?`: undefined | object, `useOverrides?`: undefined | function): *function*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:194](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L194)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:194](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L194)*
 
 **Parameters:**
 
@@ -344,7 +324,7 @@ ___
 
 ▸ **extractVideoIdFromUrl**(`url`: string): *undefined | string*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:61](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L61)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:61](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L61)*
 
 **Parameters:**
 
@@ -360,7 +340,7 @@ ___
 
 ▸ **ifNotYouTubePlayerAPILoaded**(): *boolean*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:150](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L150)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:150](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L150)*
 
 **Returns:** *boolean*
 
@@ -370,7 +350,7 @@ ___
 
 ▸ **ifYouTubePlayerAPILoaded**(): *boolean*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:149](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L149)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:149](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L149)*
 
 **Returns:** *boolean*
 
@@ -380,7 +360,7 @@ ___
 
 ▸ **useYouTubePlayerAPI**(): *object*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:148](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L148)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:148](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L148)*
 
 **Returns:** *object*
 
@@ -392,7 +372,7 @@ ___
 
 ▸ **withYouTubePlayerAPI**(`Component`: ComponentType‹any›): *WithYouTubePlayerAPI*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:138](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L138)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:138](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L138)*
 
 **Parameters:**
 
@@ -406,9 +386,9 @@ ___
 
 ### `Const` withYouTubePlayerSettings
 
-▸ **withYouTubePlayerSettings**(`settings`: Partial‹[YouTubePlayerSettings](globals.md#youtubeplayersettings)›): *function*
+▸ **withYouTubePlayerSettings**(`settings`: Partial‹[YouTubePlayerSettings](globals.md#youtubeplayersettings)›): *function & object*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:69](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L69)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:69](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L69)*
 
 **Parameters:**
 
@@ -416,15 +396,7 @@ Name | Type |
 ------ | ------ |
 `settings` | Partial‹[YouTubePlayerSettings](globals.md#youtubeplayersettings)› |
 
-**Returns:** *function*
-
-▸ (`Component`: ComponentType‹any›): *ComponentType‹any›*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`Component` | ComponentType‹any› |
+**Returns:** *function & object*
 
 ___
 
@@ -432,7 +404,7 @@ ___
 
 ▸ **withYouTubePlayerTransformer**(`Component`: ComponentType‹[Props](globals.md#props)›): *WithYouTubePlayerTransformer*
 
-*Defined in [packages/bodiless-youtube/src/YouTube.tsx:85](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-youtube/src/YouTube.tsx#L85)*
+*Defined in [packages/bodiless-youtube/src/YouTube.tsx:85](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-youtube/src/YouTube.tsx#L85)*
 
 **Parameters:**
 

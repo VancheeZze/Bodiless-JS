@@ -87,7 +87,7 @@ Singleton store.
 
 \+ **new PageEditContext**(`values?`: [DefinesLocalEditContext](../interfaces/defineslocaleditcontext.md), `parent?`: [PageEditContextInterface](../interfaces/pageeditcontextinterface.md)): *[PageEditContext](pageeditcontext.md)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:58](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L58)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:58](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L58)*
 
 **Parameters:**
 
@@ -106,7 +106,7 @@ Name | Type |
 
 *Implementation of [PageEditContextInterface](../interfaces/pageeditcontextinterface.md).[hasLocalMenu](../interfaces/pageeditcontextinterface.md#haslocalmenu)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:58](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L58)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:58](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L58)*
 
 ___
 
@@ -116,7 +116,7 @@ ___
 
 *Implementation of [PageEditContextInterface](../interfaces/pageeditcontextinterface.md).[id](../interfaces/pageeditcontextinterface.md#readonly-id)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L46)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L46)*
 
 ___
 
@@ -126,7 +126,7 @@ ___
 
 *Implementation of [PageEditContextInterface](../interfaces/pageeditcontextinterface.md).[name](../interfaces/pageeditcontextinterface.md#readonly-name)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L48)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L48)*
 
 ___
 
@@ -136,7 +136,7 @@ ___
 
 *Implementation of [PageEditContextInterface](../interfaces/pageeditcontextinterface.md).[parent](../interfaces/pageeditcontextinterface.md#optional-readonly-parent)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L52)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L52)*
 
 ___
 
@@ -144,7 +144,7 @@ ___
 
 • **peerContextMap**: *Map‹string, [PageEditContextInterface](../interfaces/pageeditcontextinterface.md) | null›* = new Map()
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:73](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L73)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:73](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L73)*
 
 ___
 
@@ -152,7 +152,7 @@ ___
 
 • **store**: *[PageEditStoreInterface](../interfaces/pageeditstoreinterface.md)* = defaultStore
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:56](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L56)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:56](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L56)*
 
 ___
 
@@ -162,7 +162,7 @@ ___
 
 *Implementation of [PageEditContextInterface](../interfaces/pageeditcontextinterface.md).[type](../interfaces/pageeditcontextinterface.md#optional-type)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L54)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L54)*
 
 ___
 
@@ -170,7 +170,7 @@ ___
 
 ▪ **Provider**: *ProviderExoticComponent‹ProviderProps‹[PageEditContextInterface](../interfaces/pageeditcontextinterface.md)››* = PageEditContext.context.Provider
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:121](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L121)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:121](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L121)*
 
 ___
 
@@ -178,7 +178,7 @@ ___
 
 ▪ **context**: *Context‹[PageEditContextInterface](../interfaces/pageeditcontextinterface.md)›* = React.createContext<PageEditContextInterface>(PageEditContext.root)
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:110](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L110)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:110](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L110)*
 
 ___
 
@@ -186,7 +186,7 @@ ___
 
 ▪ **root**: *[PageEditContext](pageeditcontext.md)‹›* = new PageEditContext()
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:108](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L108)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:108](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L108)*
 
 ## Accessors
 
@@ -194,7 +194,7 @@ ___
 
 • **get activeContext**(): *undefined | [PageEditContextInterface](../interfaces/pageeditcontextinterface.md)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:149](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L149)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:149](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L149)*
 
 **Returns:** *undefined | [PageEditContextInterface](../interfaces/pageeditcontextinterface.md)*
 
@@ -204,7 +204,7 @@ ___
 
 • **get activeDescendants**(): *undefined | [PageEditContextInterface](../interfaces/pageeditcontextinterface.md)[]*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:153](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L153)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:153](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L153)*
 
 **Returns:** *undefined | [PageEditContextInterface](../interfaces/pageeditcontextinterface.md)[]*
 
@@ -214,7 +214,7 @@ ___
 
 • **get areLocalTooltipsDisabled**(): *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:238](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L238)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:238](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L238)*
 
 **Returns:** *boolean*
 
@@ -224,7 +224,7 @@ ___
 
 • **get contextMenuOptions**(): *object[]*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:191](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L191)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:191](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L191)*
 
 **Returns:** *object[]*
 
@@ -234,7 +234,7 @@ ___
 
 • **get isActive**(): *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:139](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L139)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:139](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L139)*
 
 **Returns:** *boolean*
 
@@ -244,7 +244,7 @@ ___
 
 • **get isEdit**(): *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:175](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L175)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:175](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L175)*
 
 **Returns:** *boolean*
 
@@ -254,7 +254,7 @@ ___
 
 • **get isInnermost**(): *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:143](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L143)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:143](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L143)*
 
 **Returns:** *boolean*
 
@@ -264,7 +264,7 @@ ___
 
 • **get isInnermostLocalMenu**(): *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:162](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L162)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:162](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L162)*
 
 **Returns:** *boolean*
 
@@ -274,7 +274,7 @@ ___
 
 • **get isPositionToggled**(): *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:183](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L183)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:183](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L183)*
 
 **Returns:** *boolean*
 
@@ -284,7 +284,7 @@ ___
 
 • **get optionMap**(): *Map‹string, Map‹string, object››*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:195](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L195)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:195](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L195)*
 
 **Returns:** *Map‹string, Map‹string, object››*
 
@@ -294,7 +294,7 @@ ___
 
 • **get pageOverlay**(): *object*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:199](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L199)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:199](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L199)*
 
 **Returns:** *object*
 
@@ -308,7 +308,7 @@ ___
 
 • **get peerContexts**(): *[PageEditContextInterface](../interfaces/pageeditcontextinterface.md)[]*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:75](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L75)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:75](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L75)*
 
 **Returns:** *[PageEditContextInterface](../interfaces/pageeditcontextinterface.md)[]*
 
@@ -318,7 +318,7 @@ ___
 
 ▸ **activate**(): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:129](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L129)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:129](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L129)*
 
 **Returns:** *void*
 
@@ -328,7 +328,7 @@ ___
 
 ▸ **getMenuOptions**(): *never[]*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L50)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L50)*
 
 **Returns:** *never[]*
 
@@ -338,7 +338,7 @@ ___
 
 ▸ **hidePageOverlay**(): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:222](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L222)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:222](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L222)*
 
 **Returns:** *void*
 
@@ -348,7 +348,7 @@ ___
 
 ▸ **registerPeer**(`context`: [PageEditContextInterface](../interfaces/pageeditcontextinterface.md)): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:86](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L86)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:86](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L86)*
 
 Registers a context as a peer.  Peer contexts contribute their menu options whenever the
 context to which they are registered is activated.
@@ -367,7 +367,7 @@ ___
 
 ▸ **showError**(`passedSettings`: [TOverlaySettings](../globals.md#toverlaysettings) | undefined): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:228](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L228)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:228](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L228)*
 
 **Parameters:**
 
@@ -383,7 +383,7 @@ ___
 
 ▸ **showPageOverlay**(`passedSettings`: [TOverlaySettings](../globals.md#toverlaysettings) | undefined): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:203](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L203)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:203](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L203)*
 
 **Parameters:**
 
@@ -399,7 +399,7 @@ ___
 
 ▸ **spawn**(`values`: [DefinesLocalEditContext](../interfaces/defineslocaleditcontext.md)): *[PageEditContextInterface](../interfaces/pageeditcontextinterface.md)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:124](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L124)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:124](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L124)*
 
 **Parameters:**
 
@@ -415,7 +415,7 @@ ___
 
 ▸ **toggleEdit**(`on?`: undefined | false | true): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:179](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L179)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:179](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L179)*
 
 **Parameters:**
 
@@ -431,7 +431,7 @@ ___
 
 ▸ **toggleLocalTooltipsDisabled**(`isDisabled?`: undefined | false | true): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:242](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L242)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:242](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L242)*
 
 **Parameters:**
 
@@ -447,7 +447,7 @@ ___
 
 ▸ **togglePosition**(`on?`: undefined | false | true): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:187](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L187)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:187](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L187)*
 
 **Parameters:**
 
@@ -463,7 +463,7 @@ ___
 
 ▸ **unregisterPeer**(`context`: [PageEditContextInterface](../interfaces/pageeditcontextinterface.md)): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:96](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L96)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:96](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L96)*
 
 Marks a peer context as "unregistered".  An unregistered peer will not contribute
 its menu options.
@@ -482,7 +482,7 @@ ___
 
 ▸ **unregisterPeers**(): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:104](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L104)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:104](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L104)*
 
 **Returns:** *void*
 
@@ -492,7 +492,7 @@ ___
 
 ▸ **updateMenuOptions**(): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:133](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L133)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:133](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L133)*
 
 **Returns:** *void*
 
@@ -502,7 +502,7 @@ ___
 
 ▸ **Consumer**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:115](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-core/src/PageEditContext/index.tsx#L115)*
+*Defined in [packages/bodiless-core/src/PageEditContext/index.tsx:115](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/index.tsx#L115)*
 
 **Parameters:**
 

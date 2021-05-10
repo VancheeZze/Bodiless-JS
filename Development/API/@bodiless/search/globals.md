@@ -28,6 +28,7 @@
 * [SearchResultProps](globals.md#searchresultprops)
 * [Suggestion](globals.md#suggestion)
 * [SuggestionComponents](globals.md#suggestioncomponents)
+* [SuggestionLinkProps](globals.md#suggestionlinkprops)
 * [SuggestionListComponents](globals.md#suggestionlistcomponents)
 * [SuggestionListProps](globals.md#suggestionlistprops)
 * [SuggestionProps](globals.md#suggestionprops)
@@ -95,7 +96,7 @@
 
 Ƭ **ResponsiveSearchComponents**: *object & [SearchComponents](globals.md#searchcomponents)*
 
-*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L37)*
+*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L37)*
 
 ___
 
@@ -103,7 +104,7 @@ ___
 
 Ƭ **ResponsiveSearchProps**: *DesignableComponentsProps‹[ResponsiveSearchComponents](globals.md#responsivesearchcomponents)› & [SearchProps](globals.md#searchprops)*
 
-*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L43)*
+*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L43)*
 
 ___
 
@@ -111,7 +112,7 @@ ___
 
 Ƭ **SearchComponents**: *object*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L44)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L44)*
 
 #### Type declaration:
 
@@ -129,7 +130,7 @@ ___
 
 Ƭ **SearchIndex**: *object*
 
-*Defined in [packages/bodiless-search/src/SearchClient.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/SearchClient.ts#L27)*
+*Defined in [packages/bodiless-search/src/SearchClient.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/SearchClient.ts#L27)*
 
 #### Type declaration:
 
@@ -145,7 +146,7 @@ ___
 
 Ƭ **SearchProps**: *DesignableComponentsProps‹[SearchComponents](globals.md#searchcomponents)› & HTMLProps‹HTMLElement› & object*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:122](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L122)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:122](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L122)*
 
 ___
 
@@ -153,7 +154,7 @@ ___
 
 Ƭ **SearchResultComponents**: *object*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L53)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L53)*
 
 #### Type declaration:
 
@@ -171,7 +172,7 @@ ___
 
 Ƭ **SearchResultItemComponents**: *object*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:60](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L60)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:60](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L60)*
 
 #### Type declaration:
 
@@ -189,7 +190,7 @@ ___
 
 Ƭ **SearchResultItemProps**: *DesignableComponentsProps‹[SearchResultItemComponents](globals.md#searchresultitemcomponents)› & object*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:67](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L67)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:67](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L67)*
 
 ___
 
@@ -197,7 +198,7 @@ ___
 
 Ƭ **SearchResultProps**: *DesignableComponentsProps‹[SearchResultComponents](globals.md#searchresultcomponents)› & HTMLProps‹HTMLElement› & object*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:126](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L126)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:126](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L126)*
 
 ___
 
@@ -205,7 +206,7 @@ ___
 
 Ƭ **Suggestion**: *object*
 
-*Defined in [packages/bodiless-search/src/types.ts:71](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/types.ts#L71)*
+*Defined in [packages/bodiless-search/src/types.ts:71](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/types.ts#L71)*
 
 #### Type declaration:
 
@@ -219,7 +220,7 @@ ___
 
 Ƭ **SuggestionComponents**: *object*
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L31)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L32)*
 
 #### Type declaration:
 
@@ -231,11 +232,23 @@ ___
 
 ___
 
+###  SuggestionLinkProps
+
+Ƭ **SuggestionLinkProps**: *object*
+
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:66](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L66)*
+
+#### Type declaration:
+
+* **text**: *string*
+
+___
+
 ###  SuggestionListComponents
 
 Ƭ **SuggestionListComponents**: *object*
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:94](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L94)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:101](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L101)*
 
 #### Type declaration:
 
@@ -251,7 +264,7 @@ ___
 
 Ƭ **SuggestionListProps**: *object & DesignableComponentsProps‹[SuggestionListComponents](globals.md#suggestionlistcomponents)›*
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:106](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L106)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:113](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L113)*
 
 ___
 
@@ -259,7 +272,7 @@ ___
 
 Ƭ **SuggestionProps**: *DesignableComponentsProps‹[SuggestionComponents](globals.md#suggestioncomponents)› & object*
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L43)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L44)*
 
 ___
 
@@ -267,7 +280,7 @@ ___
 
 Ƭ **SuggestionSettings**: *object*
 
-*Defined in [packages/bodiless-search/src/SearchClient.ts:33](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/SearchClient.ts#L33)*
+*Defined in [packages/bodiless-search/src/SearchClient.ts:33](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/SearchClient.ts#L33)*
 
 #### Type declaration:
 
@@ -281,7 +294,7 @@ ___
 
 Ƭ **TDocument**: *object*
 
-*Defined in [packages/bodiless-search/src/types.ts:35](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/types.ts#L35)*
+*Defined in [packages/bodiless-search/src/types.ts:35](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/types.ts#L35)*
 
 #### Type declaration:
 
@@ -293,7 +306,7 @@ ___
 
 Ƭ **TField**: *object*
 
-*Defined in [packages/bodiless-search/src/types.ts:43](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/types.ts#L43)*
+*Defined in [packages/bodiless-search/src/types.ts:43](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/types.ts#L43)*
 
 #### Type declaration:
 
@@ -307,7 +320,7 @@ ___
 
 Ƭ **TIndexConfig**: *object*
 
-*Defined in [packages/bodiless-search/src/types.ts:51](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/types.ts#L51)*
+*Defined in [packages/bodiless-search/src/types.ts:51](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/types.ts#L51)*
 
 #### Type declaration:
 
@@ -321,7 +334,7 @@ ___
 
 Ƭ **TPreview**: *object*
 
-*Defined in [packages/bodiless-search/src/types.ts:37](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/types.ts#L37)*
+*Defined in [packages/bodiless-search/src/types.ts:37](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/types.ts#L37)*
 
 #### Type declaration:
 
@@ -333,7 +346,7 @@ ___
 
 Ƭ **TSearchConf**: *object*
 
-*Defined in [packages/bodiless-search/src/types.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/types.ts#L39)*
+*Defined in [packages/bodiless-search/src/types.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/types.ts#L39)*
 
 #### Type declaration:
 
@@ -345,7 +358,7 @@ ___
 
 Ƭ **TSearchIndexSettings**: *object*
 
-*Defined in [packages/bodiless-search/src/types.ts:56](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/types.ts#L56)*
+*Defined in [packages/bodiless-search/src/types.ts:56](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/types.ts#L56)*
 
 #### Type declaration:
 
@@ -363,7 +376,7 @@ ___
 
 Ƭ **TSearchResult**: *object*
 
-*Defined in [packages/bodiless-search/src/types.ts:63](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/types.ts#L63)*
+*Defined in [packages/bodiless-search/src/types.ts:63](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/types.ts#L63)*
 
 #### Type declaration:
 
@@ -383,7 +396,7 @@ ___
 
 Ƭ **TSearchResultContextValue**: *object*
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L23)*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L24)*
 
 #### Type declaration:
 
@@ -405,7 +418,7 @@ ___
 
 Ƭ **TSearchResults**: *[TSearchResult](globals.md#tsearchresult)[]*
 
-*Defined in [packages/bodiless-search/src/types.ts:76](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/types.ts#L76)*
+*Defined in [packages/bodiless-search/src/types.ts:76](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/types.ts#L76)*
 
 ## Variables
 
@@ -423,7 +436,7 @@ ___
   }),
 )(BaseSuggestion)
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:82](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L82)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:89](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L89)*
 
 ___
 
@@ -431,38 +444,38 @@ ___
 
 • **DEFAULT_DISPLAY_COUNT**: *5* = 5
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:111](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L111)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:118](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L118)*
 
 ___
 
 ### `Const` ResponsiveSearchBox
 
-• **ResponsiveSearchBox**: *FunctionComponent‹object & HTMLProps‹HTMLElement› & object› | ComponentClass‹object & HTMLProps‹HTMLElement› & object, any›* = flow(
+• **ResponsiveSearchBox**: *FunctionComponent‹object & HTMLProps‹HTMLElement› & object› | ComponentClass‹object & HTMLProps‹HTMLElement› & object, any›* = asToken(
   designable(responsiveSearchComponents, 'ResponsiveSearchBox'),
   withResponsiveDesign,
 )(ResponsiveSearchBoxBase) as ComponentType<SearchProps>
 
-*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:79](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L79)*
+*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:79](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L79)*
 
 ___
 
 ### `Const` SearchBox
 
-• **SearchBox**: *FunctionComponent‹object & HTMLProps‹HTMLElement› & object› | ComponentClass‹object & HTMLProps‹HTMLElement› & object, any›* = designable(
+• **SearchBox**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = designable(
   searchComponents, 'SearchBox',
-)(SearchBoxBase) as ComponentType<SearchProps>
+)(SearchBoxBase)
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:244](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L244)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:244](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L244)*
 
 ___
 
 ### `Const` SearchResult
 
-• **SearchResult**: *FunctionComponent‹object & HTMLProps‹HTMLElement› & object› | ComponentClass‹object & HTMLProps‹HTMLElement› & object, any›* = designable(
+• **SearchResult**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = designable(
   searchResultComponents, 'SearchResult',
-)(SearchResultBase) as ComponentType<SearchResultProps>
+)(SearchResultBase)
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:247](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L247)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:247](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L247)*
 
 ___
 
@@ -472,17 +485,17 @@ ___
   designable(searchResultItemComponents, 'SearchResultItem'),
 )(SearchResultItemBase)
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:111](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L111)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:111](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L111)*
 
 ___
 
 ### `Const` Suggestions
 
-• **Suggestions**: *ComponentClass‹object & object, any› | FunctionComponent‹object & object›* = designable(
+• **Suggestions**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = designable(
   startComponents, 'Suggestions',
 )(CleanSuggestions)
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:139](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L139)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:146](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L146)*
 
 ___
 
@@ -490,7 +503,7 @@ ___
 
 • **config**: *[TSearchConf](globals.md#tsearchconf)*
 
-*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L24)*
+*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L24)*
 
 ___
 
@@ -498,7 +511,7 @@ ___
 
 • **defaultResultCountMessage**: *"Showing %count% result(s)."* = "Showing %count% result(s)."
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:129](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L129)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:129](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L129)*
 
 ___
 
@@ -506,7 +519,7 @@ ___
 
 • **defaultResultEmptyMessage**: *"No content matches your request, please enter new keywords."* = "No content matches your request, please enter new keywords."
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:130](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L130)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:130](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L130)*
 
 ___
 
@@ -514,7 +527,7 @@ ___
 
 • **searchClient**: *[SearchClient](classes/searchclient.md)‹›* = new SearchClient()
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L31)*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L32)*
 
 ___
 
@@ -522,7 +535,7 @@ ___
 
 • **searchPagePath**: *string* = process.env.BODILESS_SEARCH_PAGE || 'search'
 
-*Defined in [packages/bodiless-search/src/components/getSearchPagePath.ts:15](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/getSearchPagePath.ts#L15)*
+*Defined in [packages/bodiless-search/src/components/getSearchPagePath.ts:15](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/getSearchPagePath.ts#L15)*
 
 Copyright © 2021 Johnson & Johnson
 
@@ -542,7 +555,7 @@ ___
 
 • **searchResultContext**: *Context‹object›* = React.createContext<TSearchResultContextValue>(defaultSearchResults)
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L43)*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L44)*
 
 ___
 
@@ -550,7 +563,7 @@ ___
 
 • **tool**: *[SearchTool](classes/searchtool.md)‹›* = new SearchTool(config)
 
-*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L26)*
+*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L26)*
 
 ___
 
@@ -561,7 +574,7 @@ ___
   ToggleButton: addClasses('h-full'),
 })
 
-*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L46)*
+*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L46)*
 
 ___
 
@@ -569,29 +582,23 @@ ___
 
 • **withoutSuggestionProps**: *function* = withoutProps(['text', 'count', 'position'])
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:80](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L80)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:87](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L87)*
 
 #### Type declaration:
 
-▸ ‹**P**›(`Component`: string | ComponentClass‹P, any› | FunctionComponent‹P›): *function*
+▸ ‹**P**, **Q**›(`C`: ComponentOrTag‹P›): *ComponentWithMeta‹Q›*
 
 **Type parameters:**
 
-▪ **P**: *object*
+▪ **P**: *B*
+
+▪ **Q**: *Omit‹P & A, keyof R›*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`Component` | string &#124; ComponentClass‹P, any› &#124; FunctionComponent‹P› |
-
-▸ (`props`: P & Q): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | P & Q |
+`C` | ComponentOrTag‹P› |
 
 ## Functions
 
@@ -599,7 +606,7 @@ Name | Type |
 
 ▸ **BaseSuggestion**(`props`: [SuggestionProps](globals.md#suggestionprops)): *Element‹›*
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L49)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L50)*
 
 **Parameters:**
 
@@ -615,7 +622,7 @@ ___
 
 ▸ **CleanSuggestions**(`props`: [SuggestionListProps](globals.md#suggestionlistprops)): *Element‹›*
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:113](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L113)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:120](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L120)*
 
 **Parameters:**
 
@@ -631,7 +638,7 @@ ___
 
 ▸ **ResponsiveSearchBoxBase**(`props`: object & object & HTMLProps‹HTMLElement› & object & object): *Element‹›*
 
-*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:58](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L58)*
+*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:58](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L58)*
 
 **Parameters:**
 
@@ -647,7 +654,7 @@ ___
 
 ▸ **SearchBoxBase**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:165](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L165)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:165](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L165)*
 
 **Parameters:**
 
@@ -666,7 +673,7 @@ ___
 
 ▸ **SearchInputBase**(`props`: HTMLProps‹HTMLInputElement› & object): *Element‹›*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:70](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L70)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:70](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L70)*
 
 **Parameters:**
 
@@ -682,7 +689,7 @@ ___
 
 ▸ **SearchResultBase**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:131](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L131)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:131](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L131)*
 
 **Parameters:**
 
@@ -702,7 +709,7 @@ ___
 
 ▸ **SearchResultItemBase**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:91](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L91)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:91](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L91)*
 
 **Parameters:**
 
@@ -721,7 +728,7 @@ ___
 
 ▸ **SearchResultProvider**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:45](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L45)*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L46)*
 
 **Parameters:**
 
@@ -739,7 +746,7 @@ ___
 
 ▸ **getSearchPagePath**(`query?`: undefined | string): *string*
 
-*Defined in [packages/bodiless-search/src/components/getSearchPagePath.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/getSearchPagePath.ts#L17)*
+*Defined in [packages/bodiless-search/src/components/getSearchPagePath.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/getSearchPagePath.ts#L17)*
 
 **Parameters:**
 
@@ -755,7 +762,7 @@ ___
 
 ▸ **sortByFrequency**(`suggestions`: [Suggestion](globals.md#suggestion)[]): *object[]*
 
-*Defined in [packages/bodiless-search/src/SearchClient.ts:37](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/SearchClient.ts#L37)*
+*Defined in [packages/bodiless-search/src/SearchClient.ts:37](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/SearchClient.ts#L37)*
 
 **Parameters:**
 
@@ -771,7 +778,7 @@ ___
 
 ▸ **useSearchResultContext**(): *object*
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L44)*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:45](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L45)*
 
 **Returns:** *object*
 
@@ -791,37 +798,33 @@ ___
 
 ### `Const` withSearchResult
 
-▸ **withSearchResult**‹**P**›(`Component`: ComponentType‹P›): *WithSearchResult*
+▸ **withSearchResult**(`Component`: "symbol" | "object" | "a" | "abbr" | "address" | "area" | "article" | "aside" | "audio" | "b" | "base" | "bdi" | "bdo" | "big" | "blockquote" | "body" | "br" | "button" | "canvas" | "caption" | "cite" | "code" | "col" | "colgroup" | "data" | "datalist" | "dd" | "del" | "details" | "dfn" | "dialog" | "div" | "dl" | "dt" | "em" | "embed" | "fieldset" | "figcaption" | "figure" | "footer" | "form" | "h1" | "h2" | "h3" | "h4" | "h5" | "h6" | "head" | "header" | "hgroup" | "hr" | "html" | "i" | "iframe" | "img" | "input" | "ins" | "kbd" | "keygen" | "label" | "legend" | "li" | "link" | "main" | "map" | "mark" | "menu" | "menuitem" | "meta" | "meter" | "nav" | "noindex" | "noscript" | "ol" | "optgroup" | "option" | "output" | "p" | "param" | "picture" | "pre" | "progress" | "q" | "rp" | "rt" | "ruby" | "s" | "samp" | "slot" | "script" | "section" | "select" | "small" | "source" | "span" | "strong" | "style" | "sub" | "summary" | "sup" | "table" | "template" | "tbody" | "td" | "textarea" | "tfoot" | "th" | "thead" | "time" | "title" | "tr" | "track" | "u" | "ul" | "var" | "video" | "wbr" | "webview" | "svg" | "animate" | "animateMotion" | "animateTransform" | "circle" | "clipPath" | "defs" | "desc" | "ellipse" | "feBlend" | "feColorMatrix" | "feComponentTransfer" | "feComposite" | "feConvolveMatrix" | "feDiffuseLighting" | "feDisplacementMap" | "feDistantLight" | "feDropShadow" | "feFlood" | "feFuncA" | "feFuncB" | "feFuncG" | "feFuncR" | "feGaussianBlur" | "feImage" | "feMerge" | "feMergeNode" | "feMorphology" | "feOffset" | "fePointLight" | "feSpecularLighting" | "feSpotLight" | "feTile" | "feTurbulence" | "filter" | "foreignObject" | "g" | "image" | "line" | "linearGradient" | "marker" | "mask" | "metadata" | "mpath" | "path" | "pattern" | "polygon" | "polyline" | "radialGradient" | "rect" | "stop" | "switch" | "text" | "textPath" | "tspan" | "use" | "view" | ComponentClass‹P, any› & object | FunctionComponent‹P› & object): *FunctionComponent‹any›*
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:90](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L90)*
-
-**Type parameters:**
-
-▪ **P**: *object*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:91](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L91)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`Component` | ComponentType‹P› |
+`Component` | "symbol" &#124; "object" &#124; "a" &#124; "abbr" &#124; "address" &#124; "area" &#124; "article" &#124; "aside" &#124; "audio" &#124; "b" &#124; "base" &#124; "bdi" &#124; "bdo" &#124; "big" &#124; "blockquote" &#124; "body" &#124; "br" &#124; "button" &#124; "canvas" &#124; "caption" &#124; "cite" &#124; "code" &#124; "col" &#124; "colgroup" &#124; "data" &#124; "datalist" &#124; "dd" &#124; "del" &#124; "details" &#124; "dfn" &#124; "dialog" &#124; "div" &#124; "dl" &#124; "dt" &#124; "em" &#124; "embed" &#124; "fieldset" &#124; "figcaption" &#124; "figure" &#124; "footer" &#124; "form" &#124; "h1" &#124; "h2" &#124; "h3" &#124; "h4" &#124; "h5" &#124; "h6" &#124; "head" &#124; "header" &#124; "hgroup" &#124; "hr" &#124; "html" &#124; "i" &#124; "iframe" &#124; "img" &#124; "input" &#124; "ins" &#124; "kbd" &#124; "keygen" &#124; "label" &#124; "legend" &#124; "li" &#124; "link" &#124; "main" &#124; "map" &#124; "mark" &#124; "menu" &#124; "menuitem" &#124; "meta" &#124; "meter" &#124; "nav" &#124; "noindex" &#124; "noscript" &#124; "ol" &#124; "optgroup" &#124; "option" &#124; "output" &#124; "p" &#124; "param" &#124; "picture" &#124; "pre" &#124; "progress" &#124; "q" &#124; "rp" &#124; "rt" &#124; "ruby" &#124; "s" &#124; "samp" &#124; "slot" &#124; "script" &#124; "section" &#124; "select" &#124; "small" &#124; "source" &#124; "span" &#124; "strong" &#124; "style" &#124; "sub" &#124; "summary" &#124; "sup" &#124; "table" &#124; "template" &#124; "tbody" &#124; "td" &#124; "textarea" &#124; "tfoot" &#124; "th" &#124; "thead" &#124; "time" &#124; "title" &#124; "tr" &#124; "track" &#124; "u" &#124; "ul" &#124; "var" &#124; "video" &#124; "wbr" &#124; "webview" &#124; "svg" &#124; "animate" &#124; "animateMotion" &#124; "animateTransform" &#124; "circle" &#124; "clipPath" &#124; "defs" &#124; "desc" &#124; "ellipse" &#124; "feBlend" &#124; "feColorMatrix" &#124; "feComponentTransfer" &#124; "feComposite" &#124; "feConvolveMatrix" &#124; "feDiffuseLighting" &#124; "feDisplacementMap" &#124; "feDistantLight" &#124; "feDropShadow" &#124; "feFlood" &#124; "feFuncA" &#124; "feFuncB" &#124; "feFuncG" &#124; "feFuncR" &#124; "feGaussianBlur" &#124; "feImage" &#124; "feMerge" &#124; "feMergeNode" &#124; "feMorphology" &#124; "feOffset" &#124; "fePointLight" &#124; "feSpecularLighting" &#124; "feSpotLight" &#124; "feTile" &#124; "feTurbulence" &#124; "filter" &#124; "foreignObject" &#124; "g" &#124; "image" &#124; "line" &#124; "linearGradient" &#124; "marker" &#124; "mask" &#124; "metadata" &#124; "mpath" &#124; "path" &#124; "pattern" &#124; "polygon" &#124; "polyline" &#124; "radialGradient" &#124; "rect" &#124; "stop" &#124; "switch" &#124; "text" &#124; "textPath" &#124; "tspan" &#124; "use" &#124; "view" &#124; ComponentClass‹P, any› & object &#124; FunctionComponent‹P› & object |
 
-**Returns:** *WithSearchResult*
+**Returns:** *FunctionComponent‹any›*
 
 ___
 
 ### `Const` withSuggestionLink
 
-▸ **withSuggestionLink**(`Component`: ComponentType‹any›): *(Anonymous function)*
+▸ **withSuggestionLink**(`Component`: "symbol" | "object" | "a" | "abbr" | "address" | "area" | "article" | "aside" | "audio" | "b" | "base" | "bdi" | "bdo" | "big" | "blockquote" | "body" | "br" | "button" | "canvas" | "caption" | "cite" | "code" | "col" | "colgroup" | "data" | "datalist" | "dd" | "del" | "details" | "dfn" | "dialog" | "div" | "dl" | "dt" | "em" | "embed" | "fieldset" | "figcaption" | "figure" | "footer" | "form" | "h1" | "h2" | "h3" | "h4" | "h5" | "h6" | "head" | "header" | "hgroup" | "hr" | "html" | "i" | "iframe" | "img" | "input" | "ins" | "kbd" | "keygen" | "label" | "legend" | "li" | "link" | "main" | "map" | "mark" | "menu" | "menuitem" | "meta" | "meter" | "nav" | "noindex" | "noscript" | "ol" | "optgroup" | "option" | "output" | "p" | "param" | "picture" | "pre" | "progress" | "q" | "rp" | "rt" | "ruby" | "s" | "samp" | "slot" | "script" | "section" | "select" | "small" | "source" | "span" | "strong" | "style" | "sub" | "summary" | "sup" | "table" | "template" | "tbody" | "td" | "textarea" | "tfoot" | "th" | "thead" | "time" | "title" | "tr" | "track" | "u" | "ul" | "var" | "video" | "wbr" | "webview" | "svg" | "animate" | "animateMotion" | "animateTransform" | "circle" | "clipPath" | "defs" | "desc" | "ellipse" | "feBlend" | "feColorMatrix" | "feComponentTransfer" | "feComposite" | "feConvolveMatrix" | "feDiffuseLighting" | "feDisplacementMap" | "feDistantLight" | "feDropShadow" | "feFlood" | "feFuncA" | "feFuncB" | "feFuncG" | "feFuncR" | "feGaussianBlur" | "feImage" | "feMerge" | "feMergeNode" | "feMorphology" | "feOffset" | "fePointLight" | "feSpecularLighting" | "feSpotLight" | "feTile" | "feTurbulence" | "filter" | "foreignObject" | "g" | "image" | "line" | "linearGradient" | "marker" | "mask" | "metadata" | "mpath" | "path" | "pattern" | "polygon" | "polyline" | "radialGradient" | "rect" | "stop" | "switch" | "text" | "textPath" | "tspan" | "use" | "view" | ComponentClass‹P, any› & object | FunctionComponent‹P› & object): *WithSuggestionLink*
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:65](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L65)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:69](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L69)*
 
 **Parameters:**
 
 Name | Type |
 ------ | ------ |
-`Component` | ComponentType‹any› |
+`Component` | "symbol" &#124; "object" &#124; "a" &#124; "abbr" &#124; "address" &#124; "area" &#124; "article" &#124; "aside" &#124; "audio" &#124; "b" &#124; "base" &#124; "bdi" &#124; "bdo" &#124; "big" &#124; "blockquote" &#124; "body" &#124; "br" &#124; "button" &#124; "canvas" &#124; "caption" &#124; "cite" &#124; "code" &#124; "col" &#124; "colgroup" &#124; "data" &#124; "datalist" &#124; "dd" &#124; "del" &#124; "details" &#124; "dfn" &#124; "dialog" &#124; "div" &#124; "dl" &#124; "dt" &#124; "em" &#124; "embed" &#124; "fieldset" &#124; "figcaption" &#124; "figure" &#124; "footer" &#124; "form" &#124; "h1" &#124; "h2" &#124; "h3" &#124; "h4" &#124; "h5" &#124; "h6" &#124; "head" &#124; "header" &#124; "hgroup" &#124; "hr" &#124; "html" &#124; "i" &#124; "iframe" &#124; "img" &#124; "input" &#124; "ins" &#124; "kbd" &#124; "keygen" &#124; "label" &#124; "legend" &#124; "li" &#124; "link" &#124; "main" &#124; "map" &#124; "mark" &#124; "menu" &#124; "menuitem" &#124; "meta" &#124; "meter" &#124; "nav" &#124; "noindex" &#124; "noscript" &#124; "ol" &#124; "optgroup" &#124; "option" &#124; "output" &#124; "p" &#124; "param" &#124; "picture" &#124; "pre" &#124; "progress" &#124; "q" &#124; "rp" &#124; "rt" &#124; "ruby" &#124; "s" &#124; "samp" &#124; "slot" &#124; "script" &#124; "section" &#124; "select" &#124; "small" &#124; "source" &#124; "span" &#124; "strong" &#124; "style" &#124; "sub" &#124; "summary" &#124; "sup" &#124; "table" &#124; "template" &#124; "tbody" &#124; "td" &#124; "textarea" &#124; "tfoot" &#124; "th" &#124; "thead" &#124; "time" &#124; "title" &#124; "tr" &#124; "track" &#124; "u" &#124; "ul" &#124; "var" &#124; "video" &#124; "wbr" &#124; "webview" &#124; "svg" &#124; "animate" &#124; "animateMotion" &#124; "animateTransform" &#124; "circle" &#124; "clipPath" &#124; "defs" &#124; "desc" &#124; "ellipse" &#124; "feBlend" &#124; "feColorMatrix" &#124; "feComponentTransfer" &#124; "feComposite" &#124; "feConvolveMatrix" &#124; "feDiffuseLighting" &#124; "feDisplacementMap" &#124; "feDistantLight" &#124; "feDropShadow" &#124; "feFlood" &#124; "feFuncA" &#124; "feFuncB" &#124; "feFuncG" &#124; "feFuncR" &#124; "feGaussianBlur" &#124; "feImage" &#124; "feMerge" &#124; "feMergeNode" &#124; "feMorphology" &#124; "feOffset" &#124; "fePointLight" &#124; "feSpecularLighting" &#124; "feSpotLight" &#124; "feTile" &#124; "feTurbulence" &#124; "filter" &#124; "foreignObject" &#124; "g" &#124; "image" &#124; "line" &#124; "linearGradient" &#124; "marker" &#124; "mask" &#124; "metadata" &#124; "mpath" &#124; "path" &#124; "pattern" &#124; "polygon" &#124; "polyline" &#124; "radialGradient" &#124; "rect" &#124; "stop" &#124; "switch" &#124; "text" &#124; "textPath" &#124; "tspan" &#124; "use" &#124; "view" &#124; ComponentClass‹P, any› & object &#124; FunctionComponent‹P› & object |
 
-**Returns:** *(Anonymous function)*
+**Returns:** *WithSuggestionLink*
 
 ## Object literals
 
@@ -829,7 +832,7 @@ Name | Type |
 
 ### ▪ **defaultSearchResults**: *object*
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L36)*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L37)*
 
 Search result context
 
@@ -837,19 +840,19 @@ Search result context
 
 • **results**: *never[]* = []
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L37)*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L38)*
 
 ###  searchTerm
 
 • **searchTerm**: *string* = ""
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L39)*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L40)*
 
 ###  setResult
 
 ▸ **setResult**(): *void*
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L38)*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L39)*
 
 **Returns:** *void*
 
@@ -857,7 +860,7 @@ Search result context
 
 ▸ **setSearchTerm**(): *string*
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L40)*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L41)*
 
 **Returns:** *string*
 
@@ -865,7 +868,7 @@ Search result context
 
 ▸ **suggest**(): *never[]*
 
-*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/SearchContextProvider.tsx#L41)*
+*Defined in [packages/bodiless-search/src/components/SearchContextProvider.tsx:42](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/SearchContextProvider.tsx#L42)*
 
 **Returns:** *never[]*
 
@@ -875,13 +878,13 @@ ___
 
 ### ▪ **defaultSuggestSettings**: *object*
 
-*Defined in [packages/bodiless-search/src/SearchClient.ts:40](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/SearchClient.ts#L40)*
+*Defined in [packages/bodiless-search/src/SearchClient.ts:40](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/SearchClient.ts#L40)*
 
 ###  sort
 
 • **sort**: *[sortByFrequency](globals.md#const-sortbyfrequency)* = sortByFrequency
 
-*Defined in [packages/bodiless-search/src/SearchClient.ts:41](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/SearchClient.ts#L41)*
+*Defined in [packages/bodiless-search/src/SearchClient.ts:41](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/SearchClient.ts#L41)*
 
 ___
 
@@ -889,49 +892,25 @@ ___
 
 ### ▪ **responsiveSearchComponents**: *object*
 
-*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:51](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L51)*
+*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:51](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L51)*
 
 ###  ToggleButton
 
-• **ToggleButton**: *object* = Button
+• **ToggleButton**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Button
 
-*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L54)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLButtonElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLButtonElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L54)*
 
 ###  ToggleIcon
 
-• **ToggleIcon**: *ComponentClass‹any, any› & object | FunctionComponent‹any› & object* = addClasses('material-icons cursor-pointer align-middle')(I)
+• **ToggleIcon**: *ComponentClass‹HTMLProps‹HTMLElement›, any› & object | FunctionComponent‹HTMLProps‹HTMLElement›› & object* = addClasses('material-icons cursor-pointer align-middle')(I)
 
-*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L55)*
+*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L55)*
 
 ###  Wrapper
 
-• **Wrapper**: *object* = Div
+• **Wrapper**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Div
 
-*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L53)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLDivElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLDivElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/ResponsiveSearchBox.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/ResponsiveSearchBox.tsx#L53)*
 
 ___
 
@@ -939,55 +918,31 @@ ___
 
 ### ▪ **searchComponents**: *object*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:77](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L77)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:77](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L77)*
 
 ###  SearchButton
 
-• **SearchButton**: *object* = Button
+• **SearchButton**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Button
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:80](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L80)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLButtonElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLButtonElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:80](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L80)*
 
 ###  SearchInput
 
 • **SearchInput**: *FunctionComponent‹HTMLProps‹HTMLInputElement››* = SearchInputBase
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:79](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L79)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:79](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L79)*
 
 ###  SearchWrapper
 
-• **SearchWrapper**: *object* = Div
+• **SearchWrapper**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Div
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:78](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L78)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLDivElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLDivElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:78](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L78)*
 
 ###  Suggestions
 
-• **Suggestions**: *ComponentClass‹object & object, any› | FunctionComponent‹object & object›* = BaseSuggestions
+• **Suggestions**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = BaseSuggestions
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:81](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L81)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:81](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L81)*
 
 ___
 
@@ -995,67 +950,31 @@ ___
 
 ### ▪ **searchResultComponents**: *object*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:115](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L115)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:115](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L115)*
 
 ###  SearchResultList
 
-• **SearchResultList**: *object* = Ul
+• **SearchResultList**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Ul
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:117](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L117)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLUListElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLUListElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:117](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L117)*
 
 ###  SearchResultListItem
 
 • **SearchResultListItem**: *any* = SearchResultItemClean
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:118](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L118)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:118](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L118)*
 
 ###  SearchResultSummary
 
-• **SearchResultSummary**: *object* = P
+• **SearchResultSummary**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = P
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:119](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L119)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLParagraphElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLParagraphElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:119](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L119)*
 
 ###  SearchResultWrapper
 
-• **SearchResultWrapper**: *object* = Div
+• **SearchResultWrapper**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Div
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:116](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L116)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLDivElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLDivElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:116](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L116)*
 
 ___
 
@@ -1063,79 +982,31 @@ ___
 
 ### ▪ **searchResultItemComponents**: *object*
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:84](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L84)*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:84](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L84)*
 
 ###  ItemAnchor
 
-• **ItemAnchor**: *object* = A
+• **ItemAnchor**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = A
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:87](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L87)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLAnchorElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLAnchorElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:87](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L87)*
 
 ###  ItemH3
 
-• **ItemH3**: *object* = H3
+• **ItemH3**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = H3
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:86](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L86)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLHeadingElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLHeadingElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:86](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L86)*
 
 ###  ItemList
 
-• **ItemList**: *object* = Li
+• **ItemList**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Li
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:85](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L85)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLLIElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLLIElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:85](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L85)*
 
 ###  ItemParagraph
 
-• **ItemParagraph**: *object* = P
+• **ItemParagraph**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = P
 
-*Defined in [packages/bodiless-search/src/components/Search.tsx:88](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Search.tsx#L88)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLParagraphElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLParagraphElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Search.tsx:88](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Search.tsx#L88)*
 
 ___
 
@@ -1143,7 +1014,7 @@ ___
 
 ### ▪ **settings**: *object*
 
-*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:36](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L36)*
+*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:36](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L36)*
 
 Search index creation configures
 
@@ -1156,23 +1027,23 @@ Search index creation configures
 
 • **sourcePath**: *string* = process.env.BODILESS_SEARCH_SOURCE_PATH || './public'
 
-*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:37](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L37)*
+*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:37](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L37)*
 
 ###  sourceTypes
 
 • **sourceTypes**: *string[]* = process.env.BODILESS_SEARCH_SOURCE_TYPE ? process.env.BODILESS_SEARCH_SOURCE_TYPE.split('|') : ['html', 'htm']
 
-*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:38](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L38)*
+*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:38](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L38)*
 
 ###  targetPath
 
 • **targetPath**: *string* = process.env.BODILESS_SEARCH_INDEX_PATH ? process.env.BODILESS_SEARCH_INDEX_PATH : './public/default.idx'
 
-*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L39)*
+*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L39)*
 
 ▪ **indexConfig**: *object*
 
-*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:40](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L40)*
+*Defined in [packages/bodiless-search/src/scripts/bodiless-search-index.ts:40](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/scripts/bodiless-search-index.ts#L40)*
 
 * **fields**: *(object | object)[]* = [
       { name: 'title', attributes: { boost: 2 } },
@@ -1187,49 +1058,25 @@ ___
 
 ### ▪ **startComponents**: *object*
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:100](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L100)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:107](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L107)*
 
 ###  Item
 
 • **Item**: *any* = CleanSuggestion
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:103](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L103)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:110](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L110)*
 
 ###  ItemWrapper
 
-• **ItemWrapper**: *object* = Li
+• **ItemWrapper**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Li
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:102](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L102)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLLIElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLLIElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:109](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L109)*
 
 ###  Wrapper
 
-• **Wrapper**: *object* = Ul
+• **Wrapper**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Ul
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:101](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L101)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLUListElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLUListElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:108](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L108)*
 
 ___
 
@@ -1237,58 +1084,22 @@ ___
 
 ### ▪ **startSuggestionComponents**: *object*
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L37)*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L38)*
 
 ###  Count
 
-• **Count**: *object* = Span
+• **Count**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Span
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L40)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLSpanElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLSpanElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L41)*
 
 ###  Text
 
-• **Text**: *object* = Span
+• **Text**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Span
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L39)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLSpanElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLSpanElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L40)*
 
 ###  Wrapper
 
-• **Wrapper**: *object* = A
+• **Wrapper**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = A
 
-*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/ad1d8ddb/packages/bodiless-search/src/components/Suggestions.tsx#L38)*
-
-#### Type declaration:
-
-▸ (`props`: HTMLProps‹HTMLAnchorElement› & object & object): *Element*
-
-**Parameters:**
-
-Name | Type |
------- | ------ |
-`props` | HTMLProps‹HTMLAnchorElement› & object & object |
-
-* **displayName**: *string*
+*Defined in [packages/bodiless-search/src/components/Suggestions.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-search/src/components/Suggestions.tsx#L39)*
