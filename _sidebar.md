@@ -27,6 +27,7 @@
     - [Single Accordion](/Components/SingleAccordion)
     - [Rich Text](/Components/RichText)
     - [Search](/Components/Search)
+    - [Table](/Components/Table)
   - [Tools](/Tools/)
     - [Bodiless CLI](/Tools/BodilessCLI)
   - [Development](/Development/)

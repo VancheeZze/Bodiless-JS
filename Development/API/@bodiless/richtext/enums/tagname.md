@@ -16,7 +16,7 @@
 
 • **Element**: = "element"
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L24)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L24)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **Fragment**: = "fragment"
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L26)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L26)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **Text**: = "text"
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L25)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L25)*

@@ -11,6 +11,7 @@
 * [@bodiless/organisms](/Development/API/@bodiless/organisms/globals)
 * [@bodiless/richtext](/Development/API/@bodiless/richtext/globals)
 * [@bodiless/search](/Development/API/@bodiless/search/globals)
+* [@bodiless/table](/Development/API/@bodiless/table/globals)
 * [@bodiless/tokens](/Development/API/@bodiless/tokens/globals)
 * [@bodiless/ui](/Development/API/@bodiless/ui/globals)
 * [@bodiless/youtube](/Development/API/@bodiless/youtube/globals)

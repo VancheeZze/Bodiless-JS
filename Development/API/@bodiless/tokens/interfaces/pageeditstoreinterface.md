@@ -39,7 +39,7 @@
 
 • **activeContext**: *[PageEditContextInterface](pageeditcontextinterface.md) | undefined*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:73](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L73)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:73](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L73)*
 
 ___
 
@@ -49,7 +49,7 @@ ___
 
 *Inherited from [CanControlLocalTooltipsVisibility](cancontrollocaltooltipsvisibility.md).[areLocalTooltipsDisabled](cancontrollocaltooltipsvisibility.md#arelocaltooltipsdisabled)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:31](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L31)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:31](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L31)*
 
 ___
 
@@ -57,7 +57,7 @@ ___
 
 • **contextMenuOptions**: *[TMenuOption](../globals.md#tmenuoption)[]*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:75](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L75)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:75](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L75)*
 
 ___
 
@@ -65,7 +65,7 @@ ___
 
 • **contextTrail**: *string[]*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:81](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L81)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:81](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L81)*
 
 ___
 
@@ -73,7 +73,7 @@ ___
 
 • **isEdit**: *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:76](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L76)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:76](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L76)*
 
 ___
 
@@ -81,7 +81,7 @@ ___
 
 • **isPositionToggled**: *boolean*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:77](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L77)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:77](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L77)*
 
 ___
 
@@ -89,7 +89,7 @@ ___
 
 • **optionMap**: *Map‹string, Map‹string, [TMenuOption](../globals.md#tmenuoption)››*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:83](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L83)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:83](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L83)*
 
 ___
 
@@ -97,7 +97,7 @@ ___
 
 • **pageOverlay**: *[TPageOverlayStore](../globals.md#tpageoverlaystore)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:82](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L82)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:82](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L82)*
 
 ___
 
@@ -105,7 +105,7 @@ ___
 
 • **toggleEdit**: *function*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:79](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L79)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:79](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L79)*
 
 #### Type declaration:
 
@@ -125,7 +125,7 @@ ___
 
 *Inherited from [CanControlLocalTooltipsVisibility](cancontrollocaltooltipsvisibility.md).[toggleLocalTooltipsDisabled](cancontrollocaltooltipsvisibility.md#togglelocaltooltipsdisabled)*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L32)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L32)*
 
 #### Type declaration:
 
@@ -143,7 +143,7 @@ ___
 
 • **togglePosition**: *function*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:80](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L80)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:80](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L80)*
 
 #### Type declaration:
 
@@ -161,7 +161,7 @@ ___
 
 • **updateMenuOptions**: *function*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:74](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L74)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:74](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L74)*
 
 #### Type declaration:
 
@@ -179,7 +179,7 @@ Name | Type |
 
 ▸ **setActiveContext**(`context?`: [PageEditContextInterface](pageeditcontextinterface.md)): *void*
 
-*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:78](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-core/src/PageEditContext/types.ts#L78)*
+*Defined in [packages/bodiless-core/src/PageEditContext/types.ts:78](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-core/src/PageEditContext/types.ts#L78)*
 
 **Parameters:**
 

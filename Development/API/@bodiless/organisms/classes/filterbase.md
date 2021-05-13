@@ -47,7 +47,7 @@
 
 \+ **new FilterBase**(`props`: [FilterBaseProps](../globals.md#filterbaseprops)): *[FilterBase](filterbase.md)*
 
-*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:200](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L200)*
+*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:200](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L200)*
 
 **Parameters:**
 
@@ -63,7 +63,7 @@ Name | Type |
 
 • **Filter**: *ComponentType‹HTMLProps‹HTMLHeadingElement››* = Div
 
-*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:198](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L198)*
+*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:198](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L198)*
 
 ___
 
@@ -71,7 +71,7 @@ ___
 
 • **RestProps**: *object*
 
-*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:200](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L200)*
+*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:200](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L200)*
 
 #### Type declaration:
 
@@ -370,7 +370,7 @@ ___
 
 ▸ **render**(): *Element‹›*
 
-*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:216](https://github.com/VancheeZze/Bodiless-JS/blob/c378014d/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L216)*
+*Defined in [packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx:216](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-organisms/src/components/FilterByGroup/Filter.tsx#L216)*
 
 **Returns:** *Element‹›*
 
