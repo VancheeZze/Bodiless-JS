@@ -27,7 +27,7 @@
 
 \+ **new MobxStateContainer**(): *[MobxStateContainer](mobxstatecontainer.md)*
 
-*Defined in [packages/bodiless-richtext/src/MobxStateContainer.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-richtext/src/MobxStateContainer.ts#L21)*
+*Defined in [packages/bodiless-richtext/src/MobxStateContainer.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/MobxStateContainer.ts#L21)*
 
 **Returns:** *[MobxStateContainer](mobxstatecontainer.md)*
 
@@ -37,7 +37,7 @@
 
 • **store**: *Map‹any, any›* = new Map()
 
-*Defined in [packages/bodiless-richtext/src/MobxStateContainer.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-richtext/src/MobxStateContainer.ts#L21)*
+*Defined in [packages/bodiless-richtext/src/MobxStateContainer.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/MobxStateContainer.ts#L21)*
 
 ## Methods
 
@@ -45,7 +45,7 @@
 
 ▸ **get**(`key`: string): *any*
 
-*Defined in [packages/bodiless-richtext/src/MobxStateContainer.ts:28](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-richtext/src/MobxStateContainer.ts#L28)*
+*Defined in [packages/bodiless-richtext/src/MobxStateContainer.ts:28](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/MobxStateContainer.ts#L28)*
 
 **Parameters:**
 
@@ -61,7 +61,7 @@ ___
 
 ▸ **setState**(`newState`: [NewState](../globals.md#newstate)): *void*
 
-*Defined in [packages/bodiless-richtext/src/MobxStateContainer.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-richtext/src/MobxStateContainer.ts#L32)*
+*Defined in [packages/bodiless-richtext/src/MobxStateContainer.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/MobxStateContainer.ts#L32)*
 
 **Parameters:**
 

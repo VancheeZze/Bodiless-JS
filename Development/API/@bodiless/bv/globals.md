@@ -63,7 +63,7 @@
 
 Ƭ **BVComponents**: *object*
 
-*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBVComponent.tsx#L25)*
+*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBVComponent.tsx#L25)*
 
 #### Type declaration:
 
@@ -79,9 +79,9 @@ ___
 
 Ƭ **BVConfig**: *object*
 
-*Defined in [packages/bodiless-bv/src/BVConfig.ts:15](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/BVConfig.ts#L15)*
+*Defined in [packages/bodiless-bv/src/BVConfig.ts:15](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/BVConfig.ts#L15)*
 
-*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoader.tsx#L21)*
+*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoader.tsx#L21)*
 
 Copyright © 2019 Johnson & Johnson
 
@@ -111,7 +111,7 @@ ___
 
 Ƭ **BVLoaderData**: *object*
 
-*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoader.tsx#L33)*
+*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoader.tsx#L33)*
 
 #### Type declaration:
 
@@ -123,7 +123,7 @@ ___
 
 Ƭ **BVProps**: *object*
 
-*Defined in [packages/bodiless-bv/src/components/BVProps.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVProps.ts#L17)*
+*Defined in [packages/bodiless-bv/src/components/BVProps.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVProps.ts#L17)*
 
 #### Type declaration:
 
@@ -141,7 +141,7 @@ ___
 
 Ƭ **DataType**: *object*
 
-*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBodilessBV.tsx#L31)*
+*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBodilessBV.tsx#L31)*
 
 #### Type declaration:
 
@@ -153,7 +153,7 @@ ___
 
 Ƭ **DesignableProps**: *DesignableComponentsProps‹[BVComponents](globals.md#bvcomponents)›*
 
-*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBVComponent.tsx#L37)*
+*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBVComponent.tsx#L37)*
 
 ___
 
@@ -161,27 +161,27 @@ ___
 
 Ƭ **DivProps**: *HTMLProps‹HTMLDivElement›*
 
-*Defined in [packages/bodiless-bv/src/components/BVLoading.tsx:19](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoading.tsx#L19)*
+*Defined in [packages/bodiless-bv/src/components/BVLoading.tsx:19](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoading.tsx#L19)*
 
-*Defined in [packages/bodiless-bv/src/components/BVErrors.tsx:19](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVErrors.tsx#L19)*
+*Defined in [packages/bodiless-bv/src/components/BVErrors.tsx:19](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVErrors.tsx#L19)*
 
-*Defined in [packages/bodiless-bv/src/components/BVPlaceholder.tsx:19](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVPlaceholder.tsx#L19)*
+*Defined in [packages/bodiless-bv/src/components/BVPlaceholder.tsx:19](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVPlaceholder.tsx#L19)*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L22)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L22)*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L22)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L22)*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L22)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L22)*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx#L22)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx#L22)*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx#L22)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx#L22)*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVReviews.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVReviews.tsx#L22)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVReviews.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVReviews.tsx#L22)*
 
-*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L22)*
+*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L22)*
 
-*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVReviews.tsx#L22)*
+*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVReviews.tsx#L22)*
 
 ___
 
@@ -189,29 +189,29 @@ ___
 
 Ƭ **Props**: *[DivProps](globals.md#divprops) & [BVProps](globals.md#bvprops)*
 
-*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoader.tsx#L28)*
+*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoader.tsx#L28)*
 
-*Defined in [packages/bodiless-bv/src/components/BVLoading.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoading.tsx#L21)*
+*Defined in [packages/bodiless-bv/src/components/BVLoading.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoading.tsx#L21)*
 
-*Defined in [packages/bodiless-bv/src/components/BVErrors.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVErrors.tsx#L21)*
+*Defined in [packages/bodiless-bv/src/components/BVErrors.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVErrors.tsx#L21)*
 
-*Defined in [packages/bodiless-bv/src/components/BVPlaceholder.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVPlaceholder.tsx#L21)*
+*Defined in [packages/bodiless-bv/src/components/BVPlaceholder.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVPlaceholder.tsx#L21)*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L24)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L24)*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L24)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L24)*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L24)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L24)*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx#L24)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx#L24)*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx#L24)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx#L24)*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVReviews.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVReviews.tsx#L24)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVReviews.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVReviews.tsx#L24)*
 
-*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L24)*
+*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L24)*
 
-*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVReviews.tsx#L24)*
+*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVReviews.tsx#L24)*
 
 ## Variables
 
@@ -222,7 +222,7 @@ ___
   asEditableBV,
 )(BVInlineRatingsBase)
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L38)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L38)*
 
 ___
 
@@ -233,7 +233,7 @@ ___
   asEditableBV,
 )(BVInlineRatingsBase)
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx#L37)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx#L37)*
 
 ___
 
@@ -241,9 +241,9 @@ ___
 
 • **BVInlineRatingsBase**: *any* = asDesignableBVComponent('BV Inline Ratings')(BVPlainInlineRatings)
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L36)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L36)*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx:35](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx#L35)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx:35](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx#L35)*
 
 ___
 
@@ -251,7 +251,7 @@ ___
 
 • **BVLoaderContext**: *Context‹object›* = React.createContext<BVLoaderData>(defaultValue)
 
-*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoader.tsx#L41)*
+*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoader.tsx#L41)*
 
 ___
 
@@ -262,11 +262,11 @@ ___
   asEditableBV,
 )(BVRatingsSummaryBase)
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L38)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L38)*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx#L32)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx#L32)*
 
-*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L38)*
+*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L38)*
 
 ___
 
@@ -274,11 +274,11 @@ ___
 
 • **BVRatingsSummaryBase**: *FunctionComponent‹HTMLProps‹HTMLDivElement› & object & object›* = asBVComponent('BV Ratings Summary', onLoaded)(BVPlainRatingsSummary)
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L36)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L36)*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx#L30)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx#L30)*
 
-*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L36)*
+*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L36)*
 
 ___
 
@@ -289,11 +289,11 @@ ___
   asEditableBV,
 )(BVReviewsBase)
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L38)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L38)*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVReviews.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVReviews.tsx#L32)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVReviews.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVReviews.tsx#L32)*
 
-*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVReviews.tsx#L38)*
+*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVReviews.tsx#L38)*
 
 ___
 
@@ -301,11 +301,11 @@ ___
 
 • **BVReviewsBase**: *FunctionComponent‹HTMLProps‹HTMLDivElement› & object & object›* = asBVComponent('BV Reviews', onLoaded)(BVPlainReviews)
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L36)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L36)*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVReviews.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVReviews.tsx#L30)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVReviews.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVReviews.tsx#L30)*
 
-*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVReviews.tsx#L36)*
+*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVReviews.tsx#L36)*
 
 ___
 
@@ -316,7 +316,7 @@ ___
   withData,
 )
 
-*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBodilessBV.tsx#L43)*
+*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBodilessBV.tsx#L43)*
 
 #### Type declaration:
 
@@ -342,7 +342,7 @@ ___
   withData,
 )
 
-*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asEditableBV.tsx#L52)*
+*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asEditableBV.tsx#L52)*
 
 #### Type declaration:
 
@@ -360,7 +360,7 @@ ___
 
 • **nodeKey**: *"bvConfig"* = "bvConfig"
 
-*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBodilessBV.tsx#L29)*
+*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBodilessBV.tsx#L29)*
 
 ___
 
@@ -374,7 +374,7 @@ ___
   ifReadOnly(withoutProps(['setComponentData'])),
 )
 
-*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:35](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBodilessBV.tsx#L35)*
+*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:35](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBodilessBV.tsx#L35)*
 
 #### Type declaration:
 
@@ -392,7 +392,7 @@ Name | Type |
 
 ▸ **BVLoaderProvider**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoader.tsx#L43)*
+*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoader.tsx#L43)*
 
 **Parameters:**
 
@@ -411,7 +411,7 @@ ___
 
 ▸ **BVLoading**(`props`: HTMLProps‹HTMLDivElement› & object & object): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/BVLoading.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoading.tsx#L23)*
+*Defined in [packages/bodiless-bv/src/components/BVLoading.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoading.tsx#L23)*
 
 **Parameters:**
 
@@ -427,7 +427,7 @@ ___
 
 ▸ **BVPlaceholder**(`props`: HTMLProps‹HTMLDivElement› & object & object): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/BVPlaceholder.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVPlaceholder.tsx#L23)*
+*Defined in [packages/bodiless-bv/src/components/BVPlaceholder.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVPlaceholder.tsx#L23)*
 
 **Parameters:**
 
@@ -443,13 +443,13 @@ ___
 
 ▸ **BVPlainInlineRatings**(): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L34)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L34)*
 
 **Returns:** *Element‹›*
 
 ▸ **BVPlainInlineRatings**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx#L26)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVInlineRatings.tsx#L26)*
 
 **Parameters:**
 
@@ -469,13 +469,13 @@ ___
 
 ▸ **BVPlainRatingsSummary**(): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L34)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L34)*
 
 **Returns:** *Element‹›*
 
 ▸ **BVPlainRatingsSummary**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx#L26)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVRatingsSummary.tsx#L26)*
 
 **Parameters:**
 
@@ -489,7 +489,7 @@ Name | Type |
 
 ▸ **BVPlainRatingsSummary**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L34)*
+*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L34)*
 
 **Parameters:**
 
@@ -508,7 +508,7 @@ ___
 
 ▸ **BVPlainReviews**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L34)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L34)*
 
 **Parameters:**
 
@@ -523,7 +523,7 @@ Name | Type |
 
 ▸ **BVPlainReviews**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/v2/BVReviews.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v2/BVReviews.tsx#L26)*
+*Defined in [packages/bodiless-bv/src/components/v2/BVReviews.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v2/BVReviews.tsx#L26)*
 
 **Parameters:**
 
@@ -537,7 +537,7 @@ Name | Type |
 
 ▸ **BVPlainReviews**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVReviews.tsx#L34)*
+*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVReviews.tsx#L34)*
 
 **Parameters:**
 
@@ -556,7 +556,7 @@ ___
 
 ▸ **BVProductIsNotMapped**(`props`: HTMLProps‹HTMLDivElement› & object & object): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/BVErrors.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVErrors.tsx#L23)*
+*Defined in [packages/bodiless-bv/src/components/BVErrors.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVErrors.tsx#L23)*
 
 **Parameters:**
 
@@ -572,7 +572,7 @@ ___
 
 ▸ **asBVComponent**(`componentName`: string, `onLoaded?`: undefined | function): *(Anonymous function)*
 
-*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBVComponent.tsx#L39)*
+*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBVComponent.tsx#L39)*
 
 **Parameters:**
 
@@ -589,7 +589,7 @@ ___
 
 ▸ **asDesignableBVComponent**(`componentName`: string, `onLoaded?`: undefined | function): *(Anonymous function)*
 
-*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:69](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBVComponent.tsx#L69)*
+*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:69](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBVComponent.tsx#L69)*
 
 **Parameters:**
 
@@ -606,7 +606,7 @@ ___
 
 ▸ **getBVScriptUrl**(): *any*
 
-*Defined in [packages/bodiless-bv/src/getBVScriptUrl.ts:42](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/getBVScriptUrl.ts#L42)*
+*Defined in [packages/bodiless-bv/src/getBVScriptUrl.ts:42](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/getBVScriptUrl.ts#L42)*
 
 **Returns:** *any*
 
@@ -616,7 +616,7 @@ ___
 
 ▸ **getBVScriptUrlFromConfig**(`conf`: [BVConfig](globals.md#bvconfig)): *string*
 
-*Defined in [packages/bodiless-bv/src/getBVScriptUrl.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/getBVScriptUrl.ts#L17)*
+*Defined in [packages/bodiless-bv/src/getBVScriptUrl.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/getBVScriptUrl.ts#L17)*
 
 **Parameters:**
 
@@ -632,7 +632,7 @@ ___
 
 ▸ **isBVConfigValid**(`conf`: [BVConfig](globals.md#bvconfig)): *boolean*
 
-*Defined in [packages/bodiless-bv/src/getBVScriptUrl.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/getBVScriptUrl.ts#L26)*
+*Defined in [packages/bodiless-bv/src/getBVScriptUrl.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/getBVScriptUrl.ts#L26)*
 
 **Parameters:**
 
@@ -648,7 +648,7 @@ ___
 
 ▸ **onLoaded**(`__namedParameters`: object): *void*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L26)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVRatingsSummary.tsx#L26)*
 
 **Parameters:**
 
@@ -662,7 +662,7 @@ Name | Type |
 
 ▸ **onLoaded**(`__namedParameters`: object): *void*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L26)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVReviews.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVReviews.tsx#L26)*
 
 **Parameters:**
 
@@ -676,7 +676,7 @@ Name | Type |
 
 ▸ **onLoaded**(`__namedParameters`: object): *void*
 
-*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L26)*
+*Defined in [packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/v1/BVInlineRatings.tsx#L26)*
 
 **Parameters:**
 
@@ -690,7 +690,7 @@ Name | Type |
 
 ▸ **onLoaded**(`__namedParameters`: object): *void*
 
-*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L26)*
+*Defined in [packages/bodiless-bv/src/components/BVRatingsSummary.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVRatingsSummary.tsx#L26)*
 
 **Parameters:**
 
@@ -704,7 +704,7 @@ Name | Type |
 
 ▸ **onLoaded**(`__namedParameters`: object): *void*
 
-*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVReviews.tsx#L26)*
+*Defined in [packages/bodiless-bv/src/components/BVReviews.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVReviews.tsx#L26)*
 
 **Parameters:**
 
@@ -722,7 +722,7 @@ ___
 
 ▸ **useBVLoader**(): *object*
 
-*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:74](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoader.tsx#L74)*
+*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:74](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoader.tsx#L74)*
 
 **Returns:** *object*
 
@@ -734,7 +734,7 @@ ___
 
 ▸ **withBVLoader**‹**P**›(`Component`: CT‹P›): *(Anonymous function)*
 
-*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:76](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoader.tsx#L76)*
+*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:76](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoader.tsx#L76)*
 
 **Type parameters:**
 
@@ -754,7 +754,7 @@ ___
 
 ▸ **withoutBVProps**‹**P**›(`props`: P): *object*
 
-*Defined in [packages/bodiless-bv/src/components/BVProps.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVProps.ts#L24)*
+*Defined in [packages/bodiless-bv/src/components/BVProps.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVProps.ts#L24)*
 
 **Type parameters:**
 
@@ -774,31 +774,31 @@ Name | Type |
 
 ### ▪ **defaultBVConfig**: *object*
 
-*Defined in [packages/bodiless-bv/src/BVConfig.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/BVConfig.ts#L22)*
+*Defined in [packages/bodiless-bv/src/BVConfig.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/BVConfig.ts#L22)*
 
 ###  client_name
 
 • **client_name**: *string* = "clientid"
 
-*Defined in [packages/bodiless-bv/src/BVConfig.ts:23](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/BVConfig.ts#L23)*
+*Defined in [packages/bodiless-bv/src/BVConfig.ts:23](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/BVConfig.ts#L23)*
 
 ###  environment
 
 • **environment**: *string* = "staging"
 
-*Defined in [packages/bodiless-bv/src/BVConfig.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/BVConfig.ts#L25)*
+*Defined in [packages/bodiless-bv/src/BVConfig.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/BVConfig.ts#L25)*
 
 ###  locale
 
 • **locale**: *string* = "en_US"
 
-*Defined in [packages/bodiless-bv/src/BVConfig.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/BVConfig.ts#L26)*
+*Defined in [packages/bodiless-bv/src/BVConfig.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/BVConfig.ts#L26)*
 
 ###  site_ID
 
 • **site_ID**: *string* = "main_site"
 
-*Defined in [packages/bodiless-bv/src/BVConfig.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/BVConfig.ts#L24)*
+*Defined in [packages/bodiless-bv/src/BVConfig.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/BVConfig.ts#L24)*
 
 ___
 
@@ -806,25 +806,25 @@ ___
 
 ### ▪ **defaultComponents**: *object*
 
-*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBVComponent.tsx#L31)*
+*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBVComponent.tsx#L31)*
 
 ###  BVLoading
 
 • **BVLoading**: *FunctionComponent‹HTMLProps‹HTMLDivElement› & object›* = DefaultBVLoading
 
-*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBVComponent.tsx#L34)*
+*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBVComponent.tsx#L34)*
 
 ###  BVPlaceholder
 
 • **BVPlaceholder**: *FunctionComponent‹HTMLProps‹HTMLDivElement› & object›* = DefaultBVPlaceholder
 
-*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBVComponent.tsx#L33)*
+*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBVComponent.tsx#L33)*
 
 ###  BVProductIsNotMapped
 
 • **BVProductIsNotMapped**: *FunctionComponent‹HTMLProps‹HTMLDivElement› & object›* = DefaultBVProductIsNotMapped
 
-*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBVComponent.tsx#L32)*
+*Defined in [packages/bodiless-bv/src/components/asBVComponent.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBVComponent.tsx#L32)*
 
 ___
 
@@ -832,13 +832,13 @@ ___
 
 ### ▪ **defaultValue**: *object*
 
-*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoader.tsx#L37)*
+*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoader.tsx#L37)*
 
 ###  isLoaded
 
 • **isLoaded**: *boolean* = false
 
-*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/BVLoader.tsx#L38)*
+*Defined in [packages/bodiless-bv/src/components/BVLoader.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/BVLoader.tsx#L38)*
 
 ___
 
@@ -846,49 +846,49 @@ ___
 
 ### ▪ **editButtonOptions**: *object*
 
-*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asEditableBV.tsx#L29)*
+*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asEditableBV.tsx#L29)*
 
 ###  global
 
 • **global**: *false* = false
 
-*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asEditableBV.tsx#L48)*
+*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asEditableBV.tsx#L48)*
 
 ###  groupLabel
 
 • **groupLabel**: *string* = "Reviews"
 
-*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asEditableBV.tsx#L32)*
+*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asEditableBV.tsx#L32)*
 
 ###  icon
 
 • **icon**: *string* = "settings"
 
-*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asEditableBV.tsx#L30)*
+*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asEditableBV.tsx#L30)*
 
 ###  label
 
 • **label**: *string* = "Settings"
 
-*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asEditableBV.tsx#L31)*
+*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asEditableBV.tsx#L31)*
 
 ###  local
 
 • **local**: *true* = true
 
-*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asEditableBV.tsx#L49)*
+*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asEditableBV.tsx#L49)*
 
 ###  name
 
 • **name**: *string* = "Edit"
 
-*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asEditableBV.tsx#L33)*
+*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asEditableBV.tsx#L33)*
 
 ###  renderForm
 
 ▸ **renderForm**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asEditableBV.tsx#L34)*
+*Defined in [packages/bodiless-bv/src/components/asEditableBV.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asEditableBV.tsx#L34)*
 
 **Parameters:**
 
@@ -906,10 +906,10 @@ ___
 
 ### ▪ **emptyValue**: *object*
 
-*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBodilessBV.tsx#L25)*
+*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBodilessBV.tsx#L25)*
 
 ###  productId
 
 • **productId**: *string* = ""
 
-*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-bv/src/components/asBodilessBV.tsx#L26)*
+*Defined in [packages/bodiless-bv/src/components/asBodilessBV.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-bv/src/components/asBodilessBV.tsx#L26)*

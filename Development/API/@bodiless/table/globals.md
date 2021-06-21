@@ -88,7 +88,7 @@
 
 Ƭ **AddFunc**: *function*
 
-*Defined in [packages/bodiless-table/src/types.ts:49](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/types.ts#L49)*
+*Defined in [packages/bodiless-table/src/types.ts:49](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/types.ts#L49)*
 
 #### Type declaration:
 
@@ -107,7 +107,7 @@ ___
 
 Ƭ **DeleteFunc**: *function*
 
-*Defined in [packages/bodiless-table/src/types.ts:51](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/types.ts#L51)*
+*Defined in [packages/bodiless-table/src/types.ts:51](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/types.ts#L51)*
 
 #### Type declaration:
 
@@ -125,7 +125,7 @@ ___
 
 Ƭ **MoveFunc**: *function*
 
-*Defined in [packages/bodiless-table/src/types.ts:50](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/types.ts#L50)*
+*Defined in [packages/bodiless-table/src/types.ts:50](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/types.ts#L50)*
 
 #### Type declaration:
 
@@ -143,7 +143,7 @@ ___
 
 Ƭ **NodeKey**: *string | Partial‹WithNodeProps›*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:291](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L291)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:291](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L291)*
 
 ___
 
@@ -151,7 +151,7 @@ ___
 
 Ƭ **TableActionProps**: *[WithTableManagerProps](globals.md#withtablemanagerprops) & object*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:57](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L57)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:57](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L57)*
 
 ___
 
@@ -159,7 +159,7 @@ ___
 
 Ƭ **TableBaseProps**: *object*
 
-*Defined in [packages/bodiless-table/src/types.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/types.ts#L32)*
+*Defined in [packages/bodiless-table/src/types.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/types.ts#L32)*
 
 #### Type declaration:
 
@@ -177,7 +177,7 @@ ___
 
 Ƭ **TableColumnContextValue**: *object*
 
-*Defined in [packages/bodiless-table/src/TableContext.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableContext.tsx#L29)*
+*Defined in [packages/bodiless-table/src/TableContext.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableContext.tsx#L29)*
 
 #### Type declaration:
 
@@ -191,7 +191,7 @@ ___
 
 Ƭ **TableComponents**: *object*
 
-*Defined in [packages/bodiless-table/src/types.ts:23](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/types.ts#L23)*
+*Defined in [packages/bodiless-table/src/types.ts:23](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/types.ts#L23)*
 
 #### Type declaration:
 
@@ -213,7 +213,7 @@ ___
 
 Ƭ **TableContent**: *[TableContentRow](globals.md#tablecontentrow)[]*
 
-*Defined in [packages/bodiless-table/src/withContent.tsx:59](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/withContent.tsx#L59)*
+*Defined in [packages/bodiless-table/src/withContent.tsx:59](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/withContent.tsx#L59)*
 
 ___
 
@@ -221,7 +221,7 @@ ___
 
 Ƭ **TableContentRow**: *string[]*
 
-*Defined in [packages/bodiless-table/src/withContent.tsx:58](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/withContent.tsx#L58)*
+*Defined in [packages/bodiless-table/src/withContent.tsx:58](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/withContent.tsx#L58)*
 
 ___
 
@@ -229,7 +229,7 @@ ___
 
 Ƭ **TableFunc**: *function*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:71](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L71)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:71](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L71)*
 
 #### Type declaration:
 
@@ -247,7 +247,7 @@ ___
 
 Ƭ **TableFuncs**: *object*
 
-*Defined in [packages/bodiless-table/src/types.ts:52](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/types.ts#L52)*
+*Defined in [packages/bodiless-table/src/types.ts:52](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/types.ts#L52)*
 
 #### Type declaration:
 
@@ -283,7 +283,7 @@ ___
 
 Ƭ **TableProps**: *[TableBaseProps](globals.md#tablebaseprops) & DesignableComponentsProps‹[TableComponents](globals.md#tablecomponents)› & HTMLProps‹HTMLElement›*
 
-*Defined in [packages/bodiless-table/src/types.ts:38](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/types.ts#L38)*
+*Defined in [packages/bodiless-table/src/types.ts:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/types.ts#L38)*
 
 ___
 
@@ -291,7 +291,7 @@ ___
 
 Ƭ **TableRowContextValue**: *object*
 
-*Defined in [packages/bodiless-table/src/TableContext.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableContext.tsx#L25)*
+*Defined in [packages/bodiless-table/src/TableContext.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableContext.tsx#L25)*
 
 #### Type declaration:
 
@@ -305,7 +305,7 @@ ___
 
 Ƭ **TableSectionProps**: *object*
 
-*Defined in [packages/bodiless-table/src/types.ts:41](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/types.ts#L41)*
+*Defined in [packages/bodiless-table/src/types.ts:41](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/types.ts#L41)*
 
 #### Type declaration:
 
@@ -327,7 +327,7 @@ ___
 
 Ƭ **UseMenuOptionsTable**: *function*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:157](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L157)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:157](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L157)*
 
 #### Type declaration:
 
@@ -345,7 +345,7 @@ ___
 
 Ƭ **UseMenuOptionsTableProps**: *object*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:145](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L145)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:145](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L145)*
 
 #### Type declaration:
 
@@ -375,7 +375,7 @@ ___
 
 Ƭ **WithContentProps**: *object*
 
-*Defined in [packages/bodiless-table/src/withContent.tsx:60](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/withContent.tsx#L60)*
+*Defined in [packages/bodiless-table/src/withContent.tsx:60](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/withContent.tsx#L60)*
 
 #### Type declaration:
 
@@ -389,7 +389,7 @@ ___
 
 Ƭ **WithTableManagerProps**: *object*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L47)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L47)*
 
 #### Type declaration:
 
@@ -405,7 +405,7 @@ ___
 
 • **CleanTable**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = designable(tableComponentsStart, 'Table')(TableBase)
 
-*Defined in [packages/bodiless-table/src/Table.tsx:148](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/Table.tsx#L148)*
+*Defined in [packages/bodiless-table/src/Table.tsx:148](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/Table.tsx#L148)*
 
 ___
 
@@ -416,7 +416,7 @@ ___
   name: '',
 } as TableColumnContextValue)
 
-*Defined in [packages/bodiless-table/src/TableContext.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableContext.tsx#L38)*
+*Defined in [packages/bodiless-table/src/TableContext.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableContext.tsx#L38)*
 
 ___
 
@@ -429,7 +429,7 @@ ___
   footRows: [] as string[],
 } as TableBaseProps)
 
-*Defined in [packages/bodiless-table/src/TableContext.tsx:18](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableContext.tsx#L18)*
+*Defined in [packages/bodiless-table/src/TableContext.tsx:18](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableContext.tsx#L18)*
 
 ___
 
@@ -456,7 +456,7 @@ ___
   moveFootRow: () => undefined,
 } as TableFuncs)
 
-*Defined in [packages/bodiless-table/src/TableManagerContext.tsx:18](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableManagerContext.tsx#L18)*
+*Defined in [packages/bodiless-table/src/TableManagerContext.tsx:18](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableManagerContext.tsx#L18)*
 
 ___
 
@@ -467,7 +467,7 @@ ___
   name: '',
 } as TableRowContextValue)
 
-*Defined in [packages/bodiless-table/src/TableContext.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableContext.tsx#L34)*
+*Defined in [packages/bodiless-table/src/TableContext.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableContext.tsx#L34)*
 
 ___
 
@@ -475,7 +475,7 @@ ___
 
 • **TableSectionContext**: *Context‹[Section](enums/section.md)›* = React.createContext(Section.body as Section)
 
-*Defined in [packages/bodiless-table/src/TableContext.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableContext.tsx#L33)*
+*Defined in [packages/bodiless-table/src/TableContext.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableContext.tsx#L33)*
 
 ## Functions
 
@@ -483,7 +483,7 @@ ___
 
 ▸ **DefaultCell**(`props`: HTMLProps‹StylableProps›): *Element‹›*
 
-*Defined in [packages/bodiless-table/src/Table.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/Table.tsx#L40)*
+*Defined in [packages/bodiless-table/src/Table.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/Table.tsx#L40)*
 
 **Parameters:**
 
@@ -499,7 +499,7 @@ ___
 
 ▸ **TableBase**(`props`: object & object & HTMLProps‹HTMLElement› & object): *Element‹›*
 
-*Defined in [packages/bodiless-table/src/Table.tsx:88](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/Table.tsx#L88)*
+*Defined in [packages/bodiless-table/src/Table.tsx:88](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/Table.tsx#L88)*
 
 **Parameters:**
 
@@ -515,7 +515,7 @@ ___
 
 ▸ **TableSection**(`props`: [TableSectionProps](globals.md#tablesectionprops)): *Element‹›*
 
-*Defined in [packages/bodiless-table/src/Table.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/Table.tsx#L55)*
+*Defined in [packages/bodiless-table/src/Table.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/Table.tsx#L55)*
 
 **Parameters:**
 
@@ -531,7 +531,7 @@ ___
 
 ▸ **asBodilessTable**(`nodeKey?`: [NodeKey](globals.md#nodekey), `defaultData?`: [TableBaseProps](globals.md#tablebaseprops)): *function & object*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:292](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L292)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:292](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L292)*
 
 **Parameters:**
 
@@ -548,7 +548,7 @@ ___
 
 ▸ **forCell**(`section`: [Section](enums/section.md), `rowIndex`: number, `columnIndex`: number): *(Anonymous function)*
 
-*Defined in [packages/bodiless-table/src/withContent.tsx:64](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/withContent.tsx#L64)*
+*Defined in [packages/bodiless-table/src/withContent.tsx:64](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/withContent.tsx#L64)*
 
 **Parameters:**
 
@@ -566,7 +566,7 @@ ___
 
 ▸ **moveX**(`props`: [TableActionProps](globals.md#tableactionprops)): *(Anonymous function)*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:60](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L60)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:60](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L60)*
 
 **Parameters:**
 
@@ -582,7 +582,7 @@ ___
 
 ▸ **tableManagerFunc**(`__namedParameters`: object): *object*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:72](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L72)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:72](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L72)*
 
 **Parameters:**
 
@@ -651,7 +651,7 @@ ___
 
 ▸ **useIsEvenColumn**(): *boolean*
 
-*Defined in [packages/bodiless-table/src/forCell.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/forCell.tsx#L31)*
+*Defined in [packages/bodiless-table/src/forCell.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/forCell.tsx#L31)*
 
 **Returns:** *boolean*
 
@@ -661,7 +661,7 @@ ___
 
 ▸ **useIsEvenRow**(): *boolean*
 
-*Defined in [packages/bodiless-table/src/forCell.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/forCell.tsx#L25)*
+*Defined in [packages/bodiless-table/src/forCell.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/forCell.tsx#L25)*
 
 **Returns:** *boolean*
 
@@ -671,7 +671,7 @@ ___
 
 ▸ **useIsFirstColumn**(): *boolean*
 
-*Defined in [packages/bodiless-table/src/forCell.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/forCell.tsx#L33)*
+*Defined in [packages/bodiless-table/src/forCell.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/forCell.tsx#L33)*
 
 **Returns:** *boolean*
 
@@ -681,7 +681,7 @@ ___
 
 ▸ **useIsFirstRow**(): *boolean*
 
-*Defined in [packages/bodiless-table/src/forCell.tsx:27](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/forCell.tsx#L27)*
+*Defined in [packages/bodiless-table/src/forCell.tsx:27](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/forCell.tsx#L27)*
 
 **Returns:** *boolean*
 
@@ -691,7 +691,7 @@ ___
 
 ▸ **useIsInBody**(): *boolean*
 
-*Defined in [packages/bodiless-table/src/forCell.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/forCell.tsx#L37)*
+*Defined in [packages/bodiless-table/src/forCell.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/forCell.tsx#L37)*
 
 **Returns:** *boolean*
 
@@ -701,7 +701,7 @@ ___
 
 ▸ **useIsInFoot**(): *boolean*
 
-*Defined in [packages/bodiless-table/src/forCell.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/forCell.tsx#L39)*
+*Defined in [packages/bodiless-table/src/forCell.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/forCell.tsx#L39)*
 
 **Returns:** *boolean*
 
@@ -711,7 +711,7 @@ ___
 
 ▸ **useIsInHead**(): *boolean*
 
-*Defined in [packages/bodiless-table/src/forCell.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/forCell.tsx#L38)*
+*Defined in [packages/bodiless-table/src/forCell.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/forCell.tsx#L38)*
 
 **Returns:** *boolean*
 
@@ -721,7 +721,7 @@ ___
 
 ▸ **useIsLastColumn**(): *boolean*
 
-*Defined in [packages/bodiless-table/src/forCell.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/forCell.tsx#L34)*
+*Defined in [packages/bodiless-table/src/forCell.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/forCell.tsx#L34)*
 
 **Returns:** *boolean*
 
@@ -731,7 +731,7 @@ ___
 
 ▸ **useIsLastRow**(): *boolean*
 
-*Defined in [packages/bodiless-table/src/forCell.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/forCell.tsx#L28)*
+*Defined in [packages/bodiless-table/src/forCell.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/forCell.tsx#L28)*
 
 **Returns:** *boolean*
 
@@ -741,7 +741,7 @@ ___
 
 ▸ **useIsOddColumnn**(): *boolean*
 
-*Defined in [packages/bodiless-table/src/forCell.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/forCell.tsx#L32)*
+*Defined in [packages/bodiless-table/src/forCell.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/forCell.tsx#L32)*
 
 **Returns:** *boolean*
 
@@ -751,7 +751,7 @@ ___
 
 ▸ **useIsOddRow**(): *boolean*
 
-*Defined in [packages/bodiless-table/src/forCell.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/forCell.tsx#L26)*
+*Defined in [packages/bodiless-table/src/forCell.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/forCell.tsx#L26)*
 
 **Returns:** *boolean*
 
@@ -761,7 +761,7 @@ ___
 
 ▸ **useMenuOptionsBody**(): *object[]*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:218](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L218)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:218](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L218)*
 
 **Returns:** *object[]*
 
@@ -771,7 +771,7 @@ ___
 
 ▸ **useMenuOptionsColumns**(): *object[]*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:247](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L247)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:247](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L247)*
 
 **Returns:** *object[]*
 
@@ -781,7 +781,7 @@ ___
 
 ▸ **useMenuOptionsFoot**(): *object[]*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:238](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L238)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:238](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L238)*
 
 **Returns:** *object[]*
 
@@ -791,7 +791,7 @@ ___
 
 ▸ **useMenuOptionsHead**(): *object[]*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:228](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L228)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:228](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L228)*
 
 **Returns:** *object[]*
 
@@ -801,7 +801,7 @@ ___
 
 ▸ **useMenuOptionsTable**(`__namedParameters`: object): *(object | object | object)[]*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:158](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L158)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:158](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L158)*
 
 **Parameters:**
 
@@ -828,7 +828,7 @@ ___
 
 ▸ **useMenuOptionsTableOverview**(): *object[]*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:258](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L258)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:258](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L258)*
 
 **Returns:** *object[]*
 
@@ -838,7 +838,7 @@ ___
 
 ▸ **useTableColumnContext**(): *object*
 
-*Defined in [packages/bodiless-table/src/TableContext.tsx:45](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableContext.tsx#L45)*
+*Defined in [packages/bodiless-table/src/TableContext.tsx:45](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableContext.tsx#L45)*
 
 **Returns:** *object*
 
@@ -852,7 +852,7 @@ ___
 
 ▸ **useTableContext**(): *object*
 
-*Defined in [packages/bodiless-table/src/TableContext.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableContext.tsx#L46)*
+*Defined in [packages/bodiless-table/src/TableContext.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableContext.tsx#L46)*
 
 **Returns:** *object*
 
@@ -870,7 +870,7 @@ ___
 
 ▸ **useTableManagerContext**(): *object*
 
-*Defined in [packages/bodiless-table/src/TableManagerContext.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableManagerContext.tsx#L39)*
+*Defined in [packages/bodiless-table/src/TableManagerContext.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableManagerContext.tsx#L39)*
 
 **Returns:** *object*
 
@@ -906,7 +906,7 @@ ___
 
 ▸ **useTableRowContext**(): *object*
 
-*Defined in [packages/bodiless-table/src/TableContext.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableContext.tsx#L44)*
+*Defined in [packages/bodiless-table/src/TableContext.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableContext.tsx#L44)*
 
 **Returns:** *object*
 
@@ -920,7 +920,7 @@ ___
 
 ▸ **useTableSectionContext**(): *[Section](enums/section.md)*
 
-*Defined in [packages/bodiless-table/src/TableContext.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/TableContext.tsx#L43)*
+*Defined in [packages/bodiless-table/src/TableContext.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/TableContext.tsx#L43)*
 
 **Returns:** *[Section](enums/section.md)*
 
@@ -930,7 +930,7 @@ ___
 
 ▸ **withCols**(...`columns`: string[]): *HOC*
 
-*Defined in [packages/bodiless-table/src/withContent.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/withContent.tsx#L37)*
+*Defined in [packages/bodiless-table/src/withContent.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/withContent.tsx#L37)*
 
 **Parameters:**
 
@@ -946,7 +946,7 @@ ___
 
 ▸ **withContent**(`props`: [WithContentProps](globals.md#withcontentprops)): *function & object*
 
-*Defined in [packages/bodiless-table/src/withContent.tsx:69](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/withContent.tsx#L69)*
+*Defined in [packages/bodiless-table/src/withContent.tsx:69](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/withContent.tsx#L69)*
 
 **Parameters:**
 
@@ -962,7 +962,7 @@ ___
 
 ▸ **withHeadRows**(...`rows`: string[]): *HOC*
 
-*Defined in [packages/bodiless-table/src/withContent.tsx:51](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/withContent.tsx#L51)*
+*Defined in [packages/bodiless-table/src/withContent.tsx:51](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/withContent.tsx#L51)*
 
 **Parameters:**
 
@@ -978,7 +978,7 @@ ___
 
 ▸ **withInnerText**(`text`: string): *HOC*
 
-*Defined in [packages/bodiless-table/src/withContent.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/withContent.tsx#L30)*
+*Defined in [packages/bodiless-table/src/withContent.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/withContent.tsx#L30)*
 
 **Parameters:**
 
@@ -994,7 +994,7 @@ ___
 
 ▸ **withRows**(...`rows`: string[]): *HOC*
 
-*Defined in [packages/bodiless-table/src/withContent.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/withContent.tsx#L44)*
+*Defined in [packages/bodiless-table/src/withContent.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/withContent.tsx#L44)*
 
 **Parameters:**
 
@@ -1010,7 +1010,7 @@ ___
 
 ▸ **withTableManager**(`Component`: "symbol" | "object" | "cite" | "data" | "form" | "label" | "slot" | "span" | "style" | "summary" | "title" | "pattern" | "a" | "abbr" | "address" | "area" | "article" | "aside" | "audio" | "b" | "base" | "bdi" | "bdo" | "big" | "blockquote" | "body" | "br" | "button" | "canvas" | "caption" | "code" | "col" | "colgroup" | "datalist" | "dd" | "del" | "details" | "dfn" | "dialog" | "div" | "dl" | "dt" | "em" | "embed" | "fieldset" | "figcaption" | "figure" | "footer" | "h1" | "h2" | "h3" | "h4" | "h5" | "h6" | "head" | "header" | "hgroup" | "hr" | "html" | "i" | "iframe" | "img" | "input" | "ins" | "kbd" | "keygen" | "legend" | "li" | "link" | "main" | "map" | "mark" | "menu" | "menuitem" | "meta" | "meter" | "nav" | "noindex" | "noscript" | "ol" | "optgroup" | "option" | "output" | "p" | "param" | "picture" | "pre" | "progress" | "q" | "rp" | "rt" | "ruby" | "s" | "samp" | "script" | "section" | "select" | "small" | "source" | "strong" | "sub" | "sup" | "table" | "template" | "tbody" | "td" | "textarea" | "tfoot" | "th" | "thead" | "time" | "tr" | "track" | "u" | "ul" | "var" | "video" | "wbr" | "webview" | "svg" | "animate" | "animateMotion" | "animateTransform" | "circle" | "clipPath" | "defs" | "desc" | "ellipse" | "feBlend" | "feColorMatrix" | "feComponentTransfer" | "feComposite" | "feConvolveMatrix" | "feDiffuseLighting" | "feDisplacementMap" | "feDistantLight" | "feDropShadow" | "feFlood" | "feFuncA" | "feFuncB" | "feFuncG" | "feFuncR" | "feGaussianBlur" | "feImage" | "feMerge" | "feMergeNode" | "feMorphology" | "feOffset" | "fePointLight" | "feSpecularLighting" | "feSpotLight" | "feTile" | "feTurbulence" | "filter" | "foreignObject" | "g" | "image" | "line" | "linearGradient" | "marker" | "mask" | "metadata" | "mpath" | "path" | "polygon" | "polyline" | "radialGradient" | "rect" | "stop" | "switch" | "text" | "textPath" | "tspan" | "use" | "view" | ComponentClass‹P, any› & object | FunctionComponent‹P› & object): *WithTableManager*
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:132](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L132)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:132](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L132)*
 
 **Parameters:**
 
@@ -1026,40 +1026,40 @@ Name | Type |
 
 ### ▪ **tableComponentsStart**: *object*
 
-*Defined in [packages/bodiless-table/src/Table.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/Table.tsx#L47)*
+*Defined in [packages/bodiless-table/src/Table.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/Table.tsx#L47)*
 
 ###  Cell
 
 • **Cell**: *[DefaultCell](globals.md#const-defaultcell)* = DefaultCell
 
-*Defined in [packages/bodiless-table/src/Table.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/Table.tsx#L53)*
+*Defined in [packages/bodiless-table/src/Table.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/Table.tsx#L53)*
 
 ###  Row
 
 • **Row**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Tr
 
-*Defined in [packages/bodiless-table/src/Table.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/Table.tsx#L52)*
+*Defined in [packages/bodiless-table/src/Table.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/Table.tsx#L52)*
 
 ###  TBody
 
 • **TBody**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Tbody
 
-*Defined in [packages/bodiless-table/src/Table.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/Table.tsx#L49)*
+*Defined in [packages/bodiless-table/src/Table.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/Table.tsx#L49)*
 
 ###  TFoot
 
 • **TFoot**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Tfoot
 
-*Defined in [packages/bodiless-table/src/Table.tsx:51](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/Table.tsx#L51)*
+*Defined in [packages/bodiless-table/src/Table.tsx:51](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/Table.tsx#L51)*
 
 ###  THead
 
 • **THead**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Thead
 
-*Defined in [packages/bodiless-table/src/Table.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/Table.tsx#L50)*
+*Defined in [packages/bodiless-table/src/Table.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/Table.tsx#L50)*
 
 ###  Wrapper
 
 • **Wrapper**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Table
 
-*Defined in [packages/bodiless-table/src/Table.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/Table.tsx#L48)*
+*Defined in [packages/bodiless-table/src/Table.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/Table.tsx#L48)*

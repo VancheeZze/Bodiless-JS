@@ -17,7 +17,7 @@
 
 • **columns**: = "columns"
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L55)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L55)*
 
 ___
 
@@ -25,7 +25,7 @@ ___
 
 • **footRows**: = "footRows"
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L54)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L54)*
 
 ___
 
@@ -33,7 +33,7 @@ ___
 
 • **headRows**: = "headRows"
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L53)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L53)*
 
 ___
 
@@ -41,4 +41,4 @@ ___
 
 • **rows**: = "rows"
 
-*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/83cdabf7/packages/bodiless-table/src/asBodilessTable.tsx#L52)*
+*Defined in [packages/bodiless-table/src/asBodilessTable.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-table/src/asBodilessTable.tsx#L52)*
