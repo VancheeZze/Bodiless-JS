@@ -64,7 +64,7 @@
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[constructor](defaultcontentnode.md#constructor)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:103](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L103)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:103](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L103)*
 
 **Parameters:**
 
@@ -84,7 +84,7 @@ Name | Type |
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[actions](defaultcontentnode.md#protected-actions)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:99](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L99)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:99](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L99)*
 
 ___
 
@@ -92,7 +92,7 @@ ___
 
 • **content**: *[DefaultContent](../globals.md#defaultcontent)*
 
-*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:64](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L64)*
+*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:64](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L64)*
 
 ___
 
@@ -102,7 +102,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[getters](defaultcontentnode.md#protected-getters)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:101](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L101)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:101](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L101)*
 
 ___
 
@@ -112,7 +112,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[path](defaultcontentnode.md#path)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:103](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L103)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:103](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L103)*
 
 ___
 
@@ -120,7 +120,7 @@ ___
 
 • **sourceNode**: *[DefaultContentNode](defaultcontentnode.md)‹K›*
 
-*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:61](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L61)*
+*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:61](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L61)*
 
 ## Accessors
 
@@ -130,7 +130,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[baseResourcePath](defaultcontentnode.md#baseresourcepath)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:131](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L131)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:131](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L131)*
 
 **Returns:** *string*
 
@@ -142,7 +142,7 @@ ___
 
 *Overrides [DefaultContentNode](defaultcontentnode.md).[data](defaultcontentnode.md#data)*
 
-*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:100](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L100)*
+*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:100](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L100)*
 
 when default content is not a function
 then take data from store
@@ -162,7 +162,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[hasError](defaultcontentnode.md#haserror)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:153](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L153)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:153](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L153)*
 
 **Returns:** *hasError*
 
@@ -174,7 +174,7 @@ ___
 
 *Overrides [DefaultContentNode](defaultcontentnode.md).[keys](defaultcontentnode.md#keys)*
 
-*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:114](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L114)*
+*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:114](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L114)*
 
 **Returns:** *string[]*
 
@@ -186,7 +186,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[pagePath](defaultcontentnode.md#pagepath)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:126](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L126)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:126](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L126)*
 
 **Returns:** *string*
 
@@ -198,7 +198,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[child](defaultcontentnode.md#child)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:116](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L116)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:116](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L116)*
 
 **Type parameters:**
 
@@ -220,7 +220,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[delete](defaultcontentnode.md#delete)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:141](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L141)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:141](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L141)*
 
 **Parameters:**
 
@@ -238,7 +238,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[getActions](defaultcontentnode.md#getactions)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:167](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L167)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:167](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L167)*
 
 **Returns:** *object*
 
@@ -252,7 +252,7 @@ ___
 
 ▸ **getContentKey**(): *string*
 
-*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:73](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L73)*
+*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:73](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L73)*
 
 **Returns:** *string*
 
@@ -262,7 +262,7 @@ ___
 
 ▸ **getDefaultContent**(): *any*
 
-*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:77](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L77)*
+*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:77](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L77)*
 
 **Returns:** *any*
 
@@ -274,7 +274,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[getGetters](defaultcontentnode.md#getgetters)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:163](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L163)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:163](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L163)*
 
 **Returns:** *object*
 
@@ -296,7 +296,7 @@ ___
 
 *Overrides [DefaultContentNode](defaultcontentnode.md).[peer](defaultcontentnode.md#peer)*
 
-*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:123](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L123)*
+*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:123](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L123)*
 
 **Type parameters:**
 
@@ -318,7 +318,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[proxy](defaultcontentnode.md#proxy)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:158](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L158)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:158](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L158)*
 
 **Parameters:**
 
@@ -334,7 +334,7 @@ ___
 
 ▸ **setContent**(`content`: [DefaultContent](../globals.md#defaultcontent)): *void*
 
-*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:83](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L83)*
+*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:83](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L83)*
 
 **Parameters:**
 
@@ -352,7 +352,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[setData](defaultcontentnode.md#setdata)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:136](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L136)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:136](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L136)*
 
 **Parameters:**
 
@@ -368,7 +368,7 @@ ___
 
 ▸ **setSourceNode**(`node`: [DefaultContentNode](defaultcontentnode.md)‹K›): *void*
 
-*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:87](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L87)*
+*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:87](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L87)*
 
 **Parameters:**
 
@@ -384,7 +384,7 @@ ___
 
 ▸ **create**(`node`: [DefaultContentNode](defaultcontentnode.md)‹object›, `content`: object): *[ContentfulNode](contentfulnode.md)‹object, object›*
 
-*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:66](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L66)*
+*Defined in [packages/bodiless-core/src/Contentful/ContentfulNode.ts:66](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/Contentful/ContentfulNode.ts#L66)*
 
 **Parameters:**
 
@@ -403,7 +403,7 @@ ___
 
 *Inherited from [DefaultContentNode](defaultcontentnode.md).[dummy](defaultcontentnode.md#static-dummy)*
 
-*Defined in [packages/bodiless-core/src/ContentNode.ts:171](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-core/src/ContentNode.ts#L171)*
+*Defined in [packages/bodiless-core/src/ContentNode.ts:171](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-core/src/ContentNode.ts#L171)*
 
 **Parameters:**
 

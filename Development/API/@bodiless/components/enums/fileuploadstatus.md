@@ -16,7 +16,7 @@
 
 • **FileAccepted**:
 
-*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L31)*
+*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L31)*
 
 ___
 
@@ -24,7 +24,7 @@ ___
 
 • **FileRejected**:
 
-*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L30)*
+*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L30)*
 
 ___
 
@@ -32,4 +32,4 @@ ___
 
 • **Initial**:
 
-*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L29)*
+*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L29)*

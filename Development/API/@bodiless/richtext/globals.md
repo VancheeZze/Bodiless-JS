@@ -253,7 +253,7 @@
 
 Ƭ **ButtonProps**: *object*
 
-*Defined in [packages/bodiless-richtext/src/components/TextSelectorButton.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/components/TextSelectorButton.tsx#L25)*
+*Defined in [packages/bodiless-richtext/src/components/TextSelectorButton.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/components/TextSelectorButton.tsx#L25)*
 
 #### Type declaration:
 
@@ -265,7 +265,7 @@ ___
 
 Ƭ **CTWM**: *ComponentOrTag‹any›*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L31)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L31)*
 
 ___
 
@@ -273,7 +273,7 @@ ___
 
 Ƭ **CreateBlockButton**: *function*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/createBlockButton.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/createBlockButton.ts#L20)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/createBlockButton.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/createBlockButton.ts#L20)*
 
 #### Type declaration:
 
@@ -292,7 +292,7 @@ ___
 
 Ƭ **CreateDeserializerSettings**: *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:112](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L112)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:112](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L112)*
 
 #### Type declaration:
 
@@ -306,7 +306,7 @@ ___
 
 Ƭ **CreateInlineButton**: *function*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/createInlineButton.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/createInlineButton.ts#L20)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/createInlineButton.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/createInlineButton.ts#L20)*
 
 #### Type declaration:
 
@@ -325,7 +325,7 @@ ___
 
 Ƭ **CreateMarkButton**: *function*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/createMarkButton.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/mark/createMarkButton.ts#L20)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/createMarkButton.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/mark/createMarkButton.ts#L20)*
 
 #### Type declaration:
 
@@ -344,7 +344,7 @@ ___
 
 Ƭ **CreateToggleMark**: *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L24)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L24)*
 
 #### Type declaration:
 
@@ -356,7 +356,7 @@ ___
 
 Ƭ **CustomComponentProps**: *object*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:64](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L64)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:64](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L64)*
 
 #### Type declaration:
 
@@ -374,9 +374,9 @@ ___
 
 Ƭ **Data**: *[Value](globals.md#value)*
 
-*Defined in [packages/bodiless-richtext/src/Float.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Float.tsx#L26)*
+*Defined in [packages/bodiless-richtext/src/Float.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Float.tsx#L26)*
 
-*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L24)*
+*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L24)*
 
 ___
 
@@ -384,7 +384,7 @@ ___
 
 Ƭ **DataJSON**: *object*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:33](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L33)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:33](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L33)*
 
 ___
 
@@ -392,7 +392,7 @@ ___
 
 Ƭ **DeserializeElement**: *function*
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L39)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L39)*
 
 #### Type declaration:
 
@@ -410,7 +410,7 @@ ___
 
 Ƭ **DeserializeElementParams**: *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:35](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L35)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:35](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L35)*
 
 #### Type declaration:
 
@@ -424,7 +424,7 @@ ___
 
 Ƭ **Deserializer**: *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:29](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L29)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:29](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L29)*
 
 #### Type declaration:
 
@@ -440,7 +440,7 @@ ___
 
 Ƭ **Deserializers**: *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:40](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L40)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:40](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L40)*
 
 #### Type declaration:
 
@@ -452,7 +452,7 @@ ___
 
 Ƭ **EditorButtonProps**: *object*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:59](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L59)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:59](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L59)*
 
 #### Type declaration:
 
@@ -466,7 +466,7 @@ ___
 
 Ƭ **EditorContext**: *object | null*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:48](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L48)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:48](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L48)*
 
 ___
 
@@ -474,7 +474,7 @@ ___
 
 Ƭ **EditorOnChange**: *function*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:46](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L46)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:46](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L46)*
 
 #### Type declaration:
 
@@ -492,7 +492,7 @@ ___
 
 Ƭ **Element**: *HTMLElement*
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:19](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L19)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:19](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L19)*
 
 ___
 
@@ -500,7 +500,7 @@ ___
 
 Ƭ **FormProps**: *object*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:35](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L35)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:35](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L35)*
 
 #### Type declaration:
 
@@ -518,7 +518,7 @@ ___
 
 Ƭ **HTMLElementMap**: *function*
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L22)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L22)*
 
 #### Type declaration:
 
@@ -536,7 +536,7 @@ ___
 
 Ƭ **HTMLElementMatch**: *function*
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L21)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L21)*
 
 #### Type declaration:
 
@@ -554,7 +554,7 @@ ___
 
 Ƭ **HoverButton**: *[RichTextComponent](globals.md#richtextcomponent) & object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:142](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L142)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:142](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L142)*
 
 ___
 
@@ -562,7 +562,7 @@ ___
 
 Ƭ **HoverMenuProps**: *object*
 
-*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:72](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L72)*
+*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:72](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L72)*
 
 #### Type declaration:
 
@@ -578,7 +578,7 @@ ___
 
 Ƭ **InitialValue**: *[Value](globals.md#value)*
 
-*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L26)*
+*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L26)*
 
 ___
 
@@ -586,7 +586,7 @@ ___
 
 Ƭ **InsertInlineOptions**: *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:80](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L80)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:80](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L80)*
 
 #### Type declaration:
 
@@ -600,7 +600,7 @@ ___
 
 Ƭ **NewState**: *object*
 
-*Defined in [packages/bodiless-richtext/src/MobxStateContainer.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/MobxStateContainer.ts#L17)*
+*Defined in [packages/bodiless-richtext/src/MobxStateContainer.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/MobxStateContainer.ts#L17)*
 
 #### Type declaration:
 
@@ -612,7 +612,7 @@ ___
 
 Ƭ **Node**: *object*
 
-*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:18](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withDataMigrator.tsx#L18)*
+*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:18](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withDataMigrator.tsx#L18)*
 
 #### Type declaration:
 
@@ -638,7 +638,7 @@ ___
 
 Ƭ **NodeEditForm**: *ComponentType‹[FormProps](globals.md#formprops)›*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:44](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L44)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:44](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L44)*
 
 ___
 
@@ -646,7 +646,7 @@ ___
 
 Ƭ **NodeMapper**: *function*
 
-*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withDataMigrator.tsx#L29)*
+*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withDataMigrator.tsx#L29)*
 
 #### Type declaration:
 
@@ -664,7 +664,7 @@ ___
 
 Ƭ **NodeReducer**: *function*
 
-*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withDataMigrator.tsx#L30)*
+*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withDataMigrator.tsx#L30)*
 
 #### Type declaration:
 
@@ -682,7 +682,7 @@ ___
 
 Ƭ **Opts**: *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx#L29)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx#L29)*
 
 #### Type declaration:
 
@@ -698,7 +698,7 @@ ___
 
 Ƭ **Plugin**: *object*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:101](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L101)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:101](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L101)*
 
 #### Type declaration:
 
@@ -714,7 +714,7 @@ ___
 
 Ƭ **PreviewUI**: *object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L40)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L40)*
 
 #### Type declaration:
 
@@ -726,13 +726,13 @@ ___
 
 Ƭ **Props**: *object*
 
-*Defined in [packages/bodiless-richtext/src/core/SlateEditor.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/SlateEditor.tsx#L28)*
+*Defined in [packages/bodiless-richtext/src/core/SlateEditor.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/SlateEditor.tsx#L28)*
 
-*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L30)*
+*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L30)*
 
-*Defined in [packages/bodiless-richtext/src/components/PluginButton.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/components/PluginButton.tsx#L26)*
+*Defined in [packages/bodiless-richtext/src/components/PluginButton.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/components/PluginButton.tsx#L26)*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/render/index.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/render/index.tsx#L21)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/render/index.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/render/index.tsx#L21)*
 
 #### Type declaration:
 
@@ -746,7 +746,7 @@ ___
 
 Ƭ **RenderElementComponentType**: *ComponentType‹RenderElementProps›*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:107](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L107)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:107](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L107)*
 
 ___
 
@@ -754,7 +754,7 @@ ___
 
 Ƭ **RenderLeafComponentType**: *ComponentType‹RenderLeafProps›*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:108](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L108)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:108](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L108)*
 
 ___
 
@@ -762,7 +762,7 @@ ___
 
 Ƭ **RenderPluginComponent**: *ComponentType‹any› & object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:94](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L94)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:94](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L94)*
 
 ___
 
@@ -770,7 +770,7 @@ ___
 
 Ƭ **ReturnFocusItem**: *string | null*
 
-*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L24)*
+*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L24)*
 
 ___
 
@@ -778,7 +778,7 @@ ___
 
 Ƭ **RichTextBaseProps**: *object & Omit‹EditableProps, "value" | "onChange"›*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:90](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L90)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:90](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L90)*
 
 ___
 
@@ -786,7 +786,7 @@ ___
 
 Ƭ **RichTextComponent**: *ComponentType‹any› & object*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:71](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L71)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:71](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L71)*
 
 ___
 
@@ -794,7 +794,7 @@ ___
 
 Ƭ **RichTextComponentWithGlobalButton**: *[RichTextComponent](globals.md#richtextcomponent) & object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:164](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L164)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:164](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L164)*
 
 ___
 
@@ -802,7 +802,7 @@ ___
 
 Ƭ **RichTextComponents**: *object*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:86](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L86)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:86](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L86)*
 
 #### Type declaration:
 
@@ -814,7 +814,7 @@ ___
 
 Ƭ **RichTextProps**: *Omit‹Partial‹[RichTextBaseProps](globals.md#richtextbaseprops)›, "components"› & DesignableProps & WithNodeProps*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:98](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L98)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:98](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L98)*
 
 ___
 
@@ -822,7 +822,7 @@ ___
 
 Ƭ **RichTextProviderProps**: *object & [UseMenuOptionsProps](globals.md#usemenuoptionsprops) & Pick‹[RichTextProps](globals.md#richtextprops), "initialValue"›*
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:182](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L182)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:182](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L182)*
 
 ___
 
@@ -830,7 +830,7 @@ ___
 
 Ƭ **RichTextProviderType**: *ComponentType‹[RichTextProviderProps](globals.md#richtextproviderprops)›*
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:185](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L185)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:185](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L185)*
 
 ___
 
@@ -838,7 +838,7 @@ ___
 
 Ƭ **TUseNodeStateHandlers**: *function*
 
-*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L39)*
+*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:39](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L39)*
 
 #### Type declaration:
 
@@ -860,7 +860,7 @@ ___
 
 Ƭ **TUseNodeStateHandlersParams**: *Omit‹[TUseOnChangeParams](globals.md#tuseonchangeparams) & [TUseValueParam](globals.md#tusevalueparam), "key"›*
 
-*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L38)*
+*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:38](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L38)*
 
 ___
 
@@ -868,7 +868,7 @@ ___
 
 Ƭ **TUseOnChange**: *function*
 
-*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L32)*
+*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L32)*
 
 #### Type declaration:
 
@@ -886,7 +886,7 @@ ___
 
 Ƭ **TUseOnChangeParams**: *object*
 
-*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L27)*
+*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L27)*
 
 #### Type declaration:
 
@@ -902,7 +902,7 @@ ___
 
 Ƭ **TUseValue**: *function*
 
-*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:37](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L37)*
+*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:37](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L37)*
 
 #### Type declaration:
 
@@ -920,7 +920,7 @@ ___
 
 Ƭ **TUseValueParam**: *object*
 
-*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:33](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L33)*
+*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:33](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L33)*
 
 #### Type declaration:
 
@@ -934,7 +934,7 @@ ___
 
 Ƭ **ToggleBlockOptions**: *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:45](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L45)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:45](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L45)*
 
 #### Type declaration:
 
@@ -948,7 +948,7 @@ ___
 
 Ƭ **ToggleMarkOptions**: *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:37](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L37)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:37](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L37)*
 
 #### Type declaration:
 
@@ -962,7 +962,7 @@ ___
 
 Ƭ **ToggleProps**: *object*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:55](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L55)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:55](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L55)*
 
 #### Type declaration:
 
@@ -974,9 +974,9 @@ ___
 
 Ƭ **UI**: *object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L31)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L31)*
 
-*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L30)*
+*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L30)*
 
 #### Type declaration:
 
@@ -988,7 +988,7 @@ ___
 
 Ƭ **UpdateInlineOptions**: *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:73](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L73)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:73](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L73)*
 
 #### Type declaration:
 
@@ -1006,7 +1006,7 @@ ___
 
 Ƭ **UseKeyBoardShortcuts**: *object*
 
-*Defined in [packages/bodiless-richtext/src/useKeyBoardShortcuts.ts:45](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useKeyBoardShortcuts.ts#L45)*
+*Defined in [packages/bodiless-richtext/src/useKeyBoardShortcuts.ts:45](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useKeyBoardShortcuts.ts#L45)*
 
 #### Type declaration:
 
@@ -1020,7 +1020,7 @@ ___
 
 Ƭ **UseMenuOptionsProps**: *object*
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:165](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L165)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:165](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L165)*
 
 #### Type declaration:
 
@@ -1032,7 +1032,7 @@ ___
 
 Ƭ **Value**: *[Node](globals.md#node)[]*
 
-*Defined in [packages/bodiless-richtext/src/Type.ts:42](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Type.ts#L42)*
+*Defined in [packages/bodiless-richtext/src/Type.ts:42](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Type.ts#L42)*
 
 ___
 
@@ -1040,7 +1040,7 @@ ___
 
 Ƭ **WithSlateSchemaTypeProps**: *object*
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:103](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L103)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:103](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L103)*
 
 #### Type declaration:
 
@@ -1052,7 +1052,7 @@ ___
 
 Ƭ **createToggleBlockOptions**: *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:50](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L50)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:50](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L50)*
 
 #### Type declaration:
 
@@ -1064,7 +1064,7 @@ ___
 
 Ƭ **createToggleInlineOptions**: *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:84](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L84)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:84](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L84)*
 
 #### Type declaration:
 
@@ -1076,7 +1076,7 @@ ___
 
 Ƭ **getSelectorButtonToggleMarkType**: *object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:190](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L190)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:190](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L190)*
 
 #### Type declaration:
 
@@ -1090,7 +1090,7 @@ ___
 
 Ƭ **getSelectorButtonToggleType**: *object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:186](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L186)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:186](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L186)*
 
 #### Type declaration:
 
@@ -1104,7 +1104,7 @@ ___
 
 Ƭ **props**: *object*
 
-*Defined in [packages/bodiless-richtext/src/components/TextSelectorButton.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/components/TextSelectorButton.tsx#L44)*
+*Defined in [packages/bodiless-richtext/src/components/TextSelectorButton.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/components/TextSelectorButton.tsx#L44)*
 
 #### Type declaration:
 
@@ -1116,7 +1116,7 @@ ___
 
 Ƭ **requiredProps**: *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx#L25)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx#L25)*
 
 #### Type declaration:
 
@@ -1130,7 +1130,7 @@ ___
 
 Ƭ **uiIndexType**: *object*
 
-*Defined in [packages/bodiless-richtext/src/components/PluginButton.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/components/PluginButton.tsx#L22)*
+*Defined in [packages/bodiless-richtext/src/components/PluginButton.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/components/PluginButton.tsx#L22)*
 
 #### Type declaration:
 
@@ -1210,7 +1210,7 @@ ___
   );
 }, (prevProps, nextProps) => isEqual(prevProps.value, nextProps.value))
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:219](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L219)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:219](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L219)*
 
 ___
 
@@ -1235,7 +1235,7 @@ ___
   observer,
 )(Editable)
 
-*Defined in [packages/bodiless-richtext/src/core/Content.tsx:97](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/Content.tsx#L97)*
+*Defined in [packages/bodiless-richtext/src/core/Content.tsx:97](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/Content.tsx#L97)*
 
 ___
 
@@ -1245,7 +1245,7 @@ ___
 "* = "
 "
 
-*Defined in [packages/bodiless-richtext/src/RichTextPlain.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextPlain.tsx#L21)*
+*Defined in [packages/bodiless-richtext/src/RichTextPlain.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextPlain.tsx#L21)*
 
 ___
 
@@ -1256,7 +1256,7 @@ ___
   'BR',
 ]
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:46](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L46)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:46](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L46)*
 
 ___
 
@@ -1264,7 +1264,7 @@ ___
 
 • **DEFAULT_NODE**: *"paragraph"* = "paragraph"
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L38)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:38](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L38)*
 
 ___
 
@@ -1272,7 +1272,7 @@ ___
 
 • **DefaultPluginButton**: *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object* = Button
 
-*Defined in [packages/bodiless-richtext/src/components/PluginButton.tsx:20](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/components/PluginButton.tsx#L20)*
+*Defined in [packages/bodiless-richtext/src/components/PluginButton.tsx:20](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/components/PluginButton.tsx#L20)*
 
 ___
 
@@ -1280,7 +1280,7 @@ ___
 
 • **EditOnlyHoverMenu**: *FunctionComponent‹object›* = observer(EditOnlyHoverMenu$)
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:206](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L206)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:206](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L206)*
 
 ___
 
@@ -1288,7 +1288,7 @@ ___
 
 • **NODE_ELEMENT_NODE**: *1* = 1
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:45](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L45)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:45](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L45)*
 
 ___
 
@@ -1296,7 +1296,7 @@ ___
 
 • **NODE_TEXT_NODE**: *3* = 3
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:44](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L44)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:44](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L44)*
 
 ___
 
@@ -1306,7 +1306,7 @@ ___
   withReturnFocusBackOnEffect('more_horiz'),
 )(NodeSelectorButton$)
 
-*Defined in [packages/bodiless-richtext/src/components/TextSelectorButton.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/components/TextSelectorButton.tsx#L38)*
+*Defined in [packages/bodiless-richtext/src/components/TextSelectorButton.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/components/TextSelectorButton.tsx#L38)*
 
 ___
 
@@ -1314,7 +1314,7 @@ ___
 
 • **RETURN_FOCUS_ITEM**: *[ReturnFocusItem](globals.md#returnfocusitem)* = null
 
-*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L25)*
+*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L25)*
 
 ___
 
@@ -1328,7 +1328,7 @@ ___
   designable(apply, 'RichText'),
 )(BasicRichText) as ComponentType<RichTextProps>
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:337](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L337)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:337](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L337)*
 
 ___
 
@@ -1344,7 +1344,7 @@ ___
   withSlateSchema,
 )(Fragment) as RichTextProviderType
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:186](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L186)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:186](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L186)*
 
 ___
 
@@ -1352,7 +1352,7 @@ ___
 
 • **SlateEditor**: *(Anonymous function)* = withSlateEditor(Fragment)
 
-*Defined in [packages/bodiless-richtext/src/core/SlateEditor.tsx:56](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/SlateEditor.tsx#L56)*
+*Defined in [packages/bodiless-richtext/src/core/SlateEditor.tsx:56](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/SlateEditor.tsx#L56)*
 
 ___
 
@@ -1360,7 +1360,7 @@ ___
 
 • **SlateEditorContext**: *Context‹null | object›* = React.createContext<EditorContext>(null)
 
-*Defined in [packages/bodiless-richtext/src/core/SlateEditorContext.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/SlateEditorContext.ts#L18)*
+*Defined in [packages/bodiless-richtext/src/core/SlateEditorContext.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/SlateEditorContext.ts#L18)*
 
 ___
 
@@ -1368,7 +1368,7 @@ ___
 
 • **asAtomicBlock**: *(Anonymous function)* = withMeta({ isAtomicBlock: true })
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:76](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L76)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:76](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L76)*
 
 asAtomicBlock marks the item to be inserted as block
 
@@ -1378,7 +1378,7 @@ ___
 
 • **asBlock**: *(Anonymous function)* = withMeta({ type: RichTextItemType.block })
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L55)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L55)*
 
 asBlock returns a function that will add the fact that an item is a block to a RichTextItem.
 
@@ -1395,7 +1395,7 @@ ___
   ),
 )
 
-*Defined in [packages/bodiless-richtext/src/Float.tsx:68](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Float.tsx#L68)*
+*Defined in [packages/bodiless-richtext/src/Float.tsx:68](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Float.tsx#L68)*
 
 #### Type declaration:
 
@@ -1413,7 +1413,7 @@ ___
 
 • **asInline**: *(Anonymous function)* = withMeta({ type: RichTextItemType.inline })
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:61](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L61)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:61](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L61)*
 
 asInline returns a function that will add the fact that
 an item is an inline to a RichTextItem.
@@ -1424,7 +1424,7 @@ ___
 
 • **asMark**: *(Anonymous function)* = withMeta({ type: RichTextItemType.mark })
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:66](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L66)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:66](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L66)*
 
 asMark returns a function that will add the fact that an item is a mark to a RichTextItem.
 
@@ -1436,7 +1436,7 @@ ___
   preview: 1,
 })
 
-*Defined in [packages/bodiless-richtext/src/RichTextPreview.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextPreview.tsx#L43)*
+*Defined in [packages/bodiless-richtext/src/RichTextPreview.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextPreview.tsx#L43)*
 
 ___
 
@@ -1444,7 +1444,7 @@ ___
 
 • **asVoid**: *(Anonymous function)* = withMeta({ isVoid: true })
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:71](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L71)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:71](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L71)*
 
 asVoid marks the item to be inserted as a void item
 
@@ -1467,7 +1467,7 @@ ___
   H3,
 } as DesignableComponents
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:289](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L289)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:289](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L289)*
 
 #### Type declaration:
 
@@ -1482,7 +1482,7 @@ ___
   return context.isEdit && Boolean(props.globalButtons);
 })
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:177](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L177)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:177](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L177)*
 
 #### Type declaration:
 
@@ -1549,7 +1549,7 @@ ___
 
 • **uiContext**: *Context‹object›* = createContext<UI>(defaultUI)
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L49)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L49)*
 
 ___
 
@@ -1557,7 +1557,7 @@ ___
 
 • **withAlignCenterMeta**: *function* = flow(asBlock, withButton('format_align_center'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:51](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L51)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:51](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L51)*
 
 #### Type declaration:
 
@@ -1575,7 +1575,7 @@ ___
 
 • **withAlignJustifyMeta**: *function* = flow(asBlock, withButton('format_align_justify'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L52)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:52](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L52)*
 
 #### Type declaration:
 
@@ -1593,7 +1593,7 @@ ___
 
 • **withAlignLeftMeta**: *function* = flow(asBlock, withButton('format_align_left'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L49)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:49](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L49)*
 
 #### Type declaration:
 
@@ -1611,7 +1611,7 @@ ___
 
 • **withAlignRightMeta**: *function* = flow(asBlock, withButton('format_align_right'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L50)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L50)*
 
 #### Type declaration:
 
@@ -1629,7 +1629,7 @@ ___
 
 • **withBoldDeserializer**: *(Anonymous function)* = withHtmlDeserializer(createBoldDeserializer())
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L36)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L36)*
 
 ___
 
@@ -1637,7 +1637,7 @@ ___
 
 • **withBoldMeta**: *function* = flow(withBoldDeserializer, asMark, withKey('mod+b'), withButton('format_bold'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L43)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L43)*
 
 #### Type declaration:
 
@@ -1661,7 +1661,7 @@ ___
   }),
 )
 
-*Defined in [packages/bodiless-richtext/src/core/Content.tsx:89](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/Content.tsx#L89)*
+*Defined in [packages/bodiless-richtext/src/core/Content.tsx:89](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/Content.tsx#L89)*
 
 hoc that can be applied to Editable based component
 adds styles to slate wrapper in order to solve a placeholder problem
@@ -1673,7 +1673,7 @@ ___
 
 • **withHeader1Deserializer**: *(Anonymous function)* = withHtmlDeserializer(createHeader1Deserializer())
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L39)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L39)*
 
 ___
 
@@ -1681,7 +1681,7 @@ ___
 
 • **withHeader1Meta**: *function* = flow(withHeader1Deserializer, asBlock, withKey('mod+1'), withButton('looks_one'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L53)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:53](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L53)*
 
 #### Type declaration:
 
@@ -1699,7 +1699,7 @@ ___
 
 • **withHeader2Deserializer**: *(Anonymous function)* = withHtmlDeserializer(createHeader2Deserializer())
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L40)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L40)*
 
 ___
 
@@ -1707,7 +1707,7 @@ ___
 
 • **withHeader2Meta**: *function* = flow(withHeader2Deserializer, asBlock, withKey('mod+2'), withButton('looks_two'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L54)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L54)*
 
 #### Type declaration:
 
@@ -1725,7 +1725,7 @@ ___
 
 • **withHeader3Deserializer**: *(Anonymous function)* = withHtmlDeserializer(createHeader3Deserializer())
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L41)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L41)*
 
 ___
 
@@ -1733,7 +1733,7 @@ ___
 
 • **withHeader3Meta**: *function* = flow(withHeader3Deserializer, asBlock, withKey('mod+3'), withButton('looks_3'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L55)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:55](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L55)*
 
 #### Type declaration:
 
@@ -1751,7 +1751,7 @@ ___
 
 • **withImageMeta**: *function* = flow(asVoid, asMark, withId('image'), withButton('image'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:56](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L56)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:56](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L56)*
 
 #### Type declaration:
 
@@ -1769,7 +1769,7 @@ ___
 
 • **withItalicDeserializer**: *(Anonymous function)* = withHtmlDeserializer(createItalicDeserializer())
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L37)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L37)*
 
 ___
 
@@ -1777,7 +1777,7 @@ ___
 
 • **withItalicMeta**: *function* = flow(withItalicDeserializer, asMark, withKey('mod+i'), withButton('format_italic'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:45](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L45)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:45](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L45)*
 
 #### Type declaration:
 
@@ -1795,7 +1795,7 @@ ___
 
 • **withLinkMeta**: *function* = flow(asInline, withKey('mod+k'), withButton('link'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L46)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:46](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L46)*
 
 #### Type declaration:
 
@@ -1816,7 +1816,7 @@ ___
   replaceWith(BaseRichTextPreview),
 )
 
-*Defined in [packages/bodiless-richtext/src/RichTextPreview.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextPreview.tsx#L47)*
+*Defined in [packages/bodiless-richtext/src/RichTextPreview.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextPreview.tsx#L47)*
 
 ___
 
@@ -1827,7 +1827,7 @@ ___
   withRichtextPlainSerializer$,
 )
 
-*Defined in [packages/bodiless-richtext/src/RichTextPlain.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextPlain.tsx#L43)*
+*Defined in [packages/bodiless-richtext/src/RichTextPlain.tsx:43](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextPlain.tsx#L43)*
 
 #### Type declaration:
 
@@ -1845,7 +1845,7 @@ ___
 
 • **withStrikeDeserializer**: *(Anonymous function)* = withHtmlDeserializer(createStrikeDeserializer())
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L38)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L38)*
 
 ___
 
@@ -1853,7 +1853,7 @@ ___
 
 • **withStrikeThroughMeta**: *function* = flow(withStrikeDeserializer, asMark, withKey('mod+s'), withButton('format_strikethrough'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L47)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L47)*
 
 #### Type declaration:
 
@@ -1871,7 +1871,7 @@ ___
 
 • **withSuperScriptMeta**: *function* = flow(asMark, withKey('mod+s'), withButton('format_size'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L44)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L44)*
 
 #### Type declaration:
 
@@ -1889,7 +1889,7 @@ ___
 
 • **withUnderlineMeta**: *function* = flow(asMark, withKey('mod+u'), withButton('format_underlined'))
 
-*Defined in [packages/bodiless-richtext/src/meta/index.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/meta/index.tsx#L48)*
+*Defined in [packages/bodiless-richtext/src/meta/index.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/meta/index.tsx#L48)*
 
 #### Type declaration:
 
@@ -1907,7 +1907,7 @@ Name | Type |
 
 ▸ **BaseRichTextPreview**(`props`: [RichTextBaseProps](globals.md#richtextbaseprops)): *Element‹›*
 
-*Defined in [packages/bodiless-richtext/src/RichTextPreview.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextPreview.tsx#L28)*
+*Defined in [packages/bodiless-richtext/src/RichTextPreview.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextPreview.tsx#L28)*
 
 **Parameters:**
 
@@ -1923,7 +1923,7 @@ ___
 
 ▸ **EditOnlyHoverMenu$**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:200](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L200)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:200](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L200)*
 
 **Parameters:**
 
@@ -1942,7 +1942,7 @@ ___
 
 ▸ **HoverMenu**(`props`: [HoverMenuProps](globals.md#hovermenuprops)): *null | ReactPortal‹›*
 
-*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:78](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L78)*
+*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:78](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L78)*
 
 **Parameters:**
 
@@ -1958,7 +1958,7 @@ ___
 
 ▸ **NodeSelectorButton$**(`props`: [ButtonProps](globals.md#buttonprops)): *Element‹›*
 
-*Defined in [packages/bodiless-richtext/src/components/TextSelectorButton.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/components/TextSelectorButton.tsx#L29)*
+*Defined in [packages/bodiless-richtext/src/components/TextSelectorButton.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/components/TextSelectorButton.tsx#L29)*
 
 **Parameters:**
 
@@ -1974,7 +1974,7 @@ ___
 
 ▸ **PluginButton**(`props`: object & HTMLProps‹HTMLButtonElement› & object): *Element‹›*
 
-*Defined in [packages/bodiless-richtext/src/components/PluginButton.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/components/PluginButton.tsx#L31)*
+*Defined in [packages/bodiless-richtext/src/components/PluginButton.tsx:31](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/components/PluginButton.tsx#L31)*
 
 **Parameters:**
 
@@ -1990,7 +1990,7 @@ ___
 
 ▸ **SlateComponentProvider**(`update`: Function, `type`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L48)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L48)*
 
 **Parameters:**
 
@@ -2007,7 +2007,7 @@ ___
 
 ▸ **TextSelectorButton**(`__namedParameters`: object): *Element‹›*
 
-*Defined in [packages/bodiless-richtext/src/components/TextSelectorButton.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/components/TextSelectorButton.tsx#L48)*
+*Defined in [packages/bodiless-richtext/src/components/TextSelectorButton.tsx:48](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/components/TextSelectorButton.tsx#L48)*
 
 **Parameters:**
 
@@ -2025,7 +2025,7 @@ ___
 
 ▸ **apply**(`design`: Design‹DesignableComponents›): *object*
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:319](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L319)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:319](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L319)*
 
 **Parameters:**
 
@@ -2041,7 +2041,7 @@ ___
 
 ▸ **asSlateCustomComponent**‹**P**›(`Component`: CT‹P›): *SlateCustomComponent*
 
-*Defined in [packages/bodiless-richtext/src/asSlateCustomComponent.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/asSlateCustomComponent.tsx#L21)*
+*Defined in [packages/bodiless-richtext/src/asSlateCustomComponent.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/asSlateCustomComponent.tsx#L21)*
 
 **Type parameters:**
 
@@ -2061,7 +2061,7 @@ ___
 
 ▸ **createBlock**(`blockType`: string, `data`: [DataJSON](globals.md#datajson)): *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:40](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L40)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:40](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L40)*
 
 **Parameters:**
 
@@ -2082,7 +2082,7 @@ ___
 
 ▸ **createBlockButton**(`blockType`: string, `icon`: string): *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/createBlockButton.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/createBlockButton.ts#L25)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/createBlockButton.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/createBlockButton.ts#L25)*
 
 **Parameters:**
 
@@ -2099,7 +2099,7 @@ ___
 
 ▸ **createBoldDeserializer**(): *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L18)*
+*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L18)*
 
 **Returns:** *object*
 
@@ -2113,7 +2113,7 @@ ___
 
 ▸ **createDefaultDeserializers**(): *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:80](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L80)*
+*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:80](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L80)*
 
 **Returns:** *object*
 
@@ -2159,7 +2159,7 @@ ___
 
 ▸ **createDeserializer**(`__namedParameters`: object): *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:117](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L117)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:117](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L117)*
 
 **Parameters:**
 
@@ -2186,7 +2186,7 @@ ___
 
 ▸ **createElementRenderPlugin**(`__namedParameters`: object): *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/render/index.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/render/index.tsx#L26)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/render/index.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/render/index.tsx#L26)*
 
 **Parameters:**
 
@@ -2209,7 +2209,7 @@ ___
 
 ▸ **createHeader1Deserializer**(): *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:59](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L59)*
+*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:59](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L59)*
 
 **Returns:** *object*
 
@@ -2219,7 +2219,7 @@ ___
 
 ▸ **createHeader2Deserializer**(): *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:66](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L66)*
+*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:66](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L66)*
 
 **Returns:** *object*
 
@@ -2229,7 +2229,7 @@ ___
 
 ▸ **createHeader3Deserializer**(): *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:73](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L73)*
+*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:73](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L73)*
 
 **Returns:** *object*
 
@@ -2239,7 +2239,7 @@ ___
 
 ▸ **createInline**(`inlineType`: string, `data`: [DataJSON](globals.md#datajson)): *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L38)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:38](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L38)*
 
 **Parameters:**
 
@@ -2260,7 +2260,7 @@ ___
 
 ▸ **createInlineButton**(`inlineType`: string, `icon`: string): *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/createInlineButton.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/createInlineButton.ts#L25)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/createInlineButton.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/createInlineButton.ts#L25)*
 
 **Parameters:**
 
@@ -2277,7 +2277,7 @@ ___
 
 ▸ **createIsActive**(`format`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L32)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L32)*
 
 **Parameters:**
 
@@ -2289,7 +2289,7 @@ Name | Type |
 
 ▸ **createIsActive**(`format`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L22)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L22)*
 
 **Parameters:**
 
@@ -2301,7 +2301,7 @@ Name | Type |
 
 ▸ **createIsActive**(`format`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L34)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:34](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L34)*
 
 **Parameters:**
 
@@ -2317,7 +2317,7 @@ ___
 
 ▸ **createItalicDeserializer**(): *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L26)*
+*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:26](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L26)*
 
 **Returns:** *object*
 
@@ -2331,7 +2331,7 @@ ___
 
 ▸ **createLeafRenderPlugin**(`__namedParameters`: object): *object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/render/index.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/render/index.tsx#L40)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/render/index.tsx:40](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/render/index.tsx#L40)*
 
 **Parameters:**
 
@@ -2354,7 +2354,7 @@ ___
 
 ▸ **createLinkDeserializer**(`__namedParameters`: object): *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L34)*
+*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:34](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L34)*
 
 **Parameters:**
 
@@ -2382,7 +2382,7 @@ ___
 
 ▸ **createMarkButton**(`markType`: string, `icon`: string): *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/createMarkButton.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/mark/createMarkButton.ts#L25)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/createMarkButton.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/mark/createMarkButton.ts#L25)*
 
 **Parameters:**
 
@@ -2399,7 +2399,7 @@ ___
 
 ▸ **createPluginButton**(`props`: [Opts](globals.md#opts)): *ComponentClass‹object & object, any› & object | FunctionComponent‹object & object› & object*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx:61](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx#L61)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx:61](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx#L61)*
 
 **Parameters:**
 
@@ -2415,7 +2415,7 @@ ___
 
 ▸ **createStrikeDeserializer**(): *object*
 
-*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:51](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L51)*
+*Defined in [packages/bodiless-richtext/src/serializers/defaultDeserializers.ts:51](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/defaultDeserializers.ts#L51)*
 
 **Returns:** *object*
 
@@ -2429,7 +2429,7 @@ ___
 
 ▸ **createToggleBlock**(`blockType`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:77](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L77)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:77](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L77)*
 
 **Parameters:**
 
@@ -2445,7 +2445,7 @@ ___
 
 ▸ **createToggleInline**(`inlineType`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:137](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L137)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:137](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L137)*
 
 **Parameters:**
 
@@ -2461,7 +2461,7 @@ ___
 
 ▸ **createToggleMark**(`format`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L27)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L27)*
 
 **Parameters:**
 
@@ -2477,7 +2477,7 @@ ___
 
 ▸ **customizer**(`objValue`: any, `srcValue`: any): *undefined | any[]*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L23)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L23)*
 
 **Parameters:**
 
@@ -2494,7 +2494,7 @@ ___
 
 ▸ **deserializeElement**(`__namedParameters`: object): *null | string | Element | (Editor | Element | Text)[]*
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:52](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L52)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:52](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L52)*
 
 **Parameters:**
 
@@ -2513,7 +2513,7 @@ ___
 
 ▸ **deserializeHtml**(`html`: string, `deserializers`: [Deserializers](globals.md#deserializers), `domParser?`: DOMParser): *(Editor | Element | Text)[]*
 
-*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:97](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L97)*
+*Defined in [packages/bodiless-richtext/src/serializers/htmlSerializer.ts:97](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/htmlSerializer.ts#L97)*
 
 **Parameters:**
 
@@ -2531,7 +2531,7 @@ ___
 
 ▸ **getDeserializers**(`components`: [RichTextComponents](globals.md#richtextcomponents)): *object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:260](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L260)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:260](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L260)*
 
 **Parameters:**
 
@@ -2547,7 +2547,7 @@ ___
 
 ▸ **getGlobalButton**(`Component`: [RichTextComponentWithGlobalButton](globals.md#richtextcomponentwithglobalbutton)): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:167](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L167)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:167](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L167)*
 
 **Parameters:**
 
@@ -2563,7 +2563,7 @@ ___
 
 ▸ **getGlobalButtons**(`components`: [RichTextComponents](globals.md#richtextcomponents)): *undefined | (Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:248](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L248)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:248](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L248)*
 
 **Parameters:**
 
@@ -2579,7 +2579,7 @@ ___
 
 ▸ **getHoverButton**‹**P**›(`Component`: [HoverButton](globals.md#hoverbutton)): *ComponentClass‹object, any› | FunctionComponent‹object›*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:147](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L147)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:147](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L147)*
 
 **Type parameters:**
 
@@ -2599,7 +2599,7 @@ ___
 
 ▸ **getHoverButtons**(`Components`: [RichTextComponents](globals.md#richtextcomponents)): *(ComponentClass‹object, any› | FunctionComponent‹object›)[]*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:159](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L159)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:159](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L159)*
 
 **Parameters:**
 
@@ -2615,7 +2615,7 @@ ___
 
 ▸ **getInlineButtons**(`components`: [RichTextComponents](globals.md#richtextcomponents)): *(ComponentClass‹any, any› & object | FunctionComponent‹any› & object)[]*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:232](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L232)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:232](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L232)*
 
 **Parameters:**
 
@@ -2631,7 +2631,7 @@ ___
 
 ▸ **getPlugins**(`components`: [RichTextComponents](globals.md#richtextcomponents)): *(object | object)[]*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:134](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L134)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:134](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L134)*
 
 **Parameters:**
 
@@ -2647,7 +2647,7 @@ ___
 
 ▸ **getRenderPlugin**‹**P**›(`Component`: [RenderPluginComponent](globals.md#renderplugincomponent)): *object | object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:99](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L99)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:99](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L99)*
 
 **Type parameters:**
 
@@ -2667,7 +2667,7 @@ ___
 
 ▸ **getReturnFocusItem**(): *null | string*
 
-*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L28)*
+*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L28)*
 
 **Returns:** *null | string*
 
@@ -2677,7 +2677,7 @@ ___
 
 ▸ **getSelectorButton**‹**P**›(`Component`: [RichTextComponent](globals.md#richtextcomponent)): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:197](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L197)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:197](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L197)*
 
 **Type parameters:**
 
@@ -2697,7 +2697,7 @@ ___
 
 ▸ **getSelectorButtons**(`components`: [RichTextComponents](globals.md#richtextcomponents)): *(Anonymous function)[]*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:239](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L239)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemGetters.tsx:239](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemGetters.tsx#L239)*
 
 **Parameters:**
 
@@ -2713,7 +2713,7 @@ ___
 
 ▸ **getUI**(`ui`: [UI](globals.md#ui) & [PreviewUI](globals.md#previewui)): *object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L44)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:44](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L44)*
 
 **Parameters:**
 
@@ -2725,7 +2725,7 @@ Name | Type | Default |
 
 ▸ **getUI**(`ui`: [UI](globals.md#ui)): *object*
 
-*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L34)*
+*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L34)*
 
 **Parameters:**
 
@@ -2741,7 +2741,7 @@ ___
 
 ▸ **hasBlock**(`format`: string, `editor`: Editor): *boolean*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L32)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:32](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L32)*
 
 **Parameters:**
 
@@ -2758,7 +2758,7 @@ ___
 
 ▸ **hasInline**(`format`: string, `editor`: Editor): *boolean*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:36](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L36)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:36](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L36)*
 
 **Parameters:**
 
@@ -2775,7 +2775,7 @@ ___
 
 ▸ **hasMark**(`format`: string, `editor`: Editor): *boolean*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:45](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L45)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:45](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L45)*
 
 **Parameters:**
 
@@ -2792,7 +2792,7 @@ ___
 
 ▸ **insertBlock**(`__namedParameters`: object): *void*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:54](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L54)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:54](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L54)*
 
 **Parameters:**
 
@@ -2811,7 +2811,7 @@ ___
 
 ▸ **insertInline**(`__namedParameters`: object): *void*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:107](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L107)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:107](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L107)*
 
 **Parameters:**
 
@@ -2830,7 +2830,7 @@ ___
 
 ▸ **isBlockActive**(`editor`: Editor, `format`: string): *boolean*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L18)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L18)*
 
 **Parameters:**
 
@@ -2847,7 +2847,7 @@ ___
 
 ▸ **isInlineActive**(`editor`: Editor, `format`: string): *boolean*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L18)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L18)*
 
 **Parameters:**
 
@@ -2864,7 +2864,7 @@ ___
 
 ▸ **isMarkActive**(`editor`: Editor, `format`: string): *boolean*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L17)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:17](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L17)*
 
 **Parameters:**
 
@@ -2881,7 +2881,7 @@ ___
 
 ▸ **migrateElementNode**(`node`: [Node](globals.md#node)): *object*
 
-*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:73](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withDataMigrator.tsx#L73)*
+*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:73](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withDataMigrator.tsx#L73)*
 
 **Parameters:**
 
@@ -2913,7 +2913,7 @@ ___
 
 ▸ **migrateNode**(`oldNode`: [Node](globals.md#node)): *object*
 
-*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:84](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withDataMigrator.tsx#L84)*
+*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:84](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withDataMigrator.tsx#L84)*
 
 **Parameters:**
 
@@ -2945,7 +2945,7 @@ ___
 
 ▸ **migrateTextNode**(`oldNode`: [Node](globals.md#node)): *object*
 
-*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:59](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withDataMigrator.tsx#L59)*
+*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:59](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withDataMigrator.tsx#L59)*
 
 **Parameters:**
 
@@ -2977,7 +2977,7 @@ ___
 
 ▸ **removeInline**(`editor`: Editor, `inlineType`: string): *void*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:43](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L43)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:43](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L43)*
 
 **Parameters:**
 
@@ -2994,7 +2994,7 @@ ___
 
 ▸ **removeLeaves**(`nodes`: [Node](globals.md#node)[]): *object[]*
 
-*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withDataMigrator.tsx#L32)*
+*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:32](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withDataMigrator.tsx#L32)*
 
 **Parameters:**
 
@@ -3010,7 +3010,7 @@ ___
 
 ▸ **renderElement**(`props`: RenderElementProps): *Element‹›*
 
-*Defined in [packages/bodiless-richtext/src/core/Content.tsx:62](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/Content.tsx#L62)*
+*Defined in [packages/bodiless-richtext/src/core/Content.tsx:62](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/Content.tsx#L62)*
 
 **Parameters:**
 
@@ -3026,7 +3026,7 @@ ___
 
 ▸ **renderLeaf**(`props`: RenderLeafProps): *Element‹›*
 
-*Defined in [packages/bodiless-richtext/src/core/Content.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/Content.tsx#L47)*
+*Defined in [packages/bodiless-richtext/src/core/Content.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/Content.tsx#L47)*
 
 **Parameters:**
 
@@ -3042,7 +3042,7 @@ ___
 
 ▸ **serialize**(`nodes`: [Node](globals.md#node)[]): *string*
 
-*Defined in [packages/bodiless-richtext/src/RichTextPlain.tsx:27](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextPlain.tsx#L27)*
+*Defined in [packages/bodiless-richtext/src/RichTextPlain.tsx:27](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextPlain.tsx#L27)*
 
 **`todo`** make delimiter configurable similar to how it was done in slate-plain-serializer
 
@@ -3062,7 +3062,7 @@ ___
 
 ▸ **setReturnFocusItem**(`item`: [ReturnFocusItem](globals.md#returnfocusitem)): *void*
 
-*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:27](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L27)*
+*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:27](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L27)*
 
 **Parameters:**
 
@@ -3078,7 +3078,7 @@ ___
 
 ▸ **toggleBlock**(`__namedParameters`: object): *void*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:66](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L66)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts:66](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/block/blockUtils.ts#L66)*
 
 **Parameters:**
 
@@ -3097,7 +3097,7 @@ ___
 
 ▸ **toggleInline**(`__namedParameters`: object): *void*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:121](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L121)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:121](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L121)*
 
 **Parameters:**
 
@@ -3116,7 +3116,7 @@ ___
 
 ▸ **toggleMark**(`__namedParameters`: object): *void*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:41](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L41)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts:41](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/mark/markUtils.ts#L41)*
 
 **Parameters:**
 
@@ -3135,7 +3135,7 @@ ___
 
 ▸ **updateInline**(`__namedParameters`: object): *void*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:88](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L88)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:88](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L88)*
 
 **Parameters:**
 
@@ -3156,7 +3156,7 @@ ___
 
 ▸ **updateMenu**(`menu`: HTMLElement | null, `editor`: ReactEditor): *void*
 
-*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:42](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L42)*
+*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:42](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L42)*
 
 Update the menu's absolute position.
 
@@ -3175,7 +3175,7 @@ ___
 
 ▸ **useInitialValue**(`initialValue?`: [Value](globals.md#value)): *(Editor | Element | Text)[]*
 
-*Defined in [packages/bodiless-richtext/src/useInitialValue.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useInitialValue.ts#L22)*
+*Defined in [packages/bodiless-richtext/src/useInitialValue.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useInitialValue.ts#L22)*
 
 hooks that can be used to get initialValue for the editor
 
@@ -3193,7 +3193,7 @@ ___
 
 ▸ **useIsEditableAndEmpty**(): *boolean*
 
-*Defined in [packages/bodiless-richtext/src/core/Content.tsx:82](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/Content.tsx#L82)*
+*Defined in [packages/bodiless-richtext/src/core/Content.tsx:82](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/Content.tsx#L82)*
 
 **Returns:** *boolean*
 
@@ -3203,7 +3203,7 @@ ___
 
 ▸ **useIsEmptyEditor**(): *boolean*
 
-*Defined in [packages/bodiless-richtext/src/core/Content.tsx:77](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/Content.tsx#L77)*
+*Defined in [packages/bodiless-richtext/src/core/Content.tsx:77](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/Content.tsx#L77)*
 
 **Returns:** *boolean*
 
@@ -3213,7 +3213,7 @@ ___
 
 ▸ **useKeyBoardShortcut**(`Component`: [RichTextComponent](globals.md#richtextcomponent)): *object*
 
-*Defined in [packages/bodiless-richtext/src/useKeyBoardShortcuts.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useKeyBoardShortcuts.ts#L25)*
+*Defined in [packages/bodiless-richtext/src/useKeyBoardShortcuts.ts:25](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useKeyBoardShortcuts.ts#L25)*
 
 **Parameters:**
 
@@ -3233,7 +3233,7 @@ ___
 
 ▸ **useKeyBoardShortcuts**(`props`: [UseKeyBoardShortcuts](globals.md#usekeyboardshortcuts)): *object*
 
-*Defined in [packages/bodiless-richtext/src/useKeyBoardShortcuts.ts:50](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useKeyBoardShortcuts.ts#L50)*
+*Defined in [packages/bodiless-richtext/src/useKeyBoardShortcuts.ts:50](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useKeyBoardShortcuts.ts#L50)*
 
 **Parameters:**
 
@@ -3251,13 +3251,13 @@ ___
 
 ▸ **useMenuOptions**(): *object[]*
 
-*Defined in [packages/bodiless-richtext/src/Float.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Float.tsx#L41)*
+*Defined in [packages/bodiless-richtext/src/Float.tsx:41](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Float.tsx#L41)*
 
 **Returns:** *object[]*
 
 ▸ **useMenuOptions**(`props`: [UseMenuOptionsProps](globals.md#usemenuoptionsprops)): *any*
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:169](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L169)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:169](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L169)*
 
 **Parameters:**
 
@@ -3273,7 +3273,7 @@ ___
 
 ▸ **useNodeStateHandlers**(`__namedParameters`: object): *object*
 
-*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:83](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L83)*
+*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:83](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L83)*
 
 **Parameters:**
 
@@ -3301,7 +3301,7 @@ ___
 
 ▸ **useOnChange**(`__namedParameters`: object): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:48](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L48)*
+*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:48](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L48)*
 
 **Parameters:**
 
@@ -3320,7 +3320,7 @@ ___
 
 ▸ **useReturnFocusBackOnEffect**(`itemId`: string): *object*
 
-*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:80](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L80)*
+*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:80](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L80)*
 
 **Parameters:**
 
@@ -3338,7 +3338,7 @@ ___
 
 ▸ **useRichtextPlainSerializer**(): *string*
 
-*Defined in [packages/bodiless-richtext/src/RichTextPlain.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextPlain.tsx#L29)*
+*Defined in [packages/bodiless-richtext/src/RichTextPlain.tsx:29](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextPlain.tsx#L29)*
 
 **Returns:** *string*
 
@@ -3348,7 +3348,7 @@ ___
 
 ▸ **useSlateContext**(): *null | object*
 
-*Defined in [packages/bodiless-richtext/src/core/SlateEditorContext.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/SlateEditorContext.ts#L20)*
+*Defined in [packages/bodiless-richtext/src/core/SlateEditorContext.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/SlateEditorContext.ts#L20)*
 
 **Returns:** *null | object*
 
@@ -3358,7 +3358,7 @@ ___
 
 ▸ **useUI**(): *object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L50)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:50](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L50)*
 
 **Returns:** *object*
 
@@ -3380,7 +3380,7 @@ ___
 
 ▸ **useValue**(): *(Editor | Element | Text)[]*
 
-*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:78](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L78)*
+*Defined in [packages/bodiless-richtext/src/useNodeStateHandlers.ts:78](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/useNodeStateHandlers.ts#L78)*
 
 **Returns:** *(Editor | Element | Text)[]*
 
@@ -3390,7 +3390,7 @@ ___
 
 ▸ **withButton**(`icon`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:107](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L107)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:107](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L107)*
 
 withButton will return a function that will add a hover or global button depending on the type.
 
@@ -3408,7 +3408,7 @@ ___
 
 ▸ **withComponent**‹**P**, **Q**›(`Component`: ComponentType‹P›): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:45](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L45)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:45](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L45)*
 
 With Component returns a function that will add the provided Componet to a RichTextItem.
 
@@ -3432,7 +3432,7 @@ ___
 
 ▸ **withDataMigrator**(`Component`: any): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:91](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withDataMigrator.tsx#L91)*
+*Defined in [packages/bodiless-richtext/src/withDataMigrator.tsx:91](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withDataMigrator.tsx#L91)*
 
 **Parameters:**
 
@@ -3448,7 +3448,7 @@ ___
 
 ▸ **withDefaults**(`components`: DesignableComponents): *object*
 
-*Defined in [packages/bodiless-richtext/src/withDefaults.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withDefaults.ts#L27)*
+*Defined in [packages/bodiless-richtext/src/withDefaults.ts:27](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withDefaults.ts#L27)*
 
 ensure the componets have a type (we default to mark) as well as ensuring there is an id
 
@@ -3468,7 +3468,7 @@ ___
 
 ▸ **withEditorSettings**(`components`: [RichTextComponents](globals.md#richtextcomponents)): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:208](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L208)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:208](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L208)*
 
 **Parameters:**
 
@@ -3484,7 +3484,7 @@ ___
 
 ▸ **withFloatWrapper**‹**P**›(`Component`: ComponentType‹P›): *FunctionComponent‹P›*
 
-*Defined in [packages/bodiless-richtext/src/Float.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/Float.tsx#L30)*
+*Defined in [packages/bodiless-richtext/src/Float.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/Float.tsx#L30)*
 
 **Type parameters:**
 
@@ -3504,7 +3504,7 @@ ___
 
 ▸ **withGlobalButton**(`icon`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:95](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L95)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:95](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L95)*
 
 withGlobalButton will return a function that will add a GlobalButton to a RichTextItem.
 
@@ -3522,7 +3522,7 @@ ___
 
 ▸ **withHoverButton**(`icon`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:100](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L100)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:100](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L100)*
 
 withHoverButton will return a function that will add a HoverButton to a RichTextItem.
 
@@ -3540,7 +3540,7 @@ ___
 
 ▸ **withHtmlDeserializer**(`deserializer`: [Deserializer](globals.md#deserializer)): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:112](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L112)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:112](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L112)*
 
 adds html deserializer to a given RichTextItem based component
 
@@ -3558,7 +3558,7 @@ ___
 
 ▸ **withHtmlPaste**(`components`: [RichTextComponents](globals.md#richtextcomponents)): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/withHtmlPaste.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withHtmlPaste.tsx#L21)*
+*Defined in [packages/bodiless-richtext/src/withHtmlPaste.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withHtmlPaste.tsx#L21)*
 
 **Parameters:**
 
@@ -3574,7 +3574,7 @@ ___
 
 ▸ **withId**(`id`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:88](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L88)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:88](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L88)*
 
 withId will return a function that will add a Id to a RichTextItem.
 
@@ -3592,7 +3592,7 @@ ___
 
 ▸ **withKey**(`key`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:81](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L81)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:81](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L81)*
 
 withKey will return a function that will add a keyboardKey to a RichTextItem.
 
@@ -3610,7 +3610,7 @@ ___
 
 ▸ **withMeta**(`meta`: Object): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L38)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L38)*
 
 withMeta creates an HOC that will add meta data to a React Component
 
@@ -3628,7 +3628,7 @@ ___
 
 ▸ **withNodeStateHandlers**(`Component`: ComponentType‹[RichTextProps](globals.md#richtextprops)›): *FunctionComponent‹object & object & object›*
 
-*Defined in [packages/bodiless-richtext/src/withNodeStateHandlers.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withNodeStateHandlers.tsx#L21)*
+*Defined in [packages/bodiless-richtext/src/withNodeStateHandlers.tsx:21](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withNodeStateHandlers.tsx#L21)*
 
 **Parameters:**
 
@@ -3644,7 +3644,7 @@ ___
 
 ▸ **withOutMeta**‹**P**›(`Component`: [CTWM](globals.md#ctwm)): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L33)*
+*Defined in [packages/bodiless-richtext/src/RichTextItemSetters.tsx:33](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextItemSetters.tsx#L33)*
 
 **Type parameters:**
 
@@ -3664,7 +3664,7 @@ ___
 
 ▸ **withReturnFocusBackOnClick**(`itemId`: string): *Token‹[Props](globals.md#props)›*
 
-*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L54)*
+*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:54](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L54)*
 
 **Parameters:**
 
@@ -3680,7 +3680,7 @@ ___
 
 ▸ **withReturnFocusBackOnEffect**(`itemId`: string): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L34)*
+*Defined in [packages/bodiless-richtext/src/withReturnFocusBack.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/withReturnFocusBack.tsx#L34)*
 
 **Parameters:**
 
@@ -3696,7 +3696,7 @@ ___
 
 ▸ **withRichtextPlainSerializer$**(`Component`: ComponentType): *WithRichtextPlainSerializer*
 
-*Defined in [packages/bodiless-richtext/src/RichTextPlain.tsx:35](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextPlain.tsx#L35)*
+*Defined in [packages/bodiless-richtext/src/RichTextPlain.tsx:35](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextPlain.tsx#L35)*
 
 **Parameters:**
 
@@ -3712,7 +3712,7 @@ ___
 
 ▸ **withSlateActivator**(`Component`: "symbol" | "object" | "a" | "abbr" | "address" | "area" | "article" | "aside" | "audio" | "b" | "base" | "bdi" | "bdo" | "big" | "blockquote" | "body" | "br" | "button" | "canvas" | "caption" | "cite" | "code" | "col" | "colgroup" | "data" | "datalist" | "dd" | "del" | "details" | "dfn" | "dialog" | "div" | "dl" | "dt" | "em" | "embed" | "fieldset" | "figcaption" | "figure" | "footer" | "form" | "h1" | "h2" | "h3" | "h4" | "h5" | "h6" | "head" | "header" | "hgroup" | "hr" | "html" | "i" | "iframe" | "img" | "input" | "ins" | "kbd" | "keygen" | "label" | "legend" | "li" | "link" | "main" | "map" | "mark" | "menu" | "menuitem" | "meta" | "meter" | "nav" | "noindex" | "noscript" | "ol" | "optgroup" | "option" | "output" | "p" | "param" | "picture" | "pre" | "progress" | "q" | "rp" | "rt" | "ruby" | "s" | "samp" | "slot" | "script" | "section" | "select" | "small" | "source" | "span" | "strong" | "style" | "sub" | "summary" | "sup" | "table" | "template" | "tbody" | "td" | "textarea" | "tfoot" | "th" | "thead" | "time" | "title" | "tr" | "track" | "u" | "ul" | "var" | "video" | "wbr" | "webview" | "svg" | "animate" | "animateMotion" | "animateTransform" | "circle" | "clipPath" | "defs" | "desc" | "ellipse" | "feBlend" | "feColorMatrix" | "feComponentTransfer" | "feComposite" | "feConvolveMatrix" | "feDiffuseLighting" | "feDisplacementMap" | "feDistantLight" | "feDropShadow" | "feFlood" | "feFuncA" | "feFuncB" | "feFuncG" | "feFuncR" | "feGaussianBlur" | "feImage" | "feMerge" | "feMergeNode" | "feMorphology" | "feOffset" | "fePointLight" | "feSpecularLighting" | "feSpotLight" | "feTile" | "feTurbulence" | "filter" | "foreignObject" | "g" | "image" | "line" | "linearGradient" | "marker" | "mask" | "metadata" | "mpath" | "path" | "pattern" | "polygon" | "polyline" | "radialGradient" | "rect" | "stop" | "switch" | "text" | "textPath" | "tspan" | "use" | "view" | ComponentClass‹P, any› & object | FunctionComponent‹P› & object): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:127](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L127)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:127](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L127)*
 
 **Parameters:**
 
@@ -3728,7 +3728,7 @@ ___
 
 ▸ **withSlateEditor**‹**P**›(`Component`: ComponentType‹P›): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/core/SlateEditor.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/SlateEditor.tsx#L36)*
+*Defined in [packages/bodiless-richtext/src/core/SlateEditor.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/SlateEditor.tsx#L36)*
 
 **Type parameters:**
 
@@ -3748,7 +3748,7 @@ ___
 
 ▸ **withSlateSchema**‹**P**›(`Component`: ComponentType‹P›): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:107](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L107)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:107](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L107)*
 
 **Type parameters:**
 
@@ -3768,7 +3768,7 @@ ___
 
 ▸ **withToggle**(`opts`: [Opts](globals.md#opts)): *Token‹object, [requiredProps](globals.md#requiredprops), object›*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx:35](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx#L35)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx:35](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/createPluginButton.tsx#L35)*
 
 **Parameters:**
 
@@ -3784,7 +3784,7 @@ ___
 
 ▸ **withWrapper**(`WrapperComponent`: ComponentType‹any›): *(Anonymous function)*
 
-*Defined in [packages/bodiless-richtext/src/core/Content.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/Content.tsx#L39)*
+*Defined in [packages/bodiless-richtext/src/core/Content.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/Content.tsx#L39)*
 
 **Parameters:**
 
@@ -3800,7 +3800,7 @@ ___
 
 ▸ **wrapInline**(`editor`: Editor, `inlineType`: string, `data`: [DataJSON](globals.md#datajson)): *void*
 
-*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:48](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L48)*
+*Defined in [packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts:48](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/plugin-factory/inline/inlineUtils.ts#L48)*
 
 **Parameters:**
 
@@ -3818,7 +3818,7 @@ ___
 
 ▸ **wrapTopLevelInlineNodesInParagraphs**(`fragment`: SlateNode[]): *(Editor | Element | Text)[]*
 
-*Defined in [packages/bodiless-richtext/src/serializers/wrapTopLevelInlineNodesInParagraphs.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/serializers/wrapTopLevelInlineNodesInParagraphs.ts#L22)*
+*Defined in [packages/bodiless-richtext/src/serializers/wrapTopLevelInlineNodesInParagraphs.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/serializers/wrapTopLevelInlineNodesInParagraphs.ts#L22)*
 
 leveraging https://github.com/ianstormtaylor/slate/issues/3457#issuecomment-577395255
 
@@ -3836,57 +3836,57 @@ Name | Type |
 
 ### ▪ **defaultUI**: *object*
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:20](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L20)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:20](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L20)*
 
-*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L26)*
+*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L26)*
 
 ###  Button
 
 • **Button**: *string* = "button"
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L23)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:23](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L23)*
 
 ###  ClickableWrapper
 
 • **ClickableWrapper**: *string* = "button"
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L26)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:26](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L26)*
 
 ###  CloseButton
 
 • **CloseButton**: *string* = "span"
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L25)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:25](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L25)*
 
 ###  Menu
 
 • **Menu**: *string* = "div"
 
-*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:27](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L27)*
+*Defined in [packages/bodiless-richtext/src/core/HoverMenu.tsx:27](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/core/HoverMenu.tsx#L27)*
 
 ###  Overlay
 
 • **Overlay**: *string* = "div"
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L24)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:24](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L24)*
 
 ###  PreviewWrapper
 
 • **PreviewWrapper**: *string* = "div"
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:27](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L27)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:27](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L27)*
 
 ###  TextSelectorWrapper
 
 • **TextSelectorWrapper**: *string* = "div"
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L28)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L28)*
 
 ###  HoverMenu
 
 ▸ **HoverMenu**(): *Element‹›*
 
-*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichTextContext.tsx#L22)*
+*Defined in [packages/bodiless-richtext/src/RichTextContext.tsx:22](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichTextContext.tsx#L22)*
 
 **Returns:** *Element‹›*
 
@@ -3896,13 +3896,13 @@ ___
 
 ### ▪ **lastDesign**: *object*
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:303](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L303)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:303](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L303)*
 
 ###  AlignCenter
 
 • **AlignCenter**: *function* = withAlignCenterMeta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:311](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L311)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:311](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L311)*
 
 #### Type declaration:
 
@@ -3918,7 +3918,7 @@ Name | Type |
 
 • **AlignJustify**: *function* = withAlignJustifyMeta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:312](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L312)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:312](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L312)*
 
 #### Type declaration:
 
@@ -3934,7 +3934,7 @@ Name | Type |
 
 • **AlignLeft**: *function* = withAlignLeftMeta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:309](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L309)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:309](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L309)*
 
 #### Type declaration:
 
@@ -3950,7 +3950,7 @@ Name | Type |
 
 • **AlignRight**: *function* = withAlignRightMeta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:310](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L310)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:310](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L310)*
 
 #### Type declaration:
 
@@ -3966,7 +3966,7 @@ Name | Type |
 
 • **Bold**: *function* = withBoldMeta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:305](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L305)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:305](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L305)*
 
 #### Type declaration:
 
@@ -3982,7 +3982,7 @@ Name | Type |
 
 • **H1**: *function* = withHeader1Meta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:313](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L313)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:313](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L313)*
 
 #### Type declaration:
 
@@ -3998,7 +3998,7 @@ Name | Type |
 
 • **H2**: *function* = withHeader2Meta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:314](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L314)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:314](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L314)*
 
 #### Type declaration:
 
@@ -4014,7 +4014,7 @@ Name | Type |
 
 • **H3**: *function* = withHeader3Meta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:315](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L315)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:315](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L315)*
 
 #### Type declaration:
 
@@ -4030,7 +4030,7 @@ Name | Type |
 
 • **Italic**: *function* = withItalicMeta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:306](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L306)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:306](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L306)*
 
 #### Type declaration:
 
@@ -4046,7 +4046,7 @@ Name | Type |
 
 • **Link**: *function* = withLinkMeta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:308](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L308)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:308](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L308)*
 
 #### Type declaration:
 
@@ -4062,7 +4062,7 @@ Name | Type |
 
 • **SuperScript**: *function* = withSuperScriptMeta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:304](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L304)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:304](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L304)*
 
 #### Type declaration:
 
@@ -4078,7 +4078,7 @@ Name | Type |
 
 • **Underline**: *function* = withUnderlineMeta
 
-*Defined in [packages/bodiless-richtext/src/RichText.tsx:307](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-richtext/src/RichText.tsx#L307)*
+*Defined in [packages/bodiless-richtext/src/RichText.tsx:307](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-richtext/src/RichText.tsx#L307)*
 
 #### Type declaration:
 

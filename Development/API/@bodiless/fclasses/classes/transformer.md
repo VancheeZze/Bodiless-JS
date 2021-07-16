@@ -63,7 +63,7 @@
 
 *Overrides void*
 
-*Defined in [packages/fclasses/src/Design.tsx:269](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/fclasses/src/Design.tsx#L269)*
+*Defined in [packages/fclasses/src/Design.tsx:269](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/fclasses/src/Design.tsx#L269)*
 
 **Parameters:**
 
@@ -103,7 +103,7 @@ ___
 
 • **fixedProps**: *Object*
 
-*Defined in [packages/fclasses/src/Design.tsx:269](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/fclasses/src/Design.tsx#L269)*
+*Defined in [packages/fclasses/src/Design.tsx:269](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/fclasses/src/Design.tsx#L269)*
 
 ___
 
@@ -486,7 +486,7 @@ ___
 
 *Overrides void*
 
-*Defined in [packages/fclasses/src/Design.tsx:277](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/fclasses/src/Design.tsx#L277)*
+*Defined in [packages/fclasses/src/Design.tsx:277](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/fclasses/src/Design.tsx#L277)*
 
 **Returns:** *Element‹›*
 

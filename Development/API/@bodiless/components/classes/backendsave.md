@@ -30,7 +30,7 @@
 
 \+ **new BackendSave**(`baseUrl?`: undefined | string, `prefix?`: undefined | string): *[BackendSave](backendsave.md)*
 
-*Defined in [packages/bodiless-components/src/BackendSave.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/BackendSave.tsx#L34)*
+*Defined in [packages/bodiless-components/src/BackendSave.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/BackendSave.tsx#L34)*
 
 **Parameters:**
 
@@ -47,7 +47,7 @@ Name | Type |
 
 • **cancelTokenSource**: *CancelTokenSource*
 
-*Defined in [packages/bodiless-components/src/BackendSave.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/BackendSave.tsx#L34)*
+*Defined in [packages/bodiless-components/src/BackendSave.tsx:34](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/BackendSave.tsx#L34)*
 
 ___
 
@@ -55,7 +55,7 @@ ___
 
 • **prefix**: *string*
 
-*Defined in [packages/bodiless-components/src/BackendSave.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/BackendSave.tsx#L30)*
+*Defined in [packages/bodiless-components/src/BackendSave.tsx:30](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/BackendSave.tsx#L30)*
 
 ___
 
@@ -63,7 +63,7 @@ ___
 
 • **root**: *string*
 
-*Defined in [packages/bodiless-components/src/BackendSave.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/BackendSave.tsx#L28)*
+*Defined in [packages/bodiless-components/src/BackendSave.tsx:28](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/BackendSave.tsx#L28)*
 
 ## Methods
 
@@ -71,7 +71,7 @@ ___
 
 ▸ **cancel**(`reason`: string): *void*
 
-*Defined in [packages/bodiless-components/src/BackendSave.tsx:65](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/BackendSave.tsx#L65)*
+*Defined in [packages/bodiless-components/src/BackendSave.tsx:65](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/BackendSave.tsx#L65)*
 
 **Parameters:**
 
@@ -87,7 +87,7 @@ ___
 
 ▸ **post**‹**T**›(`resourcePath`: string, `data`: any, `config`: any): *Promise‹AxiosResponse‹T››*
 
-*Defined in [packages/bodiless-components/src/BackendSave.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/BackendSave.tsx#L47)*
+*Defined in [packages/bodiless-components/src/BackendSave.tsx:47](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/BackendSave.tsx#L47)*
 
 **Type parameters:**
 
@@ -109,7 +109,7 @@ ___
 
 ▸ **saveFile**(`options`: [FileOptions](../globals.md#fileoptions)): *Promise‹AxiosResponse‹[ServerData](../interfaces/serverdata.md)››*
 
-*Defined in [packages/bodiless-components/src/BackendSave.tsx:51](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/BackendSave.tsx#L51)*
+*Defined in [packages/bodiless-components/src/BackendSave.tsx:51](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/BackendSave.tsx#L51)*
 
 **Parameters:**
 

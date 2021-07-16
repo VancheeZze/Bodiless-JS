@@ -18,7 +18,7 @@
 
 • **DragOrClickToUpload**: = "Drag a file or click here to upload."
 
-*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L36)*
+*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:36](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L36)*
 
 ___
 
@@ -26,7 +26,7 @@ ___
 
 • **FileRejected**: = "File type not accepted or too many, try again!"
 
-*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:35](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L35)*
+*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:35](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L35)*
 
 ___
 
@@ -34,7 +34,7 @@ ___
 
 • **UploadFinished**: = "Done!"
 
-*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L39)*
+*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:39](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L39)*
 
 ___
 
@@ -42,7 +42,7 @@ ___
 
 • **UploadTimeout**: = "Upload failed, please try again."
 
-*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L38)*
+*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:38](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L38)*
 
 ___
 
@@ -50,4 +50,4 @@ ___
 
 • **Uploading**: = "Upload is in progress"
 
-*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L37)*
+*Defined in [packages/bodiless-components/src/FileUpload/FileUpload.tsx:37](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/bodiless-components/src/FileUpload/FileUpload.tsx#L37)*

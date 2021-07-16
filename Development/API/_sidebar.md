@@ -8,6 +8,7 @@
 * [@bodiless/core](/Development/API/@bodiless/core/globals)
 * [@bodiless/core-ui](/Development/API/@bodiless/core-ui/globals)
 * [@bodiless/fclasses](/Development/API/@bodiless/fclasses/globals)
+* [@bodiless/filtering](/Development/API/@bodiless/filtering/globals)
 * [@bodiless/gatsby-theme-bodiless](/Development/API/@bodiless/gatsby-theme-bodiless/globals)
 * [@bodiless/layouts](/Development/API/@bodiless/layouts/globals)
 * [@bodiless/organisms](/Development/API/@bodiless/organisms/globals)

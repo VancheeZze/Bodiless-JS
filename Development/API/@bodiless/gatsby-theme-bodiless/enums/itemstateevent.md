@@ -20,7 +20,7 @@
 
 • **DeleteFromBrowser**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/gatsby-theme-bodiless/src/dist/types.ts#L20)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:20](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/gatsby-theme-bodiless/src/dist/types.ts#L20)*
 
 ___
 
@@ -28,7 +28,7 @@ ___
 
 • **OnLockTimeout**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/gatsby-theme-bodiless/src/dist/types.ts#L21)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:21](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/gatsby-theme-bodiless/src/dist/types.ts#L21)*
 
 ___
 
@@ -36,7 +36,7 @@ ___
 
 • **OnRequestEnd**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/gatsby-theme-bodiless/src/dist/types.ts#L22)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:22](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/gatsby-theme-bodiless/src/dist/types.ts#L22)*
 
 ___
 
@@ -44,7 +44,7 @@ ___
 
 • **OnRequestError**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/gatsby-theme-bodiless/src/dist/types.ts#L24)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:24](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/gatsby-theme-bodiless/src/dist/types.ts#L24)*
 
 ___
 
@@ -52,7 +52,7 @@ ___
 
 • **OnRequestStart**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:23](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/gatsby-theme-bodiless/src/dist/types.ts#L23)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:23](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/gatsby-theme-bodiless/src/dist/types.ts#L23)*
 
 ___
 
@@ -60,7 +60,7 @@ ___
 
 • **UpdateFromBrowser**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:19](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/gatsby-theme-bodiless/src/dist/types.ts#L19)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:19](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/gatsby-theme-bodiless/src/dist/types.ts#L19)*
 
 ___
 
@@ -68,4 +68,4 @@ ___
 
 • **UpdateFromServer**:
 
-*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/e8581c8a/packages/gatsby-theme-bodiless/src/dist/types.ts#L18)*
+*Defined in [packages/gatsby-theme-bodiless/src/dist/types.ts:18](https://github.com/VancheeZze/Bodiless-JS/blob/20bd3e1a/packages/gatsby-theme-bodiless/src/dist/types.ts#L18)*
